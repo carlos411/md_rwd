@@ -16,8 +16,6 @@
 
 張互賓/Carlos
 
-* line id：hubin0411
-* FB：[https://www.facebook.com/hubin](https://www.facebook.com/hubin)
 * 個人部落格：[https://carlos-studio.com](https://carlos-studio.com)
 * 設計好網站粉專：[https://www.facebook.com/webmix.cc​](https://www.facebook.com/webmix.cc​)
 * 公司官網：[http://webmix.cc](http://webmix.cc)
