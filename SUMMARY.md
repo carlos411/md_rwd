@@ -9,7 +9,7 @@
 ## 設計概念 <a id="she-ji-gai-nian-typography"></a>
 
 * [字體排版 Typography](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/README.md)
-  * [字型](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/zi-xing.md)
+  * [字體](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/zi-xing.md)
   * [文字縮排、間距](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/wen-zi-su-pai-jian-ju.md)
   * [文字對齊](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/wen-zi-dui-qi.md)
   * [垂直文字對齊](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/chui-zhi-wen-zi-dui-qi.md)
