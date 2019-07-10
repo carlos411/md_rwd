@@ -12,13 +12,3 @@
 * 對網站前端工程領域有興趣。
 * 已經學習過基礎的 HTML、CSS，想進一步瞭解 RWD 主題。
 
-## 講者聯絡方式
-
-張互賓/Carlos
-
-* 個人部落格：[https://carlos-studio.com](https://carlos-studio.com)
-* 設計好網站粉專：[https://www.facebook.com/webmix.cc​](https://www.facebook.com/webmix.cc​)
-* 公司官網：[http://webmix.cc](http://webmix.cc)
-
-希望 讀者/學員 在網站前端的學習領域中，有遇到疑問，可直接與我聯繫，盼能協助各位在這領域上精進。
-
