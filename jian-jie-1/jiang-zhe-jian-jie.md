@@ -50,8 +50,6 @@ description: 張互賓 Carlos Chang
 * [矽谷創業家協會](https://sveat.org)
 * [臺南市政府圖片資料庫平台](https://p.tainan.gov.tw/)
 
-
-
 ## 聯絡方式
 
 張互賓/Carlos
