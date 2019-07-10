@@ -10,13 +10,13 @@
 
 ​如果網頁要使用其他特殊字體的話，該怎麼辦？沒有辦法，只能請設計師輸出成圖片，然後使用 `<img>` 標籤來在網頁上呈現。這實在非常的麻煩。
 
-## 自訂網頁字體 Custom Web Fonts
+## 自行定義網頁字體 Custom Web Fonts
 
 幸好，隨著瀏覽器的日益更新，開始支援了自訂網頁字體，也就是我們開發人員，可以透過 CSS 的 `@font-face` 語法，來告訴瀏覽器，去某伺服器下載字體吧。很讚。
 
 概念如下圖二：
 
-![&#x5716;&#x4E8C;&#xFF1A;&#x81EA;&#x8A02;&#x7DB2;&#x9801;&#x5B57;&#x9AD4; Custom Web Fonts](../../.gitbook/assets/custom_web_fonts.png)
+![&#x5716;&#x4E8C;&#xFF1A;&#x81EA;&#x884C;&#x5B9A;&#x7FA9;&#x7DB2;&#x9801;&#x5B57;&#x9AD4; Custom Web Fonts](../../.gitbook/assets/custom_web_fonts.png)
 
 但…依然出現了一個問題，就是每個瀏覽器所支援的字體格式不同……仍令人困擾。
 
