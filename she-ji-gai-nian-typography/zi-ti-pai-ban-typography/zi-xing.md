@@ -6,9 +6,9 @@
 
 概念如下圖：
 
-![](../../.gitbook/assets/web_safe_fonts.png)
+![&#x7DB2;&#x9801;&#x5B89;&#x5168;&#x5B57;&#x9AD4; Web Save Fonts](../../.gitbook/assets/web_safe_fonts.png)
 
-如果網頁要使用其他特殊字型的話，該怎麼辦？沒有辦法，只能請設計師輸出成圖片，然後使用 `<img>` 標籤來在網頁上呈現。這實在非常的麻煩。
+​如果網頁要使用其他特殊字型的話，該怎麼辦？沒有辦法，只能請設計師輸出成圖片，然後使用 `<img>` 標籤來在網頁上呈現。這實在非常的麻煩。
 
 ## 自訂網頁字體 Custom Web Fonts
 
