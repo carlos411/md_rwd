@@ -53,10 +53,10 @@
 
 ## 實際案例
 
-使用 Google Fonts 工具，載入字體：
+使用 Google Fonts 工具，載入 Noto Sans TC 思源黑體：
 
 ```css
-@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
 ```
 
 或
