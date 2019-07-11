@@ -49,7 +49,7 @@
 * [Google Fonts](https://fonts.google.com)
 * [Font Squirrel](https://www.fontsquirrel.com/)
 
-下載的檔案一般可能會是 .ttf \(True Type\) 或 .otf \(Open Type\) 格式，如果想要自己儲存這些字體的話，需再透過字體轉檔工具轉成比較符合網頁在用的字體格式\(WOFF、WOFF2等\)。
+下載的檔案一般可能會是 .ttf \(True Type\) 或 .otf \(Open Type\) 格式，如果是網頁上要用的話，且又想要自己儲存在伺服器做保管，那就需要再透過字體轉檔工具轉成比較符合網頁在用的字體格式\(WOFF、WOFF2等\)。
 
 ## 實際案例
 
