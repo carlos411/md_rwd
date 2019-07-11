@@ -44,7 +44,32 @@
 
 ![&#x5716;&#x56DB;&#xFF1A;&#x5927;&#x90E8;&#x4EFD;&#x700F;&#x89BD;&#x5668;&#x90FD;&#x652F;&#x63F4; WOFF &#x7684;&#x5B57;&#x9AD4;&#x683C;&#x5F0F;](../../.gitbook/assets/custom_web_fonts_woff_file.png)
 
+## 字型檔案去哪找
 
+* [Google Fonts](https://fonts.google.com)
+* [Font Squirrel](https://www.fontsquirrel.com/)
 
+下載的檔案一般可能會是 .ttf 或 .otf 格式，如果想要自己儲存這些字體的話，需再透過字體轉檔工具轉成比較符合網頁在用的字體格式\(WOFF、WOFF2等\)。
 
+## 實際案例
+
+使用 Google Fonts 工具，載入字體：
+
+```css
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+```
+
+或
+
+```markup
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap&subset=chinese-traditional" rel="stylesheet">
+```
+
+載入完後，就可以使用針對某元素來指定字體：
+
+```css
+body{
+  font-family: 'Noto Sans TC', '微軟正黑體', sans-serif;
+}
+```
 
