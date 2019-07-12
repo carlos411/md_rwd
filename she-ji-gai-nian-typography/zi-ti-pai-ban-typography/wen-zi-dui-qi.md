@@ -36,6 +36,10 @@ text-align: justify;
 
 ![&#x5716;&#x56DB;&#xFF1A;&#x6587;&#x5B57;&#x5DE6;&#x53F3;&#x9F4A;&#x884C;](../../.gitbook/assets/text_align_justify.png)
 
+{% hint style="info" %}
+justify 左右齊行，實際使用情況較少，因為會造成中間的字距有的寬、有的窄，所以請斟酌使用。
+{% endhint %}
+
 ## Code Pen 工具介紹
 
 範例：[https://codepen.io/carlos411/pen/MMxWwz](https://codepen.io/carlos411/pen/MMxWwz)
