@@ -51,15 +51,11 @@
 
 下載的檔案一般可能會是 .ttf \(True Type\) 或 .otf \(Open Type\) 格式，如果是網頁上要用的話，且又想要自己儲存在伺服器做保管，那就需要再透過字體轉檔工具轉成比較符合網頁在用的字體格式\(WOFF、WOFF2等\)。
 
-## 實際案例
+## 使用 Google Fonts 載入思源黑體
 
-使用 Google Fonts 工具，載入 Noto Sans TC 思源黑體：
+使用 Google Fonts 工具，載入 [Noto Sans TC 思源黑體](https://fonts.google.com/?subset=chinese-traditional&selection.family=Noto+Sans+TC)：
 
-```css
-@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
-```
-
-或
+![&#x5716;&#x4E94;&#xFF1A;&#x4F7F;&#x7528; Google Fonts &#x8F09;&#x5165;&#x601D;&#x6E90;&#x9ED1;&#x9AD4;](../../.gitbook/assets/noto_sans_tc.png)
 
 ```markup
 <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap&subset=chinese-traditional" rel="stylesheet">
