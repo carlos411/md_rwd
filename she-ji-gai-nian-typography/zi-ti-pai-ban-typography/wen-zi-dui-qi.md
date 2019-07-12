@@ -36,7 +36,7 @@ text-align: justify;
 
 ![&#x5716;&#x56DB;&#xFF1A;&#x6587;&#x5B57;&#x5DE6;&#x53F3;&#x9F4A;&#x884C;](../../.gitbook/assets/text_align_justify.png)
 
-## Code Pen 工具
+## Code Pen 工具介紹
 
-[https://codepen.io/carlos411/pen/MMxWwz](https://codepen.io/carlos411/pen/MMxWwz)
+範例：[https://codepen.io/carlos411/pen/MMxWwz](https://codepen.io/carlos411/pen/MMxWwz)
 
