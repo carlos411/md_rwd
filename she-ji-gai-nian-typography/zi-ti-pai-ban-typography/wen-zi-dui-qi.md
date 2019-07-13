@@ -1,8 +1,8 @@
----
-description: 'text-align: left | right | center | justify;'
----
+# 水平文字對齊
 
-# 文字對齊
+## 相關的 CSS
+
+* text-align
 
 ## 置左對齊
 
