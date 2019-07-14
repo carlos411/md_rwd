@@ -12,7 +12,7 @@
   * [字體](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/zi-xing.md)
   * [水平文字對齊](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/wen-zi-dui-qi.md)
   * [縱向文字間距](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/chui-zhi-wen-zi-dui-qi.md)
-  * [每行文字寬度](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/mei-hang-wen-zi-kuan-du.md)
+  * [每行內容寬度](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/mei-hang-wen-zi-kuan-du.md)
   * [其它準則](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/qi-ta-zhun-ze.md)
 * [格線系統 Grid System](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/README.md)
   * [配置螢幕寬度](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/pei-zhi-ying-mu-kuan-du.md)
