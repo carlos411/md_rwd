@@ -16,9 +16,9 @@
 這也是為什麼很多網站會採用固定內容寬度版型或多欄版型的原因。
 {% endhint %}
 
-## 範例
+## 範例：固定式、流動式
 
-[網頁：【長風講座】中美貿易戰及其影響](http://fairwindsfoundation.org/activity/%E9%95%B7%E9%A2%A8%E8%AC%9B%E5%BA%A7/3/%E3%80%90%E9%95%B7%E9%A2%A8%E8%AC%9B%E5%BA%A7%E3%80%91%E4%B8%AD%E7%BE%8E%E8%B2%BF%E6%98%93%E6%88%B0%E5%8F%8A%E5%85%B6%E5%BD%B1%E9%9F%BF/51)
+[範例頁面](http://fairwindsfoundation.org/activity/長風講座/3/【長風講座】中美貿易戰及其影響/51)
 
 {% embed url="https://youtu.be/SiQLODvDvgY" %}
 
