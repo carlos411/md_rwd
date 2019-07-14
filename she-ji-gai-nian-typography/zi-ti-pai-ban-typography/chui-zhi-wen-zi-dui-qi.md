@@ -2,8 +2,8 @@
 
 ## 相關的 CSS
 
-* margin-top \( 或 padding-top \)
-* margin-bottom \( 或 padding-bottom \)
+* margin-top、padding-top
+* margin-bottom、padding-bottom
 * line-height
 
 ## 原則
