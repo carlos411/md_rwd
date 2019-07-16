@@ -1,2 +1,2 @@
-# 媒體描述子 Media Descriptor
+# 媒體描述子 Media Features
 
