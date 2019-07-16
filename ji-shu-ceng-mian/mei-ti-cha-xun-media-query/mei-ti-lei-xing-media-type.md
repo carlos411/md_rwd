@@ -27,7 +27,7 @@ h1{
 }
 ```
 
-{% embed url="https://codepen.io/carlos411/pen/orKXpG" %}
+{% embed url="https://codepen.io/carlos411/pen/orKXpG" caption="Media Query 使用 Media Type 為 print\(列印時\)" %}
 
 
 
