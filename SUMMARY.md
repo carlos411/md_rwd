@@ -16,6 +16,7 @@
   * [參考資料](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/qi-ta-zhun-ze.md)
 * [格線系統 Grid System](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/README.md)
   * [觀念理解](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/pei-zhi-ying-mu-kuan-du.md)
+  * [實作：使用 sass 實作螢幕寬度區隔](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/shi-zuo-shi-yong-sass-shi-zuo-ying-mu-kuan-du-ou-ge.md)
 
 ## 技術層面
 
