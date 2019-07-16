@@ -1,4 +1,18 @@
 # 媒體查詢 Media Query
 
-![Media Query &#x8A9E;&#x6CD5;](../../.gitbook/assets/media_query_syntax.png)
+## 語法一
+
+```css
+@media 媒體類型 {
+  /* 其它 CSS */
+}
+```
+
+## 語法二
+
+```css
+@media 媒體類型 and (媒體描述) {
+  /* 其它 CSS */
+}
+```
 

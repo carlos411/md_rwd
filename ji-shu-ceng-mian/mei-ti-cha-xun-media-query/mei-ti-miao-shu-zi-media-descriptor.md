@@ -1,2 +1,2 @@
-# 媒體描述子 Media Features
+# 媒體描述 Media Features
 
