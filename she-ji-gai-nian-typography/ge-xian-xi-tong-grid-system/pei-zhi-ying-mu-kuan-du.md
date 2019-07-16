@@ -2,7 +2,9 @@
 
 ## 格線系統概念
 
-{% embed url="https://youtu.be/059iX4w2Tuk" %}
+{% embed url="https://youtu.be/CzrJevfojf4" %}
+
+
 
 ## 重點整理
 
