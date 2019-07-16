@@ -20,7 +20,7 @@
 
 [範例頁面](http://fairwindsfoundation.org/activity/長風講座/3/【長風講座】中美貿易戰及其影響/51)
 
-{% embed url="https://youtu.be/SiQLODvDvgY" %}
+{% embed url="https://youtu.be/SiQLODvDvgY" caption="內容區域，固定寬度版\(Fixed-Width Layout\)型與流動式版型\(Fluid Layout\)" %}
 
 RWD 思維：  
 在螢幕寬度較寬的時候，採用固定內容寬度的版型\( Fixed-Width Layout \)；  
