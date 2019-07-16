@@ -15,9 +15,7 @@
   * [每行內容寬度](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/mei-hang-wen-zi-kuan-du.md)
   * [參考資料](she-ji-gai-nian-typography/zi-ti-pai-ban-typography/qi-ta-zhun-ze.md)
 * [格線系統 Grid System](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/README.md)
-  * [配置螢幕寬度](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/pei-zhi-ying-mu-kuan-du.md)
-  * [列\(Row\)與欄\(Column\)的概念](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/lie-row-yu-lan-column-de-gai-nian.md)
-  * [間隙 Gutters](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/jian-xi-gutters.md)
+  * [觀念理解](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/pei-zhi-ying-mu-kuan-du.md)
 
 ## 技術層面
 
