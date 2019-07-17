@@ -33,14 +33,38 @@ h1{
 
 ## Media Type 的套用方式
 
-在 HTML 中：
+一般來說，沒有特別指定的話，Media Type 預設都是 all，也就是不管任何情況，都會套用。
+
+如果要指定 Media Type 的話，可按照以下方式來指定：
+
+在 HTML 中：\(主要是加上 `media` 屬性\)
+
+```markup
+<link type="text/css" href="abc.css" media="print">
+<style type="text/css" media="print">
+  /* 其它 CSS */
+</style>
+```
+
+如果是複數個 Media Type：
 
 ```markup
 <link type="text/css" href="abc.css" media="screen, print">
-<style type="text/css" media="screen, print">...</style>
+<style type="text/css" media="screen, print">
+  /* 其它 CSS */
+</style>
 ```
 
-在 CSS 中：
+在 CSS 中：\( `@import` 及 `@media` 語法\)
+
+```css
+@import url("abc.css") print;
+@media print {
+  /* 其它 CSS */
+}
+```
+
+如果是複數個 Media Type：
 
 ```css
 @import url("abc.css") screen, print;
