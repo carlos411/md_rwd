@@ -87,5 +87,7 @@ orientation 可以設定當手持裝置是橫向或縱向時，需要套用的 C
 
 {% embed url="https://codepen.io/carlos411/pen/RXbWQd" caption="示範 Media Query 的 orientation" %}
 
+{% embed url="https://youtu.be/IxyUOC7pE3M" caption="Media Query 中的 orientation 示範" %}
+
 
 
