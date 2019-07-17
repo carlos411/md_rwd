@@ -28,8 +28,6 @@
 
 當螢幕寬度小於等於 767px 時，`<a>` 的文字顏色會變成綠色。
 
-{% code-tabs %}
-{% code-tabs-item title="a.css" %}
 ```css
 @media (max-width: 767px){
   a{
@@ -37,14 +35,10 @@
   }
 }
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title="測試" %}
-```markup
-<a>ttt</a>
-```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+
+
+
 
 
 
