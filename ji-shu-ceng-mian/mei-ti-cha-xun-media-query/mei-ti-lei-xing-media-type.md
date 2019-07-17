@@ -33,5 +33,19 @@ h1{
 
 ## Media Type 的套用方式
 
+在 HTML 中：
 
+```markup
+<link type="text/css" href="abc.css" media="screen, print">
+<style type="text/css" media="screen, print">...</style>
+```
+
+在 CSS 中：
+
+```css
+@import url("abc.css") screen, print;
+@media screen, print {
+  /* 其它 CSS */
+}
+```
 
