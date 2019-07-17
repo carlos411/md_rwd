@@ -60,9 +60,26 @@
 }
 ```
 
+## 範例五：orientation
 
+orientation 可以設定當手持裝置是橫向或縱向時，需要套用的 CSS，可以設定的值有：
 
-## orientation
+* **portrait** \(縱向\)
+* **landscape** \(橫向\)
 
+當是螢幕時，且設備為橫向\(**landscape**\)擺放時，連結 `<a>` 的文字顏色會是紅色；反之，若設備為直向\(**portrait**\)擺放時，會是藍色。
 
+```css
+@media screen and (orientation: landscape) {
+  a{
+    color: red;
+  }
+}
+
+@media screen and (orientation: portrait) {
+  a{
+    color: blue;
+  }
+}
+```
 
