@@ -29,6 +29,8 @@ h1{
 
 {% embed url="https://codepen.io/carlos411/pen/orKXpG" caption="Media Query 使用 Media Type 為 print\(列印時\)" %}
 
+{% embed url="https://youtu.be/oW1dXkpIa2E" caption="Media Query 中的 Media Type 使用 print" %}
+
 ## Media Type 的套用方式
 
 
