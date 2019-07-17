@@ -24,7 +24,21 @@
 }
 ```
 
-## max-width
+## 範例二：max-width
+
+當螢幕寬度小於等於 767px 時，`<a>` 的文字顏色會變成綠色。
+
+{% code-tabs %}
+{% code-tabs-item title="a.css" %}
+```css
+@media (max-width: 767px){
+  a{
+    color: green;
+  }
+}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 ## orientation
 
