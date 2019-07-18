@@ -2,6 +2,16 @@
 
 ## 作業一
 
+請 fork 以下程式，並將 `div.my_div1` 區塊，並將該區塊按照以下 media query 規則設定：
+
+* 瀏覽器寬度 &lt; 576px 時，`div.my_div1` 的寬度設定成 100%。
+* 576px &lt;= 瀏覽器寬度 &lt; 768px 時，`div.my_div1` 的寬度設定成 540px。
+* 768px &lt;= 瀏覽器寬度 &lt; 992px 時，`div.my_div1` 的寬度設定成 720px。
+* 992px &lt;= 瀏覽器寬度 &lt; 1200px 時，`div.my_div1` 的寬度設定成 960px。
+* 瀏覽器寬度 &gt;= 1200px 時，`div.my_div1` 的寬度設定成 1140px。
+
+[參考：此規則即 Bootstrap Grid options](https://getbootstrap.com/docs/4.3/layout/grid/#grid-options)
+
 ## 作業二
 
 ## 作業繳交方式
