@@ -89,5 +89,3 @@ orientation 可以設定當手持裝置是橫向或縱向時，需要套用的 C
 
 {% embed url="https://youtu.be/IxyUOC7pE3M" caption="Media Query 中的 orientation 示範" %}
 
-{% page-ref page="../../jian-jie-1/zuo-ye.md" %}
-
