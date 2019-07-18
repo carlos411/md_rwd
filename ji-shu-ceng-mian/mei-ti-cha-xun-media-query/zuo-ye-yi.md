@@ -12,9 +12,9 @@
 
 {% embed url="https://codepen.io/carlos411/pen/ZgEWrN" caption="依螢幕寬度區隔，設定某區塊的 Media Query" %}
 
-解答
-
 [作業繳交方式](https://webmix.gitbook.io/responsive-web-design/jian-jie-1/ke-cheng-jian-jie#zuo-ye-jiao-jiao-fang-shi)
+
+解答
 
 ## 其它說明
 
