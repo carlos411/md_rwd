@@ -2,7 +2,7 @@
 
 ## 作業一
 
-請 fork 以下程式，並將 `div.my_div1` 區塊，並將該區塊按照以下 media query 規則設定：
+請 fork 以下程式，然後將 `div.my_div1` 區塊水平置中，並將該區塊按照以下 media query 規則設定：
 
 * 瀏覽器寬度 &lt; 576px 時，`div.my_div1` 的寬度設定成 100%。
 * 576px &lt;= 瀏覽器寬度 &lt; 768px 時，`div.my_div1` 的寬度設定成 540px。
