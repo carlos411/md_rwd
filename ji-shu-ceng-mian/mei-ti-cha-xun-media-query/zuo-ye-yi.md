@@ -12,7 +12,7 @@
 
 {% embed url="https://codepen.io/carlos411/pen/ZgEWrN" caption="依螢幕寬度區隔，設定某區塊的 Media Query" %}
 
-[作業繳交方式](https://app.gitbook.com/@webmix/s/responsive-web-design/~/drafts/-Lk3AtoiPmcDSlZKCjAN/primary/jian-jie-1/ke-cheng-jian-jie#zuo-ye-jiao-jiao-fang-shi)
+[作業繳交方式](https://webmix.gitbook.io/responsive-web-design/jian-jie-1/ke-cheng-jian-jie#zuo-ye-jiao-jiao-fang-shi)
 
 **解答**
 
