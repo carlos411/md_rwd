@@ -10,13 +10,11 @@
 * 992px &lt;= 瀏覽器寬度 &lt; 1200px 時，`div.my_div1` 的寬度設定成 960px。
 * 瀏覽器寬度 &gt;= 1200px 時，`div.my_div1` 的寬度設定成 1140px。
 
-{% embed url="https://codepen.io/carlos411/pen/ZgEWrN" %}
+{% embed url="https://codepen.io/carlos411/pen/ZgEWrN" caption="依螢幕寬度區隔，設定某區塊的 Media Query" %}
 
 解答：
 
 {% embed url="https://codepen.io/carlos411/pen/BXapBq" %}
-
-
 
 其它說明：
 
