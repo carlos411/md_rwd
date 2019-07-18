@@ -12,11 +12,9 @@
 
 {% embed url="https://codepen.io/carlos411/pen/ZgEWrN" caption="依螢幕寬度區隔，設定某區塊的 Media Query" %}
 
-解答
+**解答**
 
-{% embed url="https://codepen.io/carlos411/pen/BXapBq" %}
-
-其它說明：
+## 其它說明
 
 [參考：此規則即 Bootstrap Grid options](https://getbootstrap.com/docs/4.3/layout/grid/#grid-options)
 
