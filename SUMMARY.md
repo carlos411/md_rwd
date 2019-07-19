@@ -46,5 +46,5 @@
 
 * [示範 Ngrok](jie-wei/shi-fan-ngrok.md)
 * [工作、接案分享](jie-wei/gong-zuo-jie-an-fen-xiang.md)
-* [其它](jie-wei/qi-ta.md)
+* [參考資料](jie-wei/qi-ta.md)
 
