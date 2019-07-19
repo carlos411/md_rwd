@@ -3,10 +3,14 @@
 ## **viewport 語法**
 
 ```markup
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 ```
 
-\*\*\*\*
+* `width=device-width`：
+* `initial-scale=1.0`：
+* `user-scalable=yes`：
+
+## **範例**
 
 **沒有指定 viewport 時的狀況，顯示了桌機版的網頁版本\(下圖出自於博客來官網\)：**
 
