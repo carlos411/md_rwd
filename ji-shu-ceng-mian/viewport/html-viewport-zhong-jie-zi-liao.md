@@ -3,7 +3,9 @@
 ## **viewport 語法**
 
 ```markup
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+</head>
 ```
 
 * `width=device-width`：設定 viewport 的寬度等於設備寬度。
