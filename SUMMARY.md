@@ -24,7 +24,6 @@
   * [參考資料](ji-shu-ceng-mian/mei-ti-cha-xun-media-query/can-kao-zi-liao.md)
   * [作業一](ji-shu-ceng-mian/mei-ti-cha-xun-media-query/zuo-ye-yi.md)
 * [Viewport](ji-shu-ceng-mian/viewport/README.md)
-  * [Viewport 所成造的差異](ji-shu-ceng-mian/viewport/viewport-suo-cheng-zao-de-cha-yi.md)
   * [Viewport 定義](ji-shu-ceng-mian/viewport/viewport-ding-yi.md)
   * [HTML Viewport 中介資料](ji-shu-ceng-mian/viewport/html-viewport-zhong-jie-zi-liao.md)
 * [版面類型實作](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/README.md)
