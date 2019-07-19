@@ -27,9 +27,7 @@
   * [Viewport 定義](ji-shu-ceng-mian/viewport/viewport-ding-yi.md)
   * [HTML Viewport 中介資料](ji-shu-ceng-mian/viewport/html-viewport-zhong-jie-zi-liao.md)
 * [版面類型實作](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/README.md)
-  * [固定式版型 Fixed](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/gu-ding-shi-ban-xing-fixed.md)
-  * [響應式版型 Responsive](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/xiang-ying-shi-ban-xing-responsive.md)
-  * [其它版型\(參考\)](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/qi-ta-ban-xing-can-kao.md)
+  * [作業二](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/xiang-ying-shi-ban-xing-responsive.md)
   * [實作：使用 sass 實作螢幕寬度區隔](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/shi-zuo-shi-yong-sass-shi-zuo-ying-mu-kuan-du-ou-ge.md)
 
 ## 框架 Framework
