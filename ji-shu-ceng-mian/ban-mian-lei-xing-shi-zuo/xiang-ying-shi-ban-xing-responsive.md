@@ -1,6 +1,6 @@
 # 作業二
 
-## 將以下二欄式，960px 固定式版型，改成 Responsive
+## 將以下 960px 二欄固定式版型，改成 Responsive
 
 {% embed url="https://codepen.io/carlos411/pen/OKPXgB" %}
 
