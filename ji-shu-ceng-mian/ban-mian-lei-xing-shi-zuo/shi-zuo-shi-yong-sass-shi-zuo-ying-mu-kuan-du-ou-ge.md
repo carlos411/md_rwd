@@ -123,7 +123,7 @@ div.test_block{
   @include c-grid-down(sm){
     /* 這裡的 CSS 會套用在 sm 範圍以下：即 767px 以下 */
   }
-  @include c-grid-down(sm){
+  @include c-grid-up(sm){
     /* 這裡的 CSS 會套用在 sm 範圍以上：即 576px 以上 */
   }
   @include c-grid(sm){
