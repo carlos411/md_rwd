@@ -2,7 +2,7 @@
 
 ## 使用 SASS 劃分螢幕區隔
 
-提供使用 SASS 的 SCSS 語法，劃分好幾個螢幕區域，方便實作 RWD，建立一個 `_grid.scss` 檔案如下：  
+提供使用 [SASS](https://sass-lang.com/) 的 SCSS 語法，劃分好幾個螢幕區域，方便實作 RWD，建立一個 `_grid.scss` 檔案如下：  
 \(註：SASS 編譯不在此課程範圍內。\)
 
 {% code-tabs %}
