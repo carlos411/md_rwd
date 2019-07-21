@@ -10,7 +10,3 @@
 
 參考解答
 
-{% embed url="https://youtu.be/ZyLB-W-DRj0" %}
-
-
-
