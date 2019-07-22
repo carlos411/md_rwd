@@ -10,7 +10,9 @@
 
 ### 第一步：下載 ngrok 指令檔
 
-至 [ngrok 下載網址](https://ngrok.com/download)，如下圖
+至 [ngrok 下載網址](https://ngrok.com/download)，如下圖，按照其步驟執行即可：
+
+![ngrok &#x4F7F;&#x7528;&#x6B65;&#x9A5F;&#x6307;&#x5F15;](../.gitbook/assets/ngrok_steps.png)
 
 
 
