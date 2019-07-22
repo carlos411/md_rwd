@@ -25,16 +25,55 @@ This doesn’t include documentation, source files, or any **optional JavaScript
 所以最後全部順利載入的原始碼如下：
 
 ```markup
-<!-- Bootstrap 的 CSS -->
-<link rel="stylesheet" href="./vendors/bootstrap/css/bootstrap.min.css">
+<!DOCTYPE html>
+<html>
+  <head>
 
-<!-- Bootstrap 的 JS 及相依性安裝(jQuery、Popper) -->
-<script src="./vendors/jquery/jquery-3.4.1.min.js"></script>
-<script src="./vendors/popper/popper.min.js"></script>
-<script src="./vendors/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Bootstrap 的 CSS -->
+    <link rel="stylesheet" href="./vendors/bootstrap/css/bootstrap.min.css">
+  
+  </head>
+  <body>
+  
+    <!-- 其它 html -->
+
+        
+    <!-- body 結束標籤之前，載入Bootstrap 的 JS 及其相依性安裝(jQuery、Popper) -->
+    <script src="./vendors/jquery/jquery-3.4.1.min.js"></script>
+    <script src="./vendors/popper/popper.min.js"></script>
+    <script src="./vendors/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
 ```
 
 ## 方式二：直接使用 CDN
 
 ![&#x5716;&#x4E8C;&#xFF1A;Bootstrap CDN](../../.gitbook/assets/bootstrap_cdn.png)
+
+將上圖 CDN 所提供的路徑載入，如下原始碼：
+
+```markup
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <!-- Bootstrap 的 CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  
+  </head>
+  <body>
+  
+    <!-- 其它 html -->
+        
+    <!-- body 結束標籤之前，載入Bootstrap 的 JS 及其相依性安裝(jQuery、Popper) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
+```
+
+## 在 CodePen 中使用
+
+
 
