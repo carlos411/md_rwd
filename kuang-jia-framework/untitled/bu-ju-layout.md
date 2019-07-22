@@ -41,5 +41,11 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/GVpMwo" caption="設定某欄佔幾欄" %}
 
+## 範例4：內容決定欄寬
+
+透過 `col-{breakpoint}-auto` 可以將該欄設定成：寬度由內容決定。
+
+{% embed url="https://codepen.io/carlos411/pen/MNaEdX" caption="內容決定欄寬" %}
+
 
 
