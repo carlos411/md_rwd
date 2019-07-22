@@ -35,7 +35,11 @@ div 元素加上 container-fluid 樣式：
 
 ## 範例2：各欄寬度自動均分
 
-{% embed url="https://codepen.io/carlos411/pen/wVKJMR" caption="各欄寬度自動均分" %}
+{% embed url="https://codepen.io/carlos411/pen/wVKJMR" caption="各欄寬度自動均分及使用 w-100 來斷行" %}
+
+## 範例3：設定某欄佔幾欄
+
+{% embed url="https://codepen.io/carlos411/pen/GVpMwo" caption="設定某欄佔幾欄" %}
 
 
 
