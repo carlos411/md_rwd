@@ -13,7 +13,8 @@
 </div>
 ```
 
-這時的 div.container，寬度就會如圖一的 Max container width 來做變化。
+這時的 div.container，寬度就會如圖一的 `Max container width` 來做變化。  
+例：螢幕寬度 &gt;= 1200px 時，`div.container` 的寬度就是 1140px。
 
 ### container-fluid
 
