@@ -16,9 +16,11 @@
 
 ### 第二步：路徑切換到 ngrok 所在的目錄
 
-例如：ngrok 所在位置： `/home/ngrok`，ngrok 是一個檔案。
+例如：ngrok 所在位置： `/home/ngrok`，ngrok 是一個檔案，如下圖：
 
-那就執行以下指令：
+![&#x5716;&#x4E8C;&#xFF1A;ngrok &#x6A94;&#x6848;](../.gitbook/assets/ngrok-dang-an.png)
+
+然後執行以下指令：
 
 ```bash
 $ cd /home
@@ -34,7 +36,7 @@ $ ./ngrok http 9000
 
 這時就可以看到：
 
-![&#x5716;&#x4E8C;&#xFF1A;&#x4F7F;&#x7528; ngrok &#x7522;&#x751F;&#x66AB;&#x6642;&#x7684;&#x7DB2;&#x5740;](../.gitbook/assets/ngrok_demo.png)
+![&#x5716;&#x4E09;&#xFF1A;&#x4F7F;&#x7528; ngrok &#x7522;&#x751F;&#x66AB;&#x6642;&#x7684;&#x7DB2;&#x5740;](../.gitbook/assets/ngrok_demo.png)
 
 如上圖所示，ngrok 幫我們產生了網址，那我們就可以實際用真實的裝置來測試 RWD 的實際狀況，或任何網頁上的操作。
 
