@@ -6,3 +6,21 @@
 
 ![&#x5716;&#x4E00;&#xFF1A;&#x4E0B;&#x8F09; Bootstrap](../../.gitbook/assets/bootstrap-xia-zai.png)
 
+下載之後，找到以下兩個檔案，網頁載入：
+
+* css/bootstrap.min.css
+* js/bootstrap.min.js
+
+## 相依性
+
+使用 Boostrap，還需要載入其它函式庫，才能使用，依照官方說明：
+
+This doesn’t include documentation, source files, or any **optional JavaScript dependencies \(jQuery and Popper.js\)**.
+
+實測結果，jQuery 一定要載入，這裡將 [jQuery](https://jquery.com/) 及 [Popper](https://popper.js.org/) 一起載入。直接提供這兩個的原始碼：
+
+* [jquery-3.4.1.min.js](https://code.jquery.com/jquery-3.4.1.min.js)
+* [popper.min.js](https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js)
+
+
+
