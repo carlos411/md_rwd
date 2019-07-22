@@ -2,7 +2,20 @@
 
 ## 格線系統
 
-![Bootstrap &#x7684;&#x683C;&#x7DDA;&#x7CFB;&#x7D71;](../../.gitbook/assets/bootstrap_grid_options.png)
+![&#x5716;&#x4E00;&#xFF1A;Bootstrap &#x7684;&#x683C;&#x7DDA;&#x7CFB;&#x7D71;](../../.gitbook/assets/bootstrap_grid_options.png)
 
 ## 瞭解樣式 container 和 container-fluid
+
+### container
+
+```markup
+<div class="container">
+</div>
+```
+
+這時的 div.container，寬度就會如圖一的 Max container width 來做變化。
+
+### container-fluid
+
+
 
