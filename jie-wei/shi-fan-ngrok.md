@@ -1,4 +1,4 @@
-# 示範 ngrok
+# 使用 ngrok
 
 ## ngrok 是什麼？
 
@@ -35,4 +35,6 @@ $ ./ngrok http 9000
 這時就可以看到：
 
 ![&#x5716;&#x4E8C;&#xFF1A;&#x4F7F;&#x7528; ngrok &#x7522;&#x751F;&#x66AB;&#x6642;&#x7684;&#x7DB2;&#x5740;](../.gitbook/assets/ngrok_demo.png)
+
+如上圖所示，ngrok 幫我們產生了網址，那我們就可以實際用真實的裝置來測試 RWD 的實際狀況，或任何網頁上的操作。
 
