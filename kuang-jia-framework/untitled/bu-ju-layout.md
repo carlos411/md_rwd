@@ -29,3 +29,9 @@ div 元素加上 container-fluid 樣式：
 
 這時的 `div.container`，寬度就是 100%。
 
+## 範例1：sm 範圍以上三欄均分
+
+{% embed url="https://codepen.io/carlos411/pen/XvmmPJ" caption="sm 範圍以上三欄均分" %}
+
+
+
