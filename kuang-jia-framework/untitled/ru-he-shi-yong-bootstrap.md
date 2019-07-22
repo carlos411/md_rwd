@@ -75,5 +75,9 @@ This doesn’t include documentation, source files, or any **optional JavaScript
 
 ## 在 CodePen 中使用
 
+步驟 Settings → CSS → JS → Save & Close，如下圖：
 
+![&#x5716;&#x4E00;&#xFF1A;&#x8F09;&#x5165; Bootstrap CSS](../../.gitbook/assets/zai-ru-bootstrapcss.png)
+
+![&#x5716;&#x4E8C;&#xFF1A;&#x8F09;&#x5165; Bootstrap &#x76F8;&#x95DC;&#x7684; JS](../../.gitbook/assets/zai-ru-bootstrap-xiang-guan-js.png)
 
