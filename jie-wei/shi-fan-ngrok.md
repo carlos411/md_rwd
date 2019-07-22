@@ -10,6 +10,8 @@
 
 ![&#x5716;&#x4E00;&#xFF1A;ngrok &#x4F7F;&#x7528;&#x6B65;&#x9A5F;&#x6307;&#x5F15;](../.gitbook/assets/ngrok_steps.png)
 
+以下步驟跳過註冊的步驟，因為沒有註冊也是可以使用。
+
 ### 第一步：下載 ngrok 指令檔
 
 至 [ngrok 下載網址](https://ngrok.com/download)，下載解壓縮，會取得一個檔名為 `ngrok` 的檔案，可任意存放在你想存的位置。
