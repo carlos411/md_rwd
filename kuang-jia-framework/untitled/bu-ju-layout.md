@@ -33,5 +33,9 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/XvmmPJ" caption="sm 範圍以上三欄均分" %}
 
+## 範例2：各欄寬度自動均分
+
+{% embed url="https://codepen.io/carlos411/pen/wVKJMR" caption="各欄寬度自動均分" %}
+
 
 
