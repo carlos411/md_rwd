@@ -11,7 +11,7 @@
 * css/bootstrap.min.css
 * js/bootstrap.min.js
 
-## 相依性
+### 相依性
 
 使用 Boostrap，還需要載入其它函式庫，才能使用，依照官方說明：
 
@@ -22,5 +22,19 @@ This doesn’t include documentation, source files, or any **optional JavaScript
 * [jquery-3.4.1.min.js](https://code.jquery.com/jquery-3.4.1.min.js)
 * [popper.min.js](https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js)
 
+所以最後全部順利載入的原始碼如下：
 
+```markup
+<!-- Bootstrap 的 CSS -->
+<link rel="stylesheet" href="./vendors/bootstrap/css/bootstrap.min.css">
+
+<!-- Bootstrap 的 JS 及相依性安裝(jQuery、Popper) -->
+<script src="./vendors/jquery/jquery-3.4.1.min.js"></script>
+<script src="./vendors/popper/popper.min.js"></script>
+<script src="./vendors/bootstrap/js/bootstrap.min.js"></script>
+```
+
+## 方式二：直接使用 CDN
+
+![&#x5716;&#x4E8C;&#xFF1A;Bootstrap CDN](../../.gitbook/assets/bootstrap_cdn.png)
 
