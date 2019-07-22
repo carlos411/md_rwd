@@ -14,9 +14,5 @@
 * 出現版本升級是令人困擾的，例如 Bootstrap 2.x 到 3.x 到 4.x，現在最新的版本是 4.3.1。
 * 有可能僅使用了部份的 Bootstrap 功能，其它沒有用到，但也是載了全部的 Bootstrap 原始碼。
 
-除了 Bootstrap 之外，也有很多網站前端框架，例如 [foundation framework](https://foundation.zurb.com)
-
-[Semantic UI](https://semantic-ui.com)
-
-[Compass](http://compass-style.org)
+除了 Bootstrap 之外，也有很多網站前端框架，例如：
 
