@@ -29,31 +29,35 @@ div 元素加上 container-fluid 樣式：
 
 這時的 `div.container`，寬度就是 100%。
 
-## 範例1：sm 範圍以上三欄均分
+## 範例 1：sm 範圍以上三欄均分
 
 {% embed url="https://codepen.io/carlos411/pen/XvmmPJ" caption="sm 範圍以上三欄均分" %}
 
-## 範例2：各欄寬度自動均分
+## 範例 2：各欄寬度自動均分
 
 {% embed url="https://codepen.io/carlos411/pen/wVKJMR" caption="各欄寬度自動均分及使用 w-100 來斷行" %}
 
-## 範例3：設定某欄佔幾欄
+## 範例 3：設定某欄佔幾欄
 
 {% embed url="https://codepen.io/carlos411/pen/GVpMwo" caption="設定某欄佔幾欄" %}
 
-## 範例4：內容決定欄寬
+## 範例 4：內容決定欄寬
 
 透過 `col-{breakpoint}-auto` 可以將該欄設定成：寬度由內容決定。
 
 {% embed url="https://codepen.io/carlos411/pen/MNaEdX" caption="內容決定欄寬" %}
 
-## 範例5：中斷點練習，所有圍範
+## 範例 5：中斷點練習，所有圍範
 
 {% embed url="https://codepen.io/carlos411/pen/PMZqPr" %}
 
-## 範例六：中斷點練習，sm 圍範以上
+## 範例 6：中斷點練習，sm 圍範以上
 
 {% embed url="https://codepen.io/carlos411/pen/QeybgK" %}
+
+## 範例 7：中斷點練習，同時設定所有範圍及 md 範圍以上
+
+{% embed url="https://codepen.io/carlos411/pen/EqPjoR" %}
 
 
 
