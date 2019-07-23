@@ -47,5 +47,13 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/MNaEdX" caption="內容決定欄寬" %}
 
+## 範例5：中斷點練習，所有圍範
+
+{% embed url="https://codepen.io/carlos411/pen/PMZqPr" %}
+
+## 範例六：中斷點練習，sm 圍範以上
+
+{% embed url="https://codepen.io/carlos411/pen/QeybgK" %}
+
 
 
