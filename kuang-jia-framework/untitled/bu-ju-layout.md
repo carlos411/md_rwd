@@ -59,5 +59,37 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/EqPjoR" %}
 
+## 範例 8：改變預設的 Gutters
 
+先理解 [Spacing 規則](https://getbootstrap.com/docs/4.3/utilities/spacing/)。
+
+* {property}{sides}-{size} 用於 xs。
+* {property}{sides}-{breakpoint}-{size} 用於 sm, md, lg, and xl 這幾個 breakpoint。
+
+property 代號：
+
+* **m**：表示 margin。
+* **p**：表示 padding
+
+sides 代號：
+
+* **t**：表示設定 margin-top 或 padding-top。
+* **b**： 表示設定 margin-bottom 或 padding-bottom。
+* **l**：表示設定 margin-left 或 padding-left。
+* **r**：表示設定 margin-right 或 padding-right。
+* **x**：表示設定 \*-left 和 \*-right。
+* **y**：表示設定 \*-top 和 \*-bottom。
+* **blank**： 表示設定 margin 或 padding 的四個方向。
+
+改變 gutters 的規則：
+
+1. 在「**欄**」的部份：改變 `padding-left` 和 `padding-right`。
+2. 在「**列**」的部份：改變 `margin-left` 和 `margin-right`。
+3. 在「**container**」的部份：設定 `padding-left` 和 `padding-right`。
+
+{% embed url="https://codepen.io/carlos411/pen/wVGGLG" caption="改變預設的 Gutters" %}
+
+{% hint style="info" %}
+參考就好，實際上未必需要修改。
+{% endhint %}
 
