@@ -49,11 +49,11 @@ div 元素加上 container-fluid 樣式：
 
 ## 範例 5：中斷點練習，所有圍範
 
-{% embed url="https://codepen.io/carlos411/pen/PMZqPr" %}
+{% embed url="https://codepen.io/carlos411/pen/PMZqPr" caption="中斷點練習，所有圍範" %}
 
 ## 範例 6：中斷點練習，sm 圍範以上
 
-{% embed url="https://codepen.io/carlos411/pen/QeybgK" %}
+{% embed url="https://codepen.io/carlos411/pen/QeybgK" caption="中斷點練習，sm 範圍以上" %}
 
 ## 範例 7：中斷點練習，同時設定所有範圍及 md 範圍以上
 
