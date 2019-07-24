@@ -57,7 +57,7 @@ div 元素加上 container-fluid 樣式：
 
 ## 範例 7：中斷點練習，同時設定所有範圍及 md 範圍以上
 
-{% embed url="https://codepen.io/carlos411/pen/EqPjoR" %}
+{% embed url="https://codepen.io/carlos411/pen/EqPjoR" caption="中斷點練習，同時設定所有範圍及 md 範圍以上" %}
 
 ## 範例 8：改變預設的 Gutters
 
@@ -103,4 +103,18 @@ size 代號\( $spacer 預設是 1rem \)：
 {% hint style="info" %}
 參考：實務上未必需要修改。
 {% endhint %}
+
+## 範例 9：垂直方向對齊方式1
+
+* align-items-start
+* align-items-center
+* align-items-end
+
+{% embed url="https://codepen.io/carlos411/pen/mNPrVw" caption="垂直方向對齊方式1" %}
+
+## 範例 10：垂直方向對齊方式2
+
+{% embed url="https://codepen.io/carlos411/pen/rXeMwN" caption="垂直方向對齊方式2" %}
+
+
 
