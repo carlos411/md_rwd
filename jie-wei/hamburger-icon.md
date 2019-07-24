@@ -8,7 +8,5 @@
 
 ## 練習套用
 
-{% embed url="https://codepen.io/carlos411/pen/xvVLyR" %}
-
-
+{% embed url="https://codepen.io/carlos411/pen/xvVLyR" caption="hamburger icon" %}
 
