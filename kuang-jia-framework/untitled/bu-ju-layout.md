@@ -101,6 +101,6 @@ size 代號\( $spacer 預設是 1rem \)：
 {% embed url="https://codepen.io/carlos411/pen/wVGGLG" caption="改變預設的 Gutters" %}
 
 {% hint style="info" %}
-參考就好，實際上未必需要修改。
+參考：實務上未必需要修改。
 {% endhint %}
 
