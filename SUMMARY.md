@@ -43,6 +43,6 @@
 ## 其它 <a id="jie-wei"></a>
 
 * [使用 ngrok](jie-wei/shi-fan-ngrok.md)
-* [hamburger icon](jie-wei/hamburger-icon.md)
+* [套用 hamburger icon](jie-wei/hamburger-icon.md)
 * [參考資料](jie-wei/qi-ta.md)
 
