@@ -8,7 +8,7 @@
 
 ## Forms、Input group、Modal
 
-請瀏覽 Bootstrap 所提供的所有[表單元件](https://getbootstrap.com/docs/4.3/components/forms/)，只要看圖示即可。
+請瀏覽 Bootstrap 所提供的所有 Forms 、Input group 、Modal，只要看官網提供的圖示即可。
 
 並請在以下 code pen 網址中練習套用各種元件：
 
