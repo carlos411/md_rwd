@@ -91,11 +91,11 @@ size 代號\( $spacer 預設是 1rem \)：
 * **5**：設定 margin 或 padding 為 `$spacer * 3`。
 * **auto**：設定 margin 為 `auto`。
 
-改變 gutters 的規則：
+### 改變 gutters 的規則
 
-1. 在「**欄**」的部份：改變 `padding-left` 和 `padding-right`。
-2. 在「**列**」的部份：改變 `margin-left` 和 `margin-right`。
-3. 在「**container**」的部份：設定 `padding-left` 和 `padding-right`。
+1. 在「**欄**」的部份：改變 `padding-left` 和 `padding-right`。預設 15px。
+2. 在「**列**」的部份：改變 `margin-left` 和 `margin-right`。預設 -15px。
+3. 在「**container**」的部份：設定 `padding-left` 和 `padding-right`。預設 15px。
 
 {% embed url="https://codepen.io/carlos411/pen/wVGGLG" caption="改變預設的 Gutters" %}
 
