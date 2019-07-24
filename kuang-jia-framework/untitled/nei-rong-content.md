@@ -18,5 +18,13 @@
 
 {% embed url="https://codepen.io/carlos411/pen/ZgWBJL" caption="圖片 img-thumbnail 及 rounded" %}
 
+## 範例 4：基本表格
+
+`.table`：基本表格樣式。
+
+`.table-dark`：表格 dark 模式。
+
+{% embed url="https://codepen.io/carlos411/pen/xvVRpY" caption="基本表格" %}
+
 
 
