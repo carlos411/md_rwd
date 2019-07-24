@@ -10,9 +10,11 @@
 
 {% embed url="https://codepen.io/carlos411/pen/jgqVWE" %}
 
-## 範例 3：圖片加上外圍邊框
+## 範例 3：圖片加上外圍邊框及圓角
 
 `.img-thumbnail`：為圖片加上外圍邊框的樣式。
+
+`.rounded`：為圖片加上圓角。
 
 {% embed url="https://codepen.io/carlos411/pen/ZgWBJL" %}
 
