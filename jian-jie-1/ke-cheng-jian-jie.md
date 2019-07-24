@@ -1,10 +1,10 @@
 # 課程簡介
 
-Code Pen 註冊
+## Code Pen 註冊
 
-如何使用本教材
+[https://codepen.io/](https://codepen.io/)
 
-
+## 如何使用本教材
 
 ## 作業繳交方式
 
