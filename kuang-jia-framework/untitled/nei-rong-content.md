@@ -26,5 +26,9 @@
 
 {% embed url="https://codepen.io/carlos411/pen/xvVRpY" caption="基本表格" %}
 
+## 範例 5：帶有標題的圖片，使用 figure 元素
+
+{% embed url="https://codepen.io/carlos411/pen/OKNbwJ" caption="帶有標題的圖片，使用 figure 元素" %}
+
 
 
