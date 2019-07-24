@@ -104,7 +104,7 @@ size 代號\( $spacer 預設是 1rem \)：
 參考：實務上未必需要修改。
 {% endhint %}
 
-## 範例 9：垂直方向對齊方式1
+## 範例 9：垂直方向對齊方式 1
 
 * align-items-start
 * align-items-center
@@ -112,7 +112,7 @@ size 代號\( $spacer 預設是 1rem \)：
 
 {% embed url="https://codepen.io/carlos411/pen/mNPrVw" caption="垂直方向對齊方式1" %}
 
-## 範例 10：垂直方向對齊方式2
+## 範例 10：垂直方向對齊方式 2
 
 {% embed url="https://codepen.io/carlos411/pen/rXeMwN" caption="垂直方向對齊方式2" %}
 
