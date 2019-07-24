@@ -81,7 +81,7 @@ sides 代號：
 * **y**：表示設定 \*-top 和 \*-bottom。
 * **blank**： 表示設定 margin 或 padding 的四個方向。
 
-size 代號：
+size 代號\( $spacer 預設是 1rem \)：
 
 * **0**：設定 margin 或 padding 為 `0`。
 * **1**：設定 margin 或 padding 為 `$spacer * 0.25`。
