@@ -81,6 +81,16 @@ sides 代號：
 * **y**：表示設定 \*-top 和 \*-bottom。
 * **blank**： 表示設定 margin 或 padding 的四個方向。
 
+size 代號：
+
+* **0**：設定 margin 或 padding 為 `0`。
+* **1**：設定 margin 或 padding 為 `$spacer * 0.25`。
+* **2**：設定 margin 或 padding 為 `$spacer * 0.5`。
+* **3**：設定 margin 或 padding 為 `$spacer`。
+* **4**：設定 margin 或 padding 為 `$spacer * 1.5`。
+* **5**：設定 margin 或 padding 為 `$spacer * 3`。
+* **auto**：設定 margin 為 `auto`。
+
 改變 gutters 的規則：
 
 1. 在「**欄**」的部份：改變 `padding-left` 和 `padding-right`。
