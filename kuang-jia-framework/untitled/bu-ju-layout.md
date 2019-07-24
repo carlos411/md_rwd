@@ -136,5 +136,9 @@ size 代號\( $spacer 預設是 1rem \)：
 
 {% embed url="https://codepen.io/carlos411/pen/NQNRYe" %}
 
+## 範例 12：欄的位移
+
+{% embed url="https://codepen.io/carlos411/pen/VoaKRy" %}
+
 
 
