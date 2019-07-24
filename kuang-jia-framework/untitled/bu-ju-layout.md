@@ -90,6 +90,7 @@ size 代號\( $spacer 預設是 1rem \)：
 * **4**：設定 margin 或 padding 為 `$spacer * 1.5`。
 * **5**：設定 margin 或 padding 為 `$spacer * 3`。
 * **auto**：設定 margin 為 `auto`。
+* 設定 margin 的時候，以上數值代號前加一個 `n`，就會變成是負數，n 是 Negative 的意思。
 
 ### 改變 gutters 的規則
 
