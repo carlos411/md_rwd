@@ -22,7 +22,7 @@
 
 網址：[https://webmix.gitbook.io/responsive-web-design/](https://webmix.gitbook.io/responsive-web-design/)
 
-QR Code：
+或 QR Code：
 
 ![RWD &#x6559;&#x6750;](../.gitbook/assets/rwd_qr_code.png)
 
