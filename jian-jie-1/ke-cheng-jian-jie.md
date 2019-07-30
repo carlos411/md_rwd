@@ -20,6 +20,17 @@
 
 ## 如何使用本教材
 
+網址：[https://webmix.gitbook.io/responsive-web-design/](https://webmix.gitbook.io/responsive-web-design/)
+
+QR Code：
+
+
+
+## 編輯器
+
+* [Atom](https://atom.io/)
+* [Sublime](https://www.sublimetext.com/)
+
 ## 作業繳交方式
 
 ### 方式一：直接編輯 Dropbox Paper 文件
