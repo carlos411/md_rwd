@@ -13,8 +13,6 @@
 
 ## 範例：縱向文字間距
 
-[Code Pen：縱向文字間距](https://codepen.io/carlos411/pen/gNJmJd)
-
 ![&#x7E31;&#x5411;&#x6587;&#x5B57;&#x9593;&#x8DDD;&#x5DEE;&#x7570;](../../.gitbook/assets/line_spacing.png)
 
 {% embed url="https://codepen.io/carlos411/pen/gNJmJd" caption="縱向文字間距" %}
