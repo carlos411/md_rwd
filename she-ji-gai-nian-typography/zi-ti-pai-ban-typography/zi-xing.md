@@ -51,7 +51,7 @@
 
 下載的檔案一般可能會是 .ttf \(True Type\) 或 .otf \(Open Type\) 格式，如果是網頁上要用的話，且又想要自己儲存在伺服器做保管，那就需要再透過字體轉檔工具轉成比較符合網頁在用的字體格式\(WOFF、WOFF2等\)。
 
-## 例：使用 Google Fonts 載入思源黑體
+## 範例1：使用 Google Fonts 載入思源黑體
 
 使用 Google Fonts 工具，載入 [Noto Sans TC 思源黑體](https://fonts.google.com/?subset=chinese-traditional&selection.family=Noto+Sans+TC)：
 
@@ -78,4 +78,12 @@ body{
 
 除非客戶有很強烈的意願，希望所有使用者都能看到一致的字體，那就會與客戶表明差異之後，再做取捨。
 {% endhint %}
+
+## 範例2：使用 google font 載入字體
+
+[預先選好的字體](https://fonts.google.com/?selection.family=Beth+Ellen)
+
+{% embed url="https://codepen.io/carlos411/pen/oKoVaR" %}
+
+
 
