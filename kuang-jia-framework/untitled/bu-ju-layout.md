@@ -59,52 +59,7 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/EqPjoR" caption="中斷點練習，同時設定所有範圍及 md 範圍以上" %}
 
-## 範例 8：改變預設的 Gutters
-
-先理解 [Spacing 規則](https://getbootstrap.com/docs/4.3/utilities/spacing/)。
-
-* {property}{sides}-{size} 用於 xs。
-* {property}{sides}-{breakpoint}-{size} 用於 sm, md, lg, and xl 這幾個 breakpoint。
-
-property 代號：
-
-* **m**：表示 margin。
-* **p**：表示 padding
-
-sides 代號：
-
-* **t**：表示設定 margin-top 或 padding-top。
-* **b**： 表示設定 margin-bottom 或 padding-bottom。
-* **l**：表示設定 margin-left 或 padding-left。
-* **r**：表示設定 margin-right 或 padding-right。
-* **x**：表示設定 \*-left 和 \*-right。
-* **y**：表示設定 \*-top 和 \*-bottom。
-* **blank**： 表示設定 margin 或 padding 的四個方向。
-
-size 代號\( $spacer 預設是 1rem \)：
-
-* **0**：設定 margin 或 padding 為 `0`。
-* **1**：設定 margin 或 padding 為 `$spacer * 0.25`。
-* **2**：設定 margin 或 padding 為 `$spacer * 0.5`。
-* **3**：設定 margin 或 padding 為 `$spacer`。
-* **4**：設定 margin 或 padding 為 `$spacer * 1.5`。
-* **5**：設定 margin 或 padding 為 `$spacer * 3`。
-* **auto**：設定 margin 為 `auto`。
-* 設定 margin 的時候，以上數值代號前加一個 `n`，就會變成是負數，n 是 Negative 的意思。
-
-### 改變 gutters 的規則
-
-1. 在「**欄**」的部份：改變 `padding-left` 和 `padding-right`。預設 15px。
-2. 在「**列**」的部份：改變 `margin-left` 和 `margin-right`。預設 -15px。
-3. 在「**container**」的部份：設定 `padding-left` 和 `padding-right`。預設 15px。
-
-{% embed url="https://codepen.io/carlos411/pen/wVGGLG" caption="改變預設的 Gutters" %}
-
-{% hint style="info" %}
-參考：實務上未必需要修改。
-{% endhint %}
-
-## 範例 9：垂直方向對齊方式 1
+## 範例 8：垂直方向對齊方式 1
 
 在「列」中，加上以下樣式：
 
@@ -114,7 +69,7 @@ size 代號\( $spacer 預設是 1rem \)：
 
 {% embed url="https://codepen.io/carlos411/pen/mNPrVw" caption="垂直方向對齊方式1" %}
 
-## 範例 10：垂直方向對齊方式 2
+## 範例 9：垂直方向對齊方式 2
 
 在「欄」中，加上以下樣式：
 
@@ -124,7 +79,7 @@ size 代號\( $spacer 預設是 1rem \)：
 
 {% embed url="https://codepen.io/carlos411/pen/rXeMwN" caption="垂直方向對齊方式2" %}
 
-## 範例 11：水平方向對齊方式
+## 範例 10：水平方向對齊方式
 
 在「列」中放入以下樣式：
 
@@ -136,7 +91,7 @@ size 代號\( $spacer 預設是 1rem \)：
 
 {% embed url="https://codepen.io/carlos411/pen/NQNRYe" %}
 
-## 範例 12：欄的位移
+## 範例 11：欄的位移
 
 {% embed url="https://codepen.io/carlos411/pen/VoaKRy" %}
 
