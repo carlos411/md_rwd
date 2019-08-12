@@ -46,6 +46,8 @@ This doesn’t include documentation, source files, or any **optional JavaScript
 </html>
 ```
 
+[下載已安裝好 Bootstrap 的資料夾範例](http://notes.carlos-studio.com/download/bootstrap_installed_sample.zip)
+
 ## 方式二：直接使用 CDN
 
 ![&#x5716;&#x4E8C;&#xFF1A;Bootstrap CDN](../../.gitbook/assets/bootstrap_cdn.png)
