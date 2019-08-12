@@ -12,5 +12,9 @@
 
 {% embed url="https://codepen.io/carlos411/pen/qegxMr" %}
 
+## 留意圖片超過區塊範圍，及簡易圖片圓形遮蔽效果
+
+{% embed url="https://codepen.io/carlos411/pen/EqrMdo" %}
+
 
 
