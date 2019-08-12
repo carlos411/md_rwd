@@ -20,5 +20,11 @@
 
 {% embed url="https://codepen.io/carlos411/pen/XvGKQz" %}
 
+## 示範使用 Font Awesome
+
+[官網](https://fontawesome.com/)
+
+[下載範例](http://notes.carlos-studio.com/download/fontawesome_sample.zip)
+
 
 
