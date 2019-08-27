@@ -83,6 +83,12 @@ body{
 
 [預先選好的字體](https://fonts.google.com/?selection.family=Beth+Ellen)
 
+```css
+p.change_font_family{
+  font-family: 'Beth Ellen', cursive;
+}
+```
+
 {% embed url="https://codepen.io/carlos411/pen/oKoVaR" %}
 
 
