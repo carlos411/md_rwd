@@ -2,7 +2,9 @@
 
 ## 格線系統概念
 
-{% embed url="https://youtu.be/CzrJevfojf4" caption="格線系統\(Grid System\)概念" %}
+桌機版、行動版空白頁面：
+
+![](../../.gitbook/assets/desktop_mobile.png)
 
 ## 重點整理
 
