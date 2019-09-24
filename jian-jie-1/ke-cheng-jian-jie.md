@@ -16,18 +16,11 @@
 
 [https://codepen.io/](https://codepen.io/)
 
-## 如何使用本教材
-
-網址：[https://webmix.gitbook.io/responsive-web-design/](https://webmix.gitbook.io/responsive-web-design/)
-
-或 QR Code：
-
-![RWD &#x6559;&#x6750;](../.gitbook/assets/rwd_qr_code.png)
-
 ## 編輯器
 
 * [Atom](https://atom.io/)
 * [Sublime](https://www.sublimetext.com/)
+* [VS Code](https://code.visualstudio.com/)
 
 ## 作業繳交方式
 
