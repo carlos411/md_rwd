@@ -30,7 +30,7 @@
 
 示意：
 
-![&#x4F5C;&#x696D;&#x7E73;&#x4EA4;&#x8ACB;&#x6309;&#x7167;&#x8868;&#x683C;&#x5167;&#x7BC4;&#x4F8B;&#x65B0;&#x589E;](../.gitbook/assets/zuo-ye-jiao-jiao-fan-li-dropboxpaper.png)
+![&#x4F5C;&#x696D;&#x7E73;&#x4EA4;&#x8ACB;&#x4F9D;&#x7167;&#x8868;&#x683C;&#x5167;&#x7684;&#x683C;&#x5F0F;](../.gitbook/assets/zuo-ye-jiao-jiao-shi-yi.png)
 
 ### 方式二：寄 email
 
