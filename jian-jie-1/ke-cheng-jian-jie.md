@@ -34,9 +34,13 @@
 
 ### 方式二：寄 email
 
-請按照以下格式寄出 email 至 chang.abin@gmail.com
+請按照以下格式寄出 email 至 **chang.abin@gmail.com**
 
-主旨：DA102 RWD 您的學號 作業一繳交
+Email 主旨：
 
-內容：         學號          作業連結
+**DA103 RWD T19xxxxx 作業一繳交**
+
+內容：
+
+**作業連結：\(Code Pen\)**
 
