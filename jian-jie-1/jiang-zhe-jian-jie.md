@@ -21,7 +21,18 @@ description: 張互賓 Carlos Chang
 
 ## 作品分享\(部份\)
 
-### 網站前端
+### 有 RWD
+
+* [久酒企業](http://99wineandbeer.com/)
+* [5breakfast 快速買早餐](https://5breakfast.com/)
+* [臺南市政府圖片資料庫平台](https://p.tainan.gov.tw/)
+
+### 沒有 RWD
+
+* [有機媽咪網](http://www.naturalmammy.com/)
+* [台灣雕塑學會](http://www.sculpture.org.tw/)
+
+### 其它：網站前端
 
 * [你知我知好學網](https://uknowiknow.com/)
 * [X Fail 活動](http://xfail.tw)
@@ -35,13 +46,13 @@ description: 張互賓 Carlos Chang
 * [芙洛麗大飯店](http://www.fleurlis.com.tw/)
 * [Ctrl + P 兒童3D列印](https://ctrl-p.tw/)
 
-### 主機代管
+### 其它：主機代管
 
 * [MBA 顧問](https://sabinahuang.com)
 * [智夢](https://www.akadgroup.com)
 * [RocketAdmit](https://rocketadmit.com/)
 
-### 網站架設
+### 其它：網站架設
 
 * [久酒企業](http://99wineandbeer.com)
 * [王爺水餃子](http://www.wangye99.idv.tw)
