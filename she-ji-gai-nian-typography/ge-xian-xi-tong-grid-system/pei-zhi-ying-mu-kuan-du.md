@@ -20,6 +20,12 @@
 * 間隔\(Gutter\)是由左右 padding 所創造。
 * 假設以使用 Bootstrap 為例，間隔\(Gutter\)是 30px，也就是各欄的 padding-left、padding-right 都各是 15px。
 
+第四步：顯示網格\(Grid\)
+
+* 每一個小紅框都是寬高 10px。
+
+![](../../.gitbook/assets/grid_show_grid.png)
+
 ## 重點整理
 
 * 不論行動版、桌機版都保有一致性的格線系統。
