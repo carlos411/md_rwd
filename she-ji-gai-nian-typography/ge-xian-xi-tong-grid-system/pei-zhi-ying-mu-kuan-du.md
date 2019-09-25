@@ -6,7 +6,7 @@
 
 ![](../../.gitbook/assets/desktop_mobile.png)
 
-第二步：任何結構區塊\(下圖以滿版為例\)，都視為列\(row\)：
+第二步：任何結構區塊，都視為列\(row\)：
 
 * row 可以出現在頁面任何位置。
 * row 的寬度可以是固定寬、或某百分比。
@@ -28,7 +28,7 @@
 * 間隔\(Gutter\)是由左右 padding 所創造。
 * 假設以使用 Bootstrap 為例，間隔\(Gutter\)是 30px，也就是各欄的 padding-left、padding-right 都各是 15px。
 
-![](../../.gitbook/assets/grid_layout.png)
+![](../../.gitbook/assets/grid_layout2.png)
 
 ## 重點整理
 
