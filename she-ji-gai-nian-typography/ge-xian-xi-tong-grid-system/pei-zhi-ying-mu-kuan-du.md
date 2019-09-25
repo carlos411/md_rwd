@@ -32,7 +32,7 @@
 
 第五步：移除網格，只顯示12個欄位\(Column\)。
 
-![](../../.gitbook/assets/grid_layout_only.png)
+![](../../.gitbook/assets/grid_show_layout.png)
 
 第六步：內容是放在欄位\(Column\)裡面
 
