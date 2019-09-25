@@ -9,11 +9,15 @@
 第二步：任何結構區塊\(下圖以滿版為例\)，都視為列\(row\)：
 
 * row 的寬度可以是固定寬、或某百分比。
-* row 的高度通常依內容來決定，視介面情況，也可固定高。
+* row 的高度通常依內容來決定。
 
 ![](../../.gitbook/assets/grid_row.png)
 
+第三步：任何的列\(row\)，都有自己的 12 個欄位
 
+* 這 12 個欄位，各欄位之間都有固定的間隔\(Gutter\)
+* 間隔\(Gutter\)是由左右 padding 所創造。
+* 假設以使用 Bootstrap 為例，間隔\(Gutter\)是 30px，也就是各欄的 padding-left、padding-right 都各是 15px。
 
 ## 重點整理
 
