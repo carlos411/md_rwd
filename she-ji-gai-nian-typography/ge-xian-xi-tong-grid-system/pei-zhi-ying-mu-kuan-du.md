@@ -28,11 +28,16 @@
 * 間隔\(Gutter\)是由左右 padding 所創造。
 * 假設以使用 Bootstrap 為例，間隔\(Gutter\)是 30px，也就是各欄的 padding-left、padding-right 都各是 15px。
 
-![](../../.gitbook/assets/grid_layout2.png)
+![](../../.gitbook/assets/grid_show_grid%20%281%29.png)
 
 第五步：移除網格，只顯示12個欄位\(Column\)。
 
 ![](../../.gitbook/assets/grid_layout_only.png)
+
+第六步：內容是放在欄位\(Column\)裡面
+
+* 在這個列\(row\)中，有兩張圖片，在桌機版：各佔 6 欄。
+* 然後在行動版，改成各佔 12 欄。
 
 ## 重點整理
 
