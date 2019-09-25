@@ -41,6 +41,12 @@
 
 ![](../../.gitbook/assets/grid_content.png)
 
+第七步：移除12欄的顯示提示\(紅色直欄\)
+
+* 就完成利用 網格系統\(Grid System\) 來做 RWD 的基本觀念。
+
+![](../../.gitbook/assets/grid_hidden_layout.png)
+
 ## 重點整理
 
 * 不論行動版、桌機版都保有一致性的格線系統。
