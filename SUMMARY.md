@@ -10,7 +10,7 @@
 
 * [格線系統 Grid System](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/README.md)
   * [觀念理解](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/pei-zhi-ying-mu-kuan-du.md)
-* [版面名詞解析](she-ji-gai-nian-typography/ban-mian-ming-ci-jie-xi.md)
+* [版面概念解析](she-ji-gai-nian-typography/ban-mian-ming-ci-jie-xi.md)
 
 ## 技術層面
 
