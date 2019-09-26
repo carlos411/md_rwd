@@ -6,6 +6,8 @@
 
 案例參考：[有機媽咪](http://www.naturalmammy.com/)
 
+![&#x6709;&#x6A5F;&#x5ABD;&#x54AA;&#xFF1A;&#x9996;&#x9801;&#x793A;&#x610F;&#x5716;](../.gitbook/assets/naturalmammy.png)
+
 ## Fluid：流體式
 
 概念：版面寬度是用百分比來佔比例，螢幕在縮放時，版面會跟隨螢幕來縮放。
