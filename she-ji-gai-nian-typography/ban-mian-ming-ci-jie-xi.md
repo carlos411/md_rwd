@@ -2,7 +2,9 @@
 
 ## Fixed：固定式
 
+{% hint style="success" %}
 概念：版面是固定寬度，不論螢幕寬度如何，都不會影響版面大小。
+{% endhint %}
 
 案例參考：[有機媽咪](http://www.naturalmammy.com/)
 
@@ -10,7 +12,9 @@
 
 ## Fluid：流體式
 
+{% hint style="success" %}
 概念：版面寬度是用百分比來佔比例，螢幕在縮放時，版面會跟隨螢幕來縮放。
+{% endhint %}
 
 例：[Bootstrap 官網](https://getbootstrap.com/)的下圖區域：
 
@@ -18,7 +22,9 @@
 
 ## Adaptive：自適性
 
+{% hint style="success" %}
 概念：鎖定幾個螢幕寬度尺吋，來決定版面主內容應該改變成多少固定尺吋。
+{% endhint %}
 
 例如：
 
@@ -33,8 +39,6 @@
 案例：[5breakfast 登入頁面](https://5breakfast.com/login) 的登入區域，如下圖：
 
 ![](../.gitbook/assets/5breakfast_login.png)
-
-
 
 ## Responsive：響應式
 
