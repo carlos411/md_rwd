@@ -12,6 +12,10 @@
 
 概念：版面寬度是用百分比來佔比例，螢幕在縮放時，版面會跟隨螢幕來縮放。
 
+例：[Bootstrap 官網](https://getbootstrap.com/)的下圖區域：
+
+![](../.gitbook/assets/bs_demo_fluid.png)
+
 ## Adaptive：自適性
 
 概念：鎖定幾個螢幕寬度尺吋，來決定版面主內容應該改變成多少固定尺吋。
