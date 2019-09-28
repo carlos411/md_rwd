@@ -11,7 +11,7 @@
 * [格線系統 Grid System](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/README.md)
   * [觀念理解](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system/pei-zhi-ying-mu-kuan-du.md)
 * [版面概念解析](she-ji-gai-nian-typography/ban-mian-ming-ci-jie-xi.md)
-* [Retina 螢幕](she-ji-gai-nian-typography/retina-ying-mu.md)
+* [圖片在 Retina 螢幕上的呈現](she-ji-gai-nian-typography/retina-ying-mu.md)
 
 ## 技術層面
 
