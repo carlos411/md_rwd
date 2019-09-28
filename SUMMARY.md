@@ -8,8 +8,7 @@
 
 ## 設計概念 <a id="she-ji-gai-nian-typography"></a>
 
-* [格線系統 Grid System](she-ji-gai-nian-typography/ge-xian-xi-tong-grid-system.md)
-* [觀念理解](she-ji-gai-nian-typography/pei-zhi-ying-mu-kuan-du.md)
+* [格線系統 Grid System](she-ji-gai-nian-typography/pei-zhi-ying-mu-kuan-du.md)
 * [版面概念解析](she-ji-gai-nian-typography/ban-mian-ming-ci-jie-xi.md)
 * [圖片在 Retina 螢幕上的呈現](she-ji-gai-nian-typography/retina-ying-mu.md)
 
