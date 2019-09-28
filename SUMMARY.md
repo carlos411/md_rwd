@@ -45,4 +45,5 @@
 * [參考資料](jie-wei/qi-ta.md)
 * [補充範例](jie-wei/bu-chong-fan-li.md)
 * [FAQ](jie-wei/faq.md)
+* [練習](jie-wei/lian-xi.md)
 
