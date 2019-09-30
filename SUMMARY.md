@@ -35,6 +35,7 @@
   * [內容 Content](kuang-jia-framework/untitled/nei-rong-content.md)
   * [元件 Components、小工具 Utilities](kuang-jia-framework/untitled/yuan-jian-components.md)
   * [練習 Bootstrap 官網 Pricing 範本](https://getbootstrap.com/docs/4.3/examples/)
+  * [練習套上範本 Pricing](kuang-jia-framework/untitled/lian-xi-tao-shang-fan-ben-pricing.md)
 
 ## 其它 <a id="jie-wei"></a>
 
