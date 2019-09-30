@@ -27,8 +27,6 @@ h1{
 
 {% embed url="https://codepen.io/carlos411/pen/orKXpG" caption="Media Query 使用 Media Type 為 print\(列印時\)" %}
 
-{% embed url="https://youtu.be/oW1dXkpIa2E" caption="Media Query 中的 Media Type 使用 print" %}
-
 ## Media Type 的套用方式
 
 一般來說，沒有特別指定的話，Media Type 預設都是 all，也就是不管任何情況，都會套用。
