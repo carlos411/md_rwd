@@ -32,3 +32,7 @@
 
 ## 練習：請套用 Responsive tables
 
+在 Content → Tables → Responsive tables
+
+
+
