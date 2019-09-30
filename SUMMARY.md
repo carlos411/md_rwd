@@ -41,7 +41,7 @@
 * [使用 ngrok](jie-wei/shi-fan-ngrok.md)
 * [套用 hamburger icon](jie-wei/hamburger-icon.md)
 * [後台免費版型 SB Admin 2](jie-wei/zhuan-ti-xun-wen-shi-jian-sb-admin-2.md)
+* [練習](jie-wei/bu-chong-fan-li.md)
 * [參考資料](jie-wei/qi-ta.md)
-* [補充範例](jie-wei/bu-chong-fan-li.md)
 * [FAQ](jie-wei/faq.md)
 
