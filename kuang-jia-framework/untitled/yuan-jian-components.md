@@ -12,5 +12,9 @@
 
 {% embed url="https://codepen.io/carlos411/pen/WVwObR" caption="已經載入 Bootstrap 的範本" %}
 
+練習 1：請套用 Form Row
+
+[Form Row 介面連結](https://getbootstrap.com/docs/4.3/components/forms/#form-row)
+
 
 
