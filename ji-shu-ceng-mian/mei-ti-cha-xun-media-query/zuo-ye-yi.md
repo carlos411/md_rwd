@@ -12,9 +12,7 @@
 
 {% embed url="https://codepen.io/carlos411/pen/ZgEWrN" caption="依螢幕寬度區隔，設定某區塊的 Media Query" %}
 
-解答
-
-{% embed url="https://codepen.io/carlos411/pen/BXapBq" %}
+參考作法
 
 
 
