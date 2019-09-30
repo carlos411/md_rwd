@@ -75,7 +75,7 @@ This doesn’t include documentation, source files, or any **optional JavaScript
 </html>
 ```
 
-## 在 CodePen 中使用
+## 方式三：在 CodePen 中使用
 
 步驟 Settings → CSS → JS → Save & Close，如下圖：
 
