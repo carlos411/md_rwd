@@ -6,8 +6,6 @@
 * screen：這是最常用的，螢幕裝置。
 * print：用於列印時。
 
-還有其它像 speech\(螢幕閱讀器時\)、projection\(投影\) 等，較為少用。
-
 ## 範例一：Media Type 是 print
 
 使用 print 這 media type 來指定列印時，要套用的 CSS：
