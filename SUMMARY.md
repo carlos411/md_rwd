@@ -43,5 +43,4 @@
 * [後台免費版型 SB Admin 2](jie-wei/zhuan-ti-xun-wen-shi-jian-sb-admin-2.md)
 * [練習](jie-wei/bu-chong-fan-li.md)
 * [參考資料](jie-wei/qi-ta.md)
-* [FAQ](jie-wei/faq.md)
 
