@@ -61,10 +61,14 @@ h1{
 
 ### 方式二：寫在 CSS 中
 
-在 CSS 中：\(設定 `@import` 及 `@media` 語法\)
+在 CSS 中：\(設定 `@import` 或 `@media` 語法都可\)
 
 ```css
+/* 只有在列印時，才會套用 */
 @import url("abc.css") print;
+
+/* 或以下這個寫法 */
+
 @media print {
   /* 其它 CSS */
 }
@@ -73,7 +77,11 @@ h1{
 如果是複數個 Media Type：
 
 ```css
+/* 指定在螢幕或列印時，才會套用 */
 @import url("abc.css") screen, print;
+
+/* 或以下這個寫法 */
+
 @media screen, print {
   /* 其它 CSS */
 }
