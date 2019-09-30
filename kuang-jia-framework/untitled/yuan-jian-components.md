@@ -6,9 +6,7 @@
 
 [Utilities 小工具](https://getbootstrap.com/docs/4.3/utilities/borders/)
 
-## Forms、Input group、Modal
-
-請瀏覽 Bootstrap 所提供的所有 Forms 、Input group 、Modal，只要看官網提供的圖示即可。
+## 已經套用好 Bootstrap 的 codepen
 
 並請在以下 code pen 網址中練習套用各種元件：
 
