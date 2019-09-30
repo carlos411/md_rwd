@@ -9,6 +9,7 @@
 * 768px &lt;= 瀏覽器寬度 &lt; 992px 時，`div.my_div1` 的寬度設定成 720px。
 * 992px &lt;= 瀏覽器寬度 &lt; 1200px 時，`div.my_div1` 的寬度設定成 960px。
 * 瀏覽器寬度 &gt;= 1200px 時，`div.my_div1` 的寬度設定成 1140px。
+* 留意圖片不得超出 `div.my_div1` 的區塊。
 
 {% embed url="https://codepen.io/carlos411/pen/ZgEWrN" caption="依螢幕寬度區隔，設定某區塊的 Media Query" %}
 
