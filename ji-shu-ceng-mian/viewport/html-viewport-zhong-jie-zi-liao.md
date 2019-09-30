@@ -22,11 +22,3 @@
 
 ![&#x5716;&#x4E8C;&#xFF1A;&#x884C;&#x52D5;&#x7248;&#x7DB2;&#x9801;](../../.gitbook/assets/viewport_yes.png)
 
-## 結論
-
-只要在做 RWD 的頁面，只要在 html 的 &lt;head&gt; 區段中，加上以下的 meta 標籤即可，完全不用改：
-
-```markup
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-```
-
