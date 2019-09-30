@@ -18,11 +18,5 @@
 
 [作業繳交方式](https://webmix.gitbook.io/responsive-web-design/jian-jie-1/ke-cheng-jian-jie#zuo-ye-jiao-jiao-fang-shi)
 
-## 其它說明
-
-[參考：此規則即 Bootstrap Grid options](https://getbootstrap.com/docs/4.3/layout/grid/#grid-options)
-
-![Bootstrap Grid Options](../../.gitbook/assets/bootstrap_grid_options.png)
-
 {% page-ref page="../../jie-wei/shi-fan-ngrok.md" %}
 
