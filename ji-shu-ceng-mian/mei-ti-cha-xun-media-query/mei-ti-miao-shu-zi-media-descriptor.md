@@ -78,6 +78,12 @@
 }
 ```
 
+例：
+
+{% embed url="https://codepen.io/carlos411/pen/GRKbGMM" %}
+
+
+
 ## 範例五：orientation
 
 orientation 可以設定當手持裝置是橫向或縱向時，需要套用的 CSS，可以設定的值有：
