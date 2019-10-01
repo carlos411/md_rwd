@@ -24,6 +24,12 @@
 }
 ```
 
+例：
+
+{% embed url="https://codepen.io/carlos411/pen/yLBdEVG" %}
+
+
+
 ## 範例二：max-width
 
 當螢幕寬度小於等於 767px 時，連結`<a>` 的文字顏色會變成綠色。
