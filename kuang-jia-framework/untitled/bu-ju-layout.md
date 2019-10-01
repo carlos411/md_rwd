@@ -46,6 +46,8 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/wVKJMR" caption="各欄寬度自動均分及使用 w-100 來斷行" %}
 
+請試著修改每一個你想要的欄數，並觀察。也試著將 `container` 改成 `container-fluid` 並觀察。
+
 ## 範例 3：設定某欄佔幾欄
 
 {% embed url="https://codepen.io/carlos411/pen/GVpMwo" caption="設定某欄佔幾欄" %}
