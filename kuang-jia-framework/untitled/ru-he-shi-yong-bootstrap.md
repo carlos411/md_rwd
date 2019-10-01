@@ -77,6 +77,8 @@ This doesn’t include documentation, source files, or any **optional JavaScript
 
 ## 方式三：在 CodePen 中使用
 
+將上述的「方式二」提供的四個 CDN 連結，放入到下圖：
+
 步驟 Settings → CSS → JS → Save & Close，如下圖：
 
 ![&#x5716;&#x4E00;&#xFF1A;&#x8F09;&#x5165; Bootstrap CSS](../../.gitbook/assets/zai-ru-bootstrapcss.png)
