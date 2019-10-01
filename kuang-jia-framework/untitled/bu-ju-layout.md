@@ -4,7 +4,7 @@
 
 ![&#x5716;&#x4E00;&#xFF1A;Bootstrap &#x7684;&#x683C;&#x7DDA;&#x7CFB;&#x7D71;](../../.gitbook/assets/bootstrap_grid_options.png)
 
-記得以下這幾個版面的中斷點
+記得以下這幾個版面的分界點：
 
 * 576px
 * 768px
