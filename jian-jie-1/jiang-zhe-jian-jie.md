@@ -29,8 +29,8 @@ description: 張互賓 Carlos Chang
 
 ### 沒有 RWD
 
-* [有機媽咪網](http://www.naturalmammy.com/) \(瀏覽看看：[http://www.naturalmammy.com/](http://www.naturalmammy.com/)\)
-* [台灣雕塑學會](http://www.sculpture.org.tw/) \(瀏覽看看：[http://www.sculpture.org.tw/](http://www.sculpture.org.tw/)\)
+* [有機媽咪網](http://www.naturalmammy.com/) \(手機瀏覽看看：[http://www.naturalmammy.com/](http://www.naturalmammy.com/)\)
+* [台灣雕塑學會](http://www.sculpture.org.tw/) \(手機瀏覽看看：[http://www.sculpture.org.tw/](http://www.sculpture.org.tw/)\)
 
 ### 其它：網站前端
 
