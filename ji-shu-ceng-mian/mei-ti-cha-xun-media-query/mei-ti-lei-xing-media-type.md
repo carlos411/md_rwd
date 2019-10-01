@@ -40,7 +40,7 @@ h1{
 ```markup
 <link type="text/css" href="abc.css" media="print">
 
-/* 或 */
+<!-- 或 -->
 
 <style type="text/css" media="print">
   /* 其它 CSS */
@@ -52,7 +52,7 @@ h1{
 ```markup
 <link type="text/css" href="abc.css" media="screen, print">
 
-/* 或 */
+<!-- 或 -->
 
 <style type="text/css" media="screen, print">
   /* 其它 CSS */
