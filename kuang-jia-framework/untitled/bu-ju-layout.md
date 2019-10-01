@@ -120,7 +120,9 @@ div 元素加上 container-fluid 樣式：
 
 ## 範例 11：欄的位移
 
+語樣：offset-{breakpoint}-{number}
+
 {% embed url="https://codepen.io/carlos411/pen/VoaKRy" %}
 
-
+試著新增一列，在 xl 範圍有三個欄位，各佔2、2、2欄，最後一個位移6欄。其它範圍各欄均分。
 
