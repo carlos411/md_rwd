@@ -42,6 +42,12 @@
 }
 ```
 
+例：
+
+{% embed url="https://codepen.io/carlos411/pen/MWgMXJL" %}
+
+
+
 ## 範例三：結合 min-width 與 max-width
 
 當螢幕寬度大於等於 768px 且小於等於 992px 時，連結`<a>` 的文字顏色會變成橘色。
