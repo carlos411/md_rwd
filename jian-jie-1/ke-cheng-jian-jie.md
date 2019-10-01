@@ -14,6 +14,8 @@
 
 ## Code Pen 註冊
 
+作業繳交直接貼 CodePen 的網址，所以請同學先註冊：
+
 [https://codepen.io/](https://codepen.io/)
 
 ## 編輯器
