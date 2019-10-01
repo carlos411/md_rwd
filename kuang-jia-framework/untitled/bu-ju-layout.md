@@ -72,6 +72,8 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/QeybgK" caption="中斷點練習，sm 範圍以上" %}
 
+試著新增一個列，在 xl 範圍\(1200px 以上\)，兩個欄位，各佔 4 欄及 8 欄。
+
 ## 範例 7：分界點練習，同時設定所有範圍及 md 範圍以上
 
 {% embed url="https://codepen.io/carlos411/pen/EqPjoR" caption="中斷點練習，同時設定所有範圍及 md 範圍以上" %}
