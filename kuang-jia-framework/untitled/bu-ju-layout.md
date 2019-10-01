@@ -40,6 +40,8 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/XvmmPJ" caption="sm 範圍以上三欄均分" %}
 
+請試著改成 md 範圍、lg 範圍、xl 範圍，並觀察。
+
 ## 範例 2：各欄寬度自動均分
 
 {% embed url="https://codepen.io/carlos411/pen/wVKJMR" caption="各欄寬度自動均分及使用 w-100 來斷行" %}
