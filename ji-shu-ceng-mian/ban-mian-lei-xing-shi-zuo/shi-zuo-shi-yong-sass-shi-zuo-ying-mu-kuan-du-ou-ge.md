@@ -119,14 +119,14 @@
 @import '../_grid'; /* 匯入檔案 */
 
 div.test_block{
-  @include c-grid-down(sm){
-    /* 這裡的 CSS 會套用在 sm 範圍以下：即 767px 以下 */
+  @include c-grid-down(md){
+    /* 這裡的 CSS 會套用在 md 範圍以下：即 991px 以下 */
   }
-  @include c-grid-up(sm){
-    /* 這裡的 CSS 會套用在 sm 範圍以上：即 576px 以上 */
+  @include c-grid-up(md){
+    /* 這裡的 CSS 會套用在 md 範圍以上：即 768px 以上 */
   }
-  @include c-grid(sm){
-    /* 這裡的 CSS 會套用在 sm 範圍之中：即 576px ~ 767px */
+  @include c-grid(md){
+    /* 這裡的 CSS 會套用在 md 範圍之中：即 768px ~ 991px */
   }
 }
 ```
