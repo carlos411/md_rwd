@@ -4,13 +4,15 @@
 
 * 示範：截取 Retina 螢幕上的區域看解析度。\(截取 1440 x 100的範圍，出來的解析度會是 2880 x 200。\)
 
+官方說明：[Image Size and Resolution](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/image-size-and-resolution/)
+
 ### 範例
 
 假設在 400 x 200的區塊範圍中呈現一張圖片，我們需要準備較高解析度的圖片\(寬高各兩倍大\)，然後在網頁上呈現時，再透過 CSS 設定為 400px，那在 retina 螢幕上才不會有糊模的現象：
 
 {% embed url="https://codepen.io/carlos411/pen/OJLqKxO" %}
 
-官方說明：[Image Size and Resolution](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/image-size-and-resolution/)
+
 
 ## 結論
 
