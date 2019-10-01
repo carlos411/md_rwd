@@ -60,6 +60,12 @@
 }
 ```
 
+例：
+
+{% embed url="https://codepen.io/carlos411/pen/JjPQZJY" %}
+
+
+
 ## 範例四：結合 Media Type
 
 當是螢幕時，螢幕寬度大於等於 768px 且小於等於 992px 時，連結`<a>` 的文字顏色會變成紅色。
