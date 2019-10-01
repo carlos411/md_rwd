@@ -60,6 +60,8 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/MNaEdX" caption="內容決定欄寬" %}
 
+試著增加內容長度，也將 `col-xl-auto` 改成其它例如 `col-lg-auto` 觀察。
+
 ## 範例 5：中斷點練習，所有範圍
 
 {% embed url="https://codepen.io/carlos411/pen/PMZqPr" caption="中斷點練習，所有圍範" %}
