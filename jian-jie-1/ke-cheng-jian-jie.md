@@ -28,7 +28,7 @@
 
 ### 方式一：直接編輯 Dropbox Paper 文件
 
-需有 Dropbox 帳號來 [編輯文件](https://paper.dropbox.com/doc/DA102-Java-RWD--AhJVCPLg7UZYlRQM~lfEPY5PAQ-jwvZqVj0QFh1PnWE5IFRy)，如果沒有 Dropbox 帳號，可以 [Dropbox 註冊](https://db.tt/orEu7RZK) 或使用方式二\(寄 Email\)。
+需有 Dropbox 帳號來 [編輯文件](https://paper.dropbox.com/doc/DA103-Java-RWD--Al5ZnTx68XNX09gF8pYTVEG7AQ-EhKnTG1nlmNOQD5Opub53)，如果沒有 Dropbox 帳號，可以 [Dropbox 註冊](https://db.tt/orEu7RZK) 或使用方式二\(寄 Email\)。
 
 示意：
 
