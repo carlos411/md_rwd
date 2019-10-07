@@ -126,5 +126,14 @@ div 元素加上 container-fluid 樣式：
 
 試著新增一列，在 xl 範圍有三個欄位，各佔2、2、2欄，最後一個位移6欄。其它範圍各欄均分。
 
-註：.row 可以運用在任何地方，不一定要放在 container 裡面。
+## 範例 12：將 row 用在其它 div
+
+{% embed url="https://codepen.io/carlos411/pen/YzzPydQ" %}
+
+
+
+結論：
+
+* .row 可以運用在任何地方，不一定要放在 container 或 container-fluid 裡面。
+* 包住 div.row 的 div，設定 `padding-left: 15px`、`padding-right: 15px` 即可。
 
