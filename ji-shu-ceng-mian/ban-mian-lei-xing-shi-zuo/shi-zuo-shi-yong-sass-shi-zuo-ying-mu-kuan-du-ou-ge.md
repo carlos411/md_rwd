@@ -7,6 +7,7 @@
 {% code-tabs %}
 {% code-tabs-item title="\_grid.scss" %}
 ```css
+/* 指定不同的區間範圍，給定不同的寬度 */
 .c{
   @media screen and (max-width: 575px){  /* xs */
     width: 100%;
