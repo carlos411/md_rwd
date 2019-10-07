@@ -121,13 +121,13 @@
 
 div.test_block{
   @include c-grid-down(md){
-    /* 這裡的 CSS 會套用在 md 範圍以下：即 991px 以下 */
+    /* 這裡的 CSS 會套用在 md 範圍以下：即 991px 以下，會取代 @mixin 裡的 @content */
   }
   @include c-grid-up(md){
-    /* 這裡的 CSS 會套用在 md 範圍以上：即 768px 以上 */
+    /* 這裡的 CSS 會套用在 md 範圍以上：即 768px 以上，會取代 @mixin 裡的 @content */
   }
   @include c-grid(md){
-    /* 這裡的 CSS 會套用在 md 範圍之中：即 768px ~ 991px */
+    /* 這裡的 CSS 會套用在 md 範圍之中：即 768px ~ 991px，會取代 @mixin 裡的 @content */
   }
 }
 ```
