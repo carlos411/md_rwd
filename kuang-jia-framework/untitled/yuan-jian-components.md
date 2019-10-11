@@ -2,7 +2,7 @@
 
 ## 建立一個頁面
 
-建立檔名：`bootstrap_page.html`
+建立檔名：`bootstrap_page1.html`
 
 
 
