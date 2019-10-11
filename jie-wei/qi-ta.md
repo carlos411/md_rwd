@@ -59,3 +59,7 @@
 
 [XML Viewer https://codebeautify.org/xmlviewer](https://codebeautify.org/xmlviewer)
 
+## 網站上線
+
+![&#x57FA;&#x672C;&#x7DB2;&#x7AD9;&#x4E0A;&#x7DDA;&#x6D41;&#x7A0B;](../.gitbook/assets/web_process.png)
+
