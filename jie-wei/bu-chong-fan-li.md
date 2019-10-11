@@ -1,12 +1,12 @@
-# 練習
+# 大量練習
 
-## 介面 hamburger icon
+## 1 介面 hamburger icon
 
 用 button 標籤做一個 hamburger icon：
 
 {% embed url="https://codepen.io/carlos411/pen/rNBErJy" %}
 
-
+## 2 套用 hamburger icon 的外掛
 
 ## 頁面滑動時，上方置頂區域的隱藏與顯示
 
