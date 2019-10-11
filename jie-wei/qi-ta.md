@@ -59,7 +59,25 @@
 
 [XML Viewer https://codebeautify.org/xmlviewer](https://codebeautify.org/xmlviewer)
 
+## 網站技術
+
+* 前端：HTML、CSS、JavaScript
+  * ​[SASS](https://sass-lang.com/)
+  * 做 RWD 前端框架：[Bootstrap](https://getbootstrap.com/)
+  * 做元件框架：[Vue](https://vuejs.org/)、[React](https://reactjs.org/)、[Angular](https://angularjs.org/)
+  * 編譯相關：[Gulp](https://gulpjs.com/)、[Webpack](https://webpack.js.org/)
+  * 測試：[Jest](https://jestjs.io/)、[Mocha](https://mochajs.org/)
+* 後端：[PHP](https://www.php.net/)、[Node.js](https://nodejs.org/en/)
+  * php 框架：[Laravel](https://laravel.com/)
+  * Node.js 框架：[Express](https://expressjs.com/)
+* 作業系統：
+* 資料庫：
+* 版本控管：
+* 佈署維運：
+* * 
 ## 網站上線
 
 ![&#x57FA;&#x672C;&#x7DB2;&#x7AD9;&#x4E0A;&#x7DDA;&#x6D41;&#x7A0B;](../.gitbook/assets/web_process.png)
+
+
 
