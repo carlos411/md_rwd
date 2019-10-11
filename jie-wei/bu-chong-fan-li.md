@@ -4,7 +4,7 @@
 
 用 button 標籤做一個 hamburger icon：
 
-js：
+JavaScript\(使用 jQuery\)：
 
 ```javascript
 $(function(){
@@ -14,6 +14,12 @@ $(function(){
   });
 });
 ```
+
+結果示意：
+
+{% embed url="https://youtu.be/6rJP4TZF4SU" %}
+
+
 
 ## 2 套用 hamburger icon 的外掛
 
