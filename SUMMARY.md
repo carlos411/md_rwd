@@ -38,7 +38,7 @@
 
 ## 其它 <a id="jie-wei"></a>
 
-* [使用 ngrok](jie-wei/shi-fan-ngrok.md)
+* [介紹 ngrok](jie-wei/shi-fan-ngrok.md)
 * [大量練習](jie-wei/bu-chong-fan-li.md)
 * [參考資料](jie-wei/qi-ta.md)
 
