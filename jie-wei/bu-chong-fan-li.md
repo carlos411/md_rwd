@@ -4,7 +4,15 @@
 
 用 button 標籤做一個 hamburger icon：
 
-{% embed url="https://codepen.io/carlos411/pen/rNBErJy" %}
+結構參考：
+
+```markup
+<button type="button" class="hamburger_icon">
+  <span class="-hr -top"></span>
+  <span class="-hr -middle"></span>
+  <span class="-hr -bottom"></span>
+</button>
+```
 
 ## 2 套用 hamburger icon 的外掛
 
