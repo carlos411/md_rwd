@@ -39,7 +39,6 @@
 ## 其它 <a id="jie-wei"></a>
 
 * [使用 ngrok](jie-wei/shi-fan-ngrok.md)
-* [後台免費版型 SB Admin 2](jie-wei/zhuan-ti-xun-wen-shi-jian-sb-admin-2.md)
 * [大量練習](jie-wei/bu-chong-fan-li.md)
 * [參考資料](jie-wei/qi-ta.md)
 
