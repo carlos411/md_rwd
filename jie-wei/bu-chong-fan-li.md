@@ -4,14 +4,15 @@
 
 用 button 標籤做一個 hamburger icon：
 
-結構參考：
+js：
 
-```markup
-<button type="button" class="hamburger_icon">
-  <span class="-hr -top"></span>
-  <span class="-hr -middle"></span>
-  <span class="-hr -bottom"></span>
-</button>
+```javascript
+$(function(){
+  /* 按鈕狀態的切換 */
+  $("button.hamburger_icon").on("click", function(){
+    $(this).toggleClass("-on");
+  });
+});
 ```
 
 ## 2 套用 hamburger icon 的外掛
