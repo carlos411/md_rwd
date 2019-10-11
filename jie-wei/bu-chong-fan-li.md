@@ -27,19 +27,19 @@ $(function(){
 
 只需要看 Usage 的 1 ~ 4 點即可。
 
-## 頁面滑動時，上方置頂區域的隱藏與顯示
+## 3 頁面滑動時，上方置頂區域的隱藏與顯示
 
 {% embed url="https://codepen.io/carlos411/pen/VoEgPd" %}
 
-## 基礎三欄式 RWD
+## 4 基礎三欄式 RWD
 
 {% embed url="https://codepen.io/carlos411/pen/qegxMr" %}
 
-## 導覽列縮合
+## 5 導覽列縮合
 
 {% embed url="https://codepen.io/carlos411/pen/XvGKQz" %}
 
-## 套用 Font Awesome
+## 6 套用 Font Awesome
 
 [官網](https://fontawesome.com/)
 
