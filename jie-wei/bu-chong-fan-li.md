@@ -39,7 +39,7 @@ $(function(){
 
 {% embed url="https://codepen.io/carlos411/pen/XvGKQz" %}
 
-## 練習：套用 Font Awesome
+## 套用 Font Awesome
 
 [官網](https://fontawesome.com/)
 
