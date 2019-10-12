@@ -2,15 +2,14 @@
 
 ## Typography
 
-### 標題
+[官網 - Typography](https://getbootstrap.com/docs/4.3/content/typography/)
 
-### 段落
-
-如果希望段落能夠比較突顯，段落 class 可加上 `lead`。例：
-
-{% embed url="https://codepen.io/carlos411/pen/VwweagG" %}
-
-
+* 標題
+* 段落
+* 文字行內元素
+* 縮寫
+* 引用\(blockquote\)
+* 列表
 
 ## 範例 1：inline code
 
