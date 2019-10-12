@@ -1,6 +1,6 @@
 # 媒體查詢與 viewport
 
-## 使用 Media Query 將版本改成 RWD
+## 使用 Media Query 將固定式版型改成 RWD
 
 請[下載這份已經做好的固定式版型頁面](http://notes.carlos-studio.com/download/html_css_assignment2.zip)。
 
