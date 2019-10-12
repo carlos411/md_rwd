@@ -6,7 +6,7 @@
 
 ![](../../.gitbook/assets/fixed_size_to_rwd.png)
 
-在 css 資料夾中新增 index\_mobile.css 檔案，並且在 index.html 的 head 區段中載入：\(contact.html 頁面不用理會。\)
+在 css 資料夾中新增 index\_mobile.css 檔案，將 css 新增於此頁面，並且在 index.html 的 head 區段中載入即可：\(contact.html 頁面不用理會。\)
 
 ```markup
 <link rel="stylesheet" href="./css/index_mobile.css">
@@ -14,9 +14,7 @@
 
 
 
-
-
 參考做法。
 
-
+學習使用 ngrok
 
