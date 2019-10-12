@@ -8,6 +8,8 @@
 
 {% embed url="https://codepen.io/carlos411/pen/WVwObR" caption="已經載入 Bootstrap 的範本" %}
 
+請練習使用 Breadcrumb、Dropdowns、Forms、Input Group、Pagination、Popover、Tooltips。學會貼 Bootstrap 所提供的元件。
+
 ## 建立一個頁面
 
 建立檔名：`bootstrap_page1.html`
