@@ -12,15 +12,18 @@
 
 ## 建立一個頁面
 
-建立檔名：`bootstrap_page1.html`
+建立檔名：`bootstrap_page.html`
 
-* md 範圍以上\(768px 以上\)：
+* 中間區域是一個 container。
+* 最上方導覽列佔滿版。
+* md 範圍以上\(768px 以上\)：左邊佔9欄，右邊佔3欄
+* sm 範圍以下\(767px以下\)變成是直排：都佔12欄
 
-![](../../.gitbook/assets/md_up.png)
+如下示意：
 
-* sm 範圍以下\(767px以下\)變成是直排：
+{% embed url="https://youtu.be/bMuqlCOrIi0" %}
 
-![&#x90E8;&#x4EFD;&#x793A;&#x610F;&#x5716;](../../.gitbook/assets/sm_down.png)
+
 
 
 
