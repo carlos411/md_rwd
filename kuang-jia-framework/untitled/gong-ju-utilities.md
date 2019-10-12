@@ -26,5 +26,15 @@ lg 的範圍是992px 以上，所以 992px 以上都會隱藏；
 
 ![](../../.gitbook/assets/dao-dian-qu-can-jiu-shi-kuai-tu-shi.png)
 
+## Flex
+
+## Float
+
+* float-left
+* float-right
+* float-none
+
+瀏覽 [Bootstrap 的 float](https://getbootstrap.com/docs/4.3/utilities/float/) 相關 class。
+
 
 
