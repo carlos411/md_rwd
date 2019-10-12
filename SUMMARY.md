@@ -33,7 +33,8 @@
   * [如何使用 Bootstrap](kuang-jia-framework/untitled/ru-he-shi-yong-bootstrap.md)
   * [佈局 Layout](kuang-jia-framework/untitled/bu-ju-layout.md)
   * [內容 Content](kuang-jia-framework/untitled/nei-rong-content.md)
-  * [元件 Components、小工具 Utilities](kuang-jia-framework/untitled/yuan-jian-components.md)
+  * [元件 Components](kuang-jia-framework/untitled/yuan-jian-components.md)
+  * [工具 Utilities](kuang-jia-framework/untitled/gong-ju-utilities.md)
   * [練習套上範本 Pricing 頁](kuang-jia-framework/untitled/lian-xi-tao-shang-fan-ben-pricing.md)
 
 ## 其它 <a id="jie-wei"></a>

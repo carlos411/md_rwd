@@ -1,4 +1,4 @@
-# 元件 Components、小工具 Utilities
+# 元件 Components
 
 ## 建立一個頁面
 
