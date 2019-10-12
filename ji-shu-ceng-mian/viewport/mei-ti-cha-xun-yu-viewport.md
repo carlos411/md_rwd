@@ -6,5 +6,13 @@
 
 ![](../../.gitbook/assets/fixed_size_to_rwd.png)
 
+在 css 資料夾中新增 index\_mobile.css 檔案，並且在 index.html 載入：
+
+```text
+
+```
+
+參考做法
+
 
 
