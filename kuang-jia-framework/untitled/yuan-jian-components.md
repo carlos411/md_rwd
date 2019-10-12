@@ -12,7 +12,7 @@
 
 ## 建立一個頁面
 
-建立檔名：`bootstrap_page.html`
+建立檔名：`bootstrap_grid_and_components.html`
 
 * 中間區域是一個 container。
 * 最上方導覽列佔滿版。
