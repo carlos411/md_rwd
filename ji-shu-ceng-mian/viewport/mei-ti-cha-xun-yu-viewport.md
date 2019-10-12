@@ -16,5 +16,7 @@
 
 參考做法。
 
-學習使用 ngrok
+## 學習使用 ngrok
+
+{% page-ref page="../../jie-wei/shi-fan-ngrok.md" %}
 
