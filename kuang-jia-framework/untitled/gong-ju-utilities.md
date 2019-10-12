@@ -38,5 +38,14 @@ lg 的範圍是992px 以上，所以 992px 以上都會隱藏；
 
 瀏覽 [Bootstrap 的 float](https://getbootstrap.com/docs/4.3/utilities/float/) 相關 class。
 
+## Position
 
+瀏覽 [Bootstrap 的 Position](https://getbootstrap.com/docs/4.3/utilities/position/) 相關 class。
+
+## Visibility
+
+瀏覽 [Bootstrap 的 Visibility](https://getbootstrap.com/docs/4.3/utilities/visibility/) 相關 class。只有兩個 class。
+
+* visible
+* invisible
 
