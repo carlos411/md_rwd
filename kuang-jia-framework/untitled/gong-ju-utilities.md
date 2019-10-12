@@ -28,6 +28,8 @@ lg 的範圍是992px 以上，所以 992px 以上都會隱藏；
 
 ## Flex
 
+瀏覽 [Bootstrap 的 Flex](https://getbootstrap.com/docs/4.3/utilities/flex/) 相關 class。
+
 ## Float
 
 * float-left
