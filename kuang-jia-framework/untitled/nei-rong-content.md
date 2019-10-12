@@ -6,7 +6,11 @@
 
 ### 段落
 
-如果希望段落能夠比較突顯
+如果希望段落能夠比較突顯，段落 class 可加上 `lead`。例：
+
+{% embed url="https://codepen.io/carlos411/pen/VwweagG" %}
+
+
 
 ## 範例 1：inline code
 
