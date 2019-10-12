@@ -47,5 +47,9 @@ $(function(){
 
 ## 區塊的隱藏與切換
 
+結果示意：
+
+{% embed url="https://youtu.be/JmcvKsc1r2I" %}
+
 
 
