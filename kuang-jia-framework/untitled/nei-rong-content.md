@@ -45,7 +45,7 @@
 
 [Bootstrap 官網](https://getbootstrap.com/)
 
-在 Content → Tables → Responsive tables
+請瀏覽 Content → Tables → Responsive tables，試著套用表格相關的介面。
 
 參考作法：
 
