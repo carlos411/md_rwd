@@ -14,3 +14,15 @@
 
 ![](../../.gitbook/assets/display_hide.png)
 
+例：.d-lg-none .d-xl-block
+
+lg 的範圍是992px 以上，所以 992px 以上都會隱藏；  
+但xl以上又變成是 block，所以 1200px 以上會出現。  
+所以真正會隱藏的範圍會是 992px ~ 1199px 。
+
+{% embed url="https://codepen.io/carlos411/pen/mddVryE" %}
+
+實際案例：
+
+![](../../.gitbook/assets/dao-dian-qu-can-jiu-shi-kuai-tu-shi.png)
+
