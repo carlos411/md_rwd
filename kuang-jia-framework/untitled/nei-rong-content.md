@@ -1,5 +1,13 @@
 # 內容 Content
 
+## Typography
+
+### 標題
+
+### 段落
+
+如果希望段落能夠比較突顯
+
 ## 範例 1：inline code
 
 {% embed url="https://codepen.io/carlos411/pen/YmqpPL" caption="inline code" %}
