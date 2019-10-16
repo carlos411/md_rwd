@@ -43,7 +43,15 @@ $(function(){
 
 ## 滿版
 
+區塊滿版，高度250px，裡面一張圖片，如下結構：
 
+```markup
+<div class="img_block">
+  <img src="https://picsum.photos/id/866/800/400">
+</div>
+```
+
+結果示意：
 
 ## 區塊的隱藏與切換
 
