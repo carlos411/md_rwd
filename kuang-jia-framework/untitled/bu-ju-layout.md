@@ -132,7 +132,11 @@ div 元素加上 container-fluid 樣式：
 
 ## 範例 13：將 row 用在其它 div
 
-margin 負邊界
+關於 margin 負邊界：
+
+{% embed url="https://codepen.io/carlos411/pen/zYYBoxV" %}
+
+將 Bootstrap 的 row 用在其它 div：
 
 {% embed url="https://codepen.io/carlos411/pen/YzzPydQ" %}
 
