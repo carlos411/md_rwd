@@ -6,9 +6,9 @@
 概念：版面是固定寬度，不論螢幕寬度如何，都不會影響版面大小。
 {% endhint %}
 
-案例參考：[有機媽咪](http://www.naturalmammy.com/)
+案例參考：[王爺水餃子](http://www.wangye99.idv.tw/)
 
-![&#x6709;&#x6A5F;&#x5ABD;&#x54AA;&#xFF1A;&#x9996;&#x9801;&#x793A;&#x610F;&#x5716;](../.gitbook/assets/naturalmammy.png)
+
 
 ## Fluid：流體式
 
