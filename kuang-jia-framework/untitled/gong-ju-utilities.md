@@ -22,6 +22,12 @@ lg 的範圍是992px 以上，所以 992px 以上都會隱藏；
 
 {% embed url="https://codepen.io/carlos411/pen/mddVryE" %}
 
+欄的隱藏與切換：
+
+{% embed url="https://codepen.io/carlos411/pen/gOOMgYd" %}
+
+
+
 實際案例\( [5breakfast](https://5breakfast.com/) \)：
 
 ![](../../.gitbook/assets/dao-dian-qu-can-jiu-shi-kuai-tu-shi.png)
