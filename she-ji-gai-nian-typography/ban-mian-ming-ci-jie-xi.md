@@ -16,7 +16,7 @@
 概念：版面寬度是用百分比來佔比例，螢幕在縮放時，版面會跟隨螢幕來縮放。
 {% endhint %}
 
-例：[Bootstrap 官網](https://getbootstrap.com/)的下圖區域：
+例：[Bootstrap 官網](https://getbootstrap.com/) 的下圖區域：
 
 ![](../.gitbook/assets/bs_demo_fluid.png)
 
