@@ -31,6 +31,12 @@ $(function(){
 
 ## 3 導覽列縮合
 
+結果示意：
+
+{% embed url="https://youtu.be/8Q7obn9a9hU" %}
+
+
+
 ## 4 基礎三欄式 RWD
 
 ## 5 頁面滑動時，上方置頂區域的隱藏與顯示
