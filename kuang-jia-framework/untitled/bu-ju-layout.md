@@ -143,3 +143,39 @@ div 元素加上 container-fluid 樣式：
 * `.row` 可以運用在任何地方，不一定要放在 `.container` 或 `.container-fluid` 裡面。
 * 包住 div.row 的 div，設定 `padding-left: 15px`、`padding-right: 15px` 即可。
 
+## 練習1
+
+指定檔名：`bs_grid1.html`
+
+建立一個 div.container 元素：
+
+* 裡面的一個列，分成三個內容區塊，每個內容區塊在 md 範圍以上佔四欄，在 md 圍範以下，每個內容區塊都佔 12 欄。
+* 每個內容區塊放一張暫時性的圖，參考 [placeholder.com](https://placeholder.com/)
+
+## 練習2
+
+指定檔名：`bs_grid2.html`
+
+暫時性的假圖參考：[picsum](https://picsum.photos/)。
+
+建立第一個 div.container 元素：
+
+* 裡面的一個列，兩個內容區塊，不管在任何螢幕區間，各佔 6 欄，且內容區塊都是正方形。左側區塊放一張佔滿的背景圖，右側區塊輸入簡短的標題。
+
+緊接著再建立一個 div.container-fluid 元素：
+
+* 放一張佔滿的背景圖。
+
+緊接著再建立一個 div.container 元素：
+
+* 裡面的一個列，兩個內容區塊，不管在任何螢幕區間，各佔 6 欄，且內容區塊都是正方形。左側區塊輸入簡短的標題，右側區塊放一張佔滿的背景圖。
+
+## 練習3
+
+指定檔名：`bs_grid3.html`。
+
+建立一個 div.container-fluid 元素：
+
+* 裡面的一個列，一個內容區塊，在 sm 範圍以上佔 8 欄，且需向右位移 2 欄以達成置中。在 sm 範圍以下則佔 12 欄，不需位移。
+* 上述的內容區塊，需再增加一個列，分成左右兩個區塊，不管任何螢幕範圍，都是各佔 6 欄，內容區塊輸入任意內容皆可。
+
