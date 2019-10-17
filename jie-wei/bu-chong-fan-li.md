@@ -1,6 +1,8 @@
 # 大量練習
 
-## 1 介面 hamburger icon
+## 1 基礎三欄式 RWD
+
+## 2 介面 hamburger icon
 
 用 button 標籤做一個 hamburger icon：
 
@@ -21,15 +23,13 @@ $(function(){
 
 
 
-## 2 套用 hamburger icon 的外掛
+## 3 套用 hamburger icon 的外掛
 
 [官網](https://jonsuh.com/hamburgers/)
 
 只需要看 Usage 的 1 ~ 4 點即可。
 
-## 3 頁面滑動時，上方置頂區域的隱藏與顯示
-
-## 4 基礎三欄式 RWD
+## 4 頁面滑動時，上方置頂區域的隱藏與顯示
 
 ## 5 導覽列縮合
 
