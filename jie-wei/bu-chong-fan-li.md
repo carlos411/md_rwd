@@ -83,7 +83,9 @@ $(function(){
 
 滑動有點卡卡的，加上某個 css 讓其變得滑順。
 
-## 關於 background-attachment
+## 觀察 background-attachment 在實際手機上的呈現
+
+## 觀察 select 標籤在實際手機上的呈現
 
 ## 示範 slick 外掛
 
