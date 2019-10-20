@@ -46,9 +46,9 @@ document.addEventListener('DOMContentLoaded', function(){
 
 [官網](https://jonsuh.com/hamburgers/)
 
+[官方所提供的 css 在這](https://raw.githubusercontent.com/jonsuh/hamburgers/master/dist/hamburgers.css)。
+
 只需要看 Usage 的 1 ~ 4 點即可。
-
-
 
 ## 3 導覽列縮合
 
