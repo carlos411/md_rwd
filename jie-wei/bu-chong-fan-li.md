@@ -9,6 +9,7 @@
 切換 class \(使用 jQuery\)：
 
 ```javascript
+// jQuery 版本：DOM 載入完成之後執行
 $(function(){
   /* 按鈕狀態的切換 */
   $("button.hamburger_icon").on("click", function(){
@@ -19,7 +20,21 @@ $(function(){
 
 切換 class \(使用 JavaScript\)：
 
-
+```javascript
+// JavaScript 版本：DOM 載入完成之後執行
+document.addEventListener('DOMContentLoaded', function(){
+  
+  var hamburger_icon = document.getElementsByClassName("hamburger_icon")[0];
+  hamburger_icon.addEventListener("click", function(){
+    if( hamburger_icon.classList.contains("-on") ){
+      hamburger_icon.classList.remove("-on");
+    }else{
+      hamburger_icon.classList.add("-on");
+    }
+  });
+  
+});
+```
 
 結果示意：
 
