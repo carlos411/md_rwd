@@ -87,7 +87,7 @@ $(function(){
 
 ## 觀察 select 標籤在實際手機上的呈現
 
-## 示範 slick 外掛
+## 套用 slick 外掛
 
-## 示範 ScrollMagic 外掛
+## 套用 ScrollMagic 外掛
 
