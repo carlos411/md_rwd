@@ -50,7 +50,22 @@ document.addEventListener('DOMContentLoaded', function(){
 
 [官方所提供的 css 在這](https://raw.githubusercontent.com/jonsuh/hamburgers/master/dist/hamburgers.css)。
 
-只需要看 Usage 的 1 ~ 4 點即可。
+自行挑選一個效果，學會套用。只需要看 Usage 的 1 ~ 4 點即可。
+
+
+
+切換 class \(使用 jQuery\)：
+
+```javascript
+$(function(){
+  
+  // hamburger icon 的切換
+  $("button.hamburger").on("click", function(){
+    $(this).toggleClass("is-active");
+  });
+
+});
+```
 
 ## 3 導覽列縮合
 
