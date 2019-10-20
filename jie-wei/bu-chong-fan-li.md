@@ -69,6 +69,35 @@ $(function(){
 
 ## 3 導覽列縮合
 
+指定檔名：`nav_switch.html`
+
+提供 html：
+
+```markup
+<button type="button" class="btn_switch">導覽列縮合按鈕</button>
+
+<nav class="main_nav">
+  <ul class="nav_list">
+    <li><a href="#">首頁</a></li>
+    <li><a href="#">關於我們</a></li>
+    <li><a href="#">分類頁</a></li>
+  </ul>
+</nav>
+```
+
+提供 jQuery 寫法：
+
+```javascript
+$(function(){
+  
+  // 點擊按鈕，選單縮放
+  $("button.btn_switch").on("click", function(){
+    $("nav.main_nav").slideToggle();
+  });
+  
+});
+```
+
 結果示意：
 
 {% embed url="https://youtu.be/8Q7obn9a9hU" %}
