@@ -6,12 +6,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 ```
 
-以下有些會用到一點點 jQuery，直接提供 jQuery 載入的 CDN：\(請放在 body 結束標籤之前\)
-
-```markup
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-```
-
 ## 1 介面 hamburger icon
 
 指定檔名：`hamburger_icon.html`
