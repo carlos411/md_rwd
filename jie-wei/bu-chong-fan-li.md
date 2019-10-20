@@ -44,6 +44,8 @@ document.addEventListener('DOMContentLoaded', function(){
 
 ## 2 套用 hamburger icon 的外掛
 
+指定檔名：hamburger\_icon\_with\_plugin.html
+
 [官網](https://jonsuh.com/hamburgers/)
 
 [官方所提供的 css 在這](https://raw.githubusercontent.com/jonsuh/hamburgers/master/dist/hamburgers.css)。
