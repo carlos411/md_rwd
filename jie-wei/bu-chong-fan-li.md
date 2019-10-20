@@ -2,9 +2,11 @@
 
 ## 1 介面 hamburger icon
 
+指定檔名：`hamburger_icon.html`
+
 用 button 標籤做一個 hamburger icon：
 
-JavaScript\(使用 jQuery\)：
+切換 class \(使用 jQuery\)：
 
 ```javascript
 $(function(){
@@ -14,6 +16,10 @@ $(function(){
   });
 });
 ```
+
+切換 class \(使用 JavaScript\)：
+
+
 
 結果示意：
 
