@@ -41,11 +41,7 @@ $(function(){
 
 ## 5 頁面滑動時，上方置頂區域的隱藏與顯示
 
-## 6 套用 Font Awesome
 
-[官網](https://fontawesome.com/)
-
-[下載範例](http://notes.carlos-studio.com/download/fontawesome_sample.zip)
 
 
 
@@ -86,6 +82,12 @@ $(function(){
 ## 觀察 background-attachment 在實際手機上的呈現
 
 ## 觀察 select 標籤在實際手機上的呈現
+
+## 6 套用 Font Awesome
+
+[官網](https://fontawesome.com/)
+
+[下載範例](http://notes.carlos-studio.com/download/fontawesome_sample.zip)
 
 ## 套用 slick 外掛
 
