@@ -204,11 +204,33 @@ $(function(){
 
 {% embed url="https://youtu.be/jQq3ocGodaw" %}
 
+## 7 區塊場景的滿版
+
+指定檔名：`full_scene.html`
+
+製作三個區塊，寬高都佔滿版，留意高度。分別任意指定不同的背景色以便觀察。
+
+給定 html 如下：
+
+```markup
+<section class="scene scene_1">
+  scene1
+</section>
+
+<section class="scene scene_2">
+  scene2
+</section>
+
+<section class="scene scene_3">
+  scene3
+</section>
+```
+
+結果示意：
+
+{% embed url="https://youtu.be/Fwd58Kpvrdc" %}
 
 
-## z-index
-
-## 高度滿版場景
 
 ## 10 個項目在行動版上的呈現模式 - 1
 
@@ -219,6 +241,8 @@ $(function(){
 ## 觀察 background-attachment 在實際手機上的呈現
 
 ## 觀察 select 標籤在實際手機上的呈現
+
+## 觀察 z-index 造成的覆蓋情況
 
 ## 6 套用 Font Awesome
 
