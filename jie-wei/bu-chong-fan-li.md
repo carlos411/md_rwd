@@ -360,3 +360,15 @@ ul.ul_list{
 
 [下載範例](http://notes.carlos-studio.com/download/fontawesome_sample.zip)
 
+## 13 練習 3D Transform - 透視\(Perspective\)
+
+{% embed url="https://codepen.io/carlos411/pen/xxxgeEd" %}
+
+
+
+## 14 練習 3D Transform - 立方體
+
+{% embed url="https://codepen.io/carlos411/pen/qBBReRX" %}
+
+
+
