@@ -18,6 +18,8 @@
 
 ### 第二步：路徑切換到 ngrok 所在的目錄
 
+Mac 使用「終端機\(Terminal\)」；Windows 使用「命令提示字元」。
+
 例如：ngrok 所在位置： `/home/ngrok`，ngrok 是一個檔案，如下圖：
 
 ![&#x5716;&#x4E8C;&#xFF1A;ngrok &#x6A94;&#x6848;](../.gitbook/assets/ngrok-dang-an.png)
