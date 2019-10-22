@@ -124,7 +124,22 @@ $(function(){
 
 {% embed url="https://youtu.be/ABX7rKgLeXo" %}
 
+提供 HTML 結果如下：
 
+```markup
+<div class="all_container">
+  <div>
+    左側<br>
+    另一行
+  </div>
+  <div>
+    中間
+  </div>
+  <div>
+    右側
+  </div>
+</div>
+```
 
 ## 5 頁面滑動時，上方置頂區域的隱藏與顯示
 
