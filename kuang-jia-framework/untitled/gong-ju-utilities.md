@@ -10,6 +10,13 @@
 
 {% embed url="https://codepen.io/carlos411/pen/vYYLKPO" %}
 
+## Visibility
+
+瀏覽 [Bootstrap 的 Visibility](https://getbootstrap.com/docs/4.3/utilities/visibility/) 相關 class。只有兩個 class。
+
+* visible
+* invisible
+
 ## Display 中的 元素隱藏與否
 
 ![](../../.gitbook/assets/display_hide.png)
@@ -32,10 +39,5 @@ lg 的範圍是992px 以上，所以 992px 以上都會隱藏；
 
 ![](../../.gitbook/assets/dao-dian-qu-can-jiu-shi-kuai-tu-shi.png)
 
-## Visibility
 
-瀏覽 [Bootstrap 的 Visibility](https://getbootstrap.com/docs/4.3/utilities/visibility/) 相關 class。只有兩個 class。
-
-* visible
-* invisible
 
