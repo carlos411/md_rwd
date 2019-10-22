@@ -186,7 +186,7 @@ $(function(){
 });
 ```
 
-## 6 圖片滿版
+## 6 內容圖片佔滿版
 
 指定檔案：`full_width_image.html`
 
@@ -201,6 +201,8 @@ $(function(){
 並設定在 575px 以下行動版時，佔滿的區域比例為寬高1:1\(即正方形\)。
 
 結果示意：
+
+{% embed url="https://youtu.be/jQq3ocGodaw" %}
 
 
 
