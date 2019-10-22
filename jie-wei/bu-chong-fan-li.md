@@ -321,7 +321,13 @@ ul.ul_list{
 
 
 
-## 觀察 background-attachment 在實際手機上的呈現
+## 9 觀察 background-attachment 在實際手機上的呈現
+
+結果示意：
+
+{% embed url="https://codepen.io/carlos411/pen/vYYgjXr" %}
+
+請將上面的 html 及 css，建立在你自己的頁面上，然後用實際手機上觀察\(記得加上 viewport\)。與桌機版的差異是？
 
 ## 觀察 select 標籤在實際手機上的呈現
 
