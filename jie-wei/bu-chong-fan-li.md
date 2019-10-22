@@ -149,9 +149,42 @@ $(function(){
 
 {% embed url="https://www.youtube.com/watch?v=o\_OxCWQH21c" %}
 
+提供最上方置頂的那塊 html：
+
+```markup
+<div class="fixed_top">這是置頂的區域</div>
+```
+
+提供 jQuery ：
+
+```javascript
+var header_active = function(){
+  
+  // 取得使用者滑了多少 px
+  var scroll_top = $(window).scrollTop();
+  
+  // 將 scroll_top 數值放到 p.-pos 內容
+  $("p.-pos").html(scroll_top);
+  
+  
+  if(scroll_top >= 100){
+    $("div.fixed_top").addClass("-on");
+  }else{
+    $("div.fixed_top").removeClass("-on");
+  }
+  
+};
 
 
-
+$(function(){
+  
+  // 第三步：偵測頁面滑動時會觸發
+  $(window).scroll(function(){
+    header_active();
+  });
+  
+});
+```
 
 ## 滿版 - 1
 
