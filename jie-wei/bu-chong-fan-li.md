@@ -360,7 +360,3 @@ ul.ul_list{
 
 [下載範例](http://notes.carlos-studio.com/download/fontawesome_sample.zip)
 
-## 套用 slick 外掛
-
-## 套用 ScrollMagic 外掛
-
