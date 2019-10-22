@@ -378,5 +378,9 @@ ul.ul_list{
 
 [參考連結](https://ithelp.ithome.com.tw/articles/10203396?sc=iThelpR)
 
+## 17 定位複習
+
+{% embed url="https://codepen.io/carlos411/pen/qBBrWXg" %}
+
 
 
