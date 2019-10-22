@@ -333,6 +333,19 @@ ul.ul_list{
 
 ## 10 觀察 select 標籤在實際手機上的呈現
 
+可直接在上面的 `background_attachment.html` 檔案中，貼上以下的 select 標籤，用 iOS 手機及 Android 手機觀察介面的不同。
+
+```markup
+<select>
+  <option>第一項</option>
+  <option>第二項</option>
+  <option>第三項</option>
+  <option>第四項</option>
+  <option>第五項</option>
+  <option>第六項</option>
+</select>
+```
+
 ## 觀察 z-index 造成的覆蓋情況
 
 ## 6 套用 Font Awesome
