@@ -354,7 +354,7 @@ ul.ul_list{
 
 為什麼「連結」點不到？
 
-## 6 套用 Font Awesome
+## 12 套用 Font Awesome
 
 [官網](https://fontawesome.com/)
 
