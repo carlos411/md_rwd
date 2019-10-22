@@ -238,6 +238,14 @@ $(function(){
 
 請用實際手機看，觀察：滑動是不是卡卡的，加上某個 css 讓其變得滑順。
 
+較舊版的可能滑動會有卡卡的現象，加上以下即可：
+
+```css
+ul.ul_list{
+  -webkit-overflow-scrolling: touch;
+}
+```
+
 結果示意：
 
 {% embed url="https://youtu.be/AUN5E3y7eao" %}
