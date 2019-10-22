@@ -188,7 +188,7 @@ $(function(){
 
 ## 6 圖片滿版
 
-指定檔案：`image_full_width.html`
+指定檔案：`full_width_image.html`
 
 區塊滿版，高度250px，裡面一張圖片，如下結構：
 
