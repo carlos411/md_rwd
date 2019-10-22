@@ -246,6 +246,75 @@ ul.ul_list{
 }
 ```
 
+提供 html 如下：
+
+```markup
+<div class="list_container">
+  <ul class="ul_list">
+    <li class="item">
+      <div class="item_block">
+        <h1>標題1</h1>
+        <img src="https://picsum.photos/id/500/200/100">
+      </div>
+    </li>
+    <li class="item">
+      <div class="item_block">
+        <h1>標題2</h1>
+        <img src="https://picsum.photos/id/500/200/100">
+      </div>
+    </li>
+    <li class="item">
+      <div class="item_block">
+        <h1>標題3</h1>
+        <img src="https://picsum.photos/id/500/200/100">
+      </div>
+    </li>
+    <li class="item">
+      <div class="item_block">
+        <h1>標題4</h1>
+        <img src="https://picsum.photos/id/500/200/100">
+      </div>
+    </li>
+    <li class="item">
+      <div class="item_block">
+        <h1>標題5</h1>
+        <img src="https://picsum.photos/id/500/200/100">
+      </div>
+    </li>
+    <li class="item">
+      <div class="item_block">
+        <h1>標題6</h1>
+        <img src="https://picsum.photos/id/500/200/100">
+      </div>
+    </li>
+    <li class="item">
+      <div class="item_block">
+        <h1>標題7</h1>
+        <img src="https://picsum.photos/id/500/200/100">
+      </div>
+    </li>
+    <li class="item">
+      <div class="item_block">
+        <h1>標題8</h1>
+        <img src="https://picsum.photos/id/500/200/100">
+      </div>
+    </li>
+    <li class="item">
+      <div class="item_block">
+        <h1>標題9</h1>
+        <img src="https://picsum.photos/id/500/200/100">
+      </div>
+    </li>
+    <li class="item">
+      <div class="item_block">
+        <h1>標題10</h1>
+        <img src="https://picsum.photos/id/500/200/100">
+      </div>
+    </li>
+  </ul>
+</div>
+```
+
 結果示意：
 
 {% embed url="https://youtu.be/AUN5E3y7eao" %}
