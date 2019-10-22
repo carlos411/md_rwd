@@ -4,7 +4,7 @@
 
 ```markup
 <button type="button" class="close">
-  <span aria-hidden="true">&times;</span>
+  <span>&times;</span>
 </button>
 ```
 
