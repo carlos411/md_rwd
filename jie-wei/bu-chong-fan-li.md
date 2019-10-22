@@ -346,7 +346,13 @@ ul.ul_list{
 </select>
 ```
 
-## 觀察 z-index 造成的覆蓋情況
+## 11 觀察 z-index 造成的覆蓋情況
+
+以下例子：
+
+{% embed url="https://codepen.io/carlos411/pen/rNNjvzj" %}
+
+為什麼「連結」點不到？
 
 ## 6 套用 Font Awesome
 
