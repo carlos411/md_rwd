@@ -110,7 +110,21 @@ $(function(){
 
 
 
-## 4 基礎三欄式 RWD
+## 4 三欄式 RWD - 使用 Flexbox
+
+指定檔名：`rwd_with_flexbox.html`
+
+說明：
+
+* 768px 以上為桌機版；767px 以下為行動版。
+* 左欄及右欄寬度各 200px，剩餘空間寬度都給中間欄。
+* 限定使用 Flexbox 來製作三欄式 RWD 排版。
+
+結果示意：
+
+{% embed url="https://youtu.be/ABX7rKgLeXo" %}
+
+
 
 ## 5 頁面滑動時，上方置頂區域的隱藏與顯示
 
