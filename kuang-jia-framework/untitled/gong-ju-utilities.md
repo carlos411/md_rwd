@@ -3,7 +3,7 @@
 ## Close icon
 
 ```markup
-<button type="button" class="close" aria-label="Close">
+<button type="button" class="close">
   <span aria-hidden="true">&times;</span>
 </button>
 ```
