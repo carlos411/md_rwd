@@ -224,6 +224,10 @@ $(function(){
 
 {% embed url="https://youtu.be/jQq3ocGodaw" %}
 
+{% embed url="https://codepen.io/carlos411/pen/JjjELmR" %}
+
+
+
 ## 7 區塊場景的滿版
 
 指定檔名：`full_scene.html`
