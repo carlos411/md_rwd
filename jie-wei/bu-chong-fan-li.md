@@ -79,6 +79,14 @@ $(function(){
 });
 ```
 
+
+
+參考作法：
+
+{% embed url="https://codepen.io/carlos411/pen/xvVLyR" %}
+
+
+
 ## 3 導覽列縮合
 
 指定檔名：`nav_switch.html`
