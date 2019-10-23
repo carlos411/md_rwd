@@ -339,6 +339,8 @@ ul.ul_list{
 
 {% embed url="https://youtu.be/AUN5E3y7eao" %}
 
+{% embed url="https://codepen.io/carlos411/pen/QWWdrbX" %}
+
 
 
 ## 9 觀察 background-attachment 在實際手機上的呈現
