@@ -371,7 +371,7 @@ ul.ul_list{
 
 {% embed url="https://codepen.io/carlos411/pen/vYYgjXr" %}
 
-請將上面的 html 及 css，建立在你自己的頁面上，然後用實際手機上觀察\(記得加上 viewport\)。與桌機版的差異是？
+請將上面的 html 及 css，建立在你自己的頁面上，然後用實際手機上觀察\(記得加上 viewport\)。觀察與桌機版的差異是？\(手機不支援 `background-attachment: fixed;` 的呈現，所以需要另外調整。\)
 
 ## 10 觀察 select 標籤在實際手機上的呈現
 
