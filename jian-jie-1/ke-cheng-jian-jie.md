@@ -2,7 +2,7 @@
 
 第一天：學習 RWD 基本概念及相關技術。
 
-第二天：Bootstrap 及練習。
+第二天：Bootstrap 及專題\(至少一個頁面的 RWD\)、大量練習。
 
 ## 什麼是 Responsive Web Design？
 
