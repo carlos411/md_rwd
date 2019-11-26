@@ -32,7 +32,7 @@
 
 ### 方式一：直接編輯 Dropbox Paper 文件
 
-需有 Dropbox 帳號來 [編輯文件](https://paper.dropbox.com/doc/DD104-RWD--Ami9RpjfOqZIveUlu~dCtdrYAQ-G3n2oKz989gWi3LpQyKxe)，如果沒有 Dropbox 帳號，可以 [Dropbox 註冊](https://db.tt/orEu7RZK) 或使用方式二\(寄 Email\)。
+需有 Dropbox 帳號來 [編輯文件](https://paper.dropbox.com/doc/DA104-Java-RWD--ApQyhXzKgA0qeuzJUm_2ehVuAQ-bB8WZe8bkJTgFuXegCdHd)，如果沒有 Dropbox 帳號，可以 [Dropbox 註冊](https://db.tt/orEu7RZK) 或使用方式二\(寄 Email\)。
 
 示意：
 
@@ -44,7 +44,7 @@
 
 Email 主旨：
 
-**DD104 RWD T19xxxxx 作業一繳交**
+**DA104 RWD T19xxxxx 作業一繳交**
 
 內容：
 
