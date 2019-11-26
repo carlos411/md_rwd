@@ -400,11 +400,7 @@ ul.ul_list{
 
 {% embed url="https://codepen.io/carlos411/pen/YzzNmrv" %}
 
-## 16 VS Code 安裝 SASS 外掛
-
-[參考連結](https://ithelp.ithome.com.tw/articles/10203396?sc=iThelpR)
-
-## 17 定位複習
+## 16 定位複習
 
 {% embed url="https://codepen.io/carlos411/pen/qBBrWXg" %}
 
