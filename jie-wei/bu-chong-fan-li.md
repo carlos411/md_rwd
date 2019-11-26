@@ -416,9 +416,3 @@ ul.ul_list{
 
 {% embed url="https://codepen.io/carlos411/pen/YzzNmrv" %}
 
-## 16 定位複習
-
-{% embed url="https://codepen.io/carlos411/pen/qBBrWXg" %}
-
-
-
