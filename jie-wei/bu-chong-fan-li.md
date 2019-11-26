@@ -159,6 +159,12 @@ $(function(){
 </div>
 ```
 
+參考作法：
+
+{% embed url="https://codepen.io/carlos411/pen/MWWJQvQ" %}
+
+
+
 ## 5 頁面滑動時，上方置頂區域的隱藏與顯示
 
 指定檔名：`fixed_top_nav.html`
