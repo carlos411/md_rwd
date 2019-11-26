@@ -1,8 +1,8 @@
 # 課程簡介
 
-第一、二天：學習 RWD 相關及 Bootstrap。
+第一天：學習 RWD 基本概念及相關技術。
 
-第三天：QA及練習。
+第二天：Bootstrap 及練習。
 
 ## 什麼是 Responsive Web Design？
 

@@ -4,8 +4,7 @@
 
 提供使用 [SASS](https://sass-lang.com/) 的 SCSS 語法，劃分好幾個螢幕區域，方便實作 RWD，建立一個 `_grid.scss` 檔案如下：
 
-{% code-tabs %}
-{% code-tabs-item title="\_grid.scss" %}
+{% code title="\_grid.scss" %}
 ```css
 /* 指定不同的區間範圍，給定不同的寬度 */
 .c{
@@ -109,13 +108,11 @@
 }
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 那麼該如何使用呢？假設有一個 index.scss 需要用到，使用方式如下：
 
-{% code-tabs %}
-{% code-tabs-item title="index.scss" %}
+{% code title="index.scss" %}
 ```css
 @import '../_grid'; /* 匯入檔案 */
 
@@ -131,8 +128,7 @@ div.test_block{
   }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 觀察：
 
