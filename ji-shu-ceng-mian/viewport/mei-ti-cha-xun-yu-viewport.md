@@ -2,9 +2,9 @@
 
 ## 使用 Media Query 將固定式版型改成 RWD
 
-請[下載這份已經做好的固定式版型頁面](http://notes.carlos-studio.com/download/html_css_assignment2.zip)。
+請[下載這份已經做好的「固定式版型」轉成「嚮應式版境」的頁面](http://notes.carlos-studio.com/download/rwd_fixed_layout_to_rwd.zip)。
 
-在 767px 以下時，變成如下圖：
+在 767px 以下時，會變成如下圖：
 
 ![](../../.gitbook/assets/fixed_size_to_rwd.png)
 
