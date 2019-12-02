@@ -66,19 +66,19 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/MNaEdX" caption="內容決定欄寬" %}
 
-## 範例 5：分界點練習，所有範圍
+## 範例 5：分界點練習 - 所有範圍
 
 {% embed url="https://codepen.io/carlos411/pen/PMZqPr" caption="分界點練習，所有圍範" %}
 
 試著新增一個列\(row\)，不論任何範圍，各佔 3 欄及 7 欄。
 
-## 範例 6：分界點練習，sm 範圍以上
+## 範例 6：分界點練習 - sm 範圍以上
 
 {% embed url="https://codepen.io/carlos411/pen/QeybgK" caption="分界點練習，sm 範圍以上" %}
 
 試著新增一個列，在 xl 範圍\(1200px 以上\)，兩個欄位，各佔 4 欄及 8 欄。
 
-## 範例 7：分界點練習，同時設定所有範圍及 md 範圍以上
+## 範例 7：分界點練習 - 同時設定所有範圍及 md 範圍以上
 
 {% embed url="https://codepen.io/carlos411/pen/EqPjoR" caption="分界點練習，多個範圍一起使用 " %}
 
