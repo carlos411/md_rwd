@@ -2,7 +2,7 @@
 
 ## Typography
 
-[官網 - Typography](https://getbootstrap.com/docs/4.3/content/typography/)
+[官網 - Typography](https://getbootstrap.com/docs/4.4/content/typography/)
 
 * 標題
 * 段落
