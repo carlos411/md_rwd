@@ -20,7 +20,7 @@ This doesn’t include documentation, source files, or any **optional JavaScript
 實測結果，jQuery 一定要載入，這裡將 [jQuery](https://jquery.com/) 及 [Popper](https://popper.js.org/) 一起載入。直接提供這兩個的原始碼：
 
 * [jquery-3.4.1.min.js](https://code.jquery.com/jquery-3.4.1.min.js)
-* [popper.min.js](https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js)
+* [popper.min.js](https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js)
 
 所以最後全部順利載入的原始碼如下：
 
