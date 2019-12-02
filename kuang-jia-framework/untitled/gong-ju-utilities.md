@@ -12,7 +12,7 @@
 
 ## Visibility
 
-瀏覽 [Bootstrap 的 Visibility](https://getbootstrap.com/docs/4.3/utilities/visibility/) 相關 class。只有兩個 class。
+瀏覽 [Bootstrap 的 Visibility](https://getbootstrap.com/docs/4.4/utilities/visibility/) 相關 class。只有兩個 class。
 
 * visible
 * invisible
