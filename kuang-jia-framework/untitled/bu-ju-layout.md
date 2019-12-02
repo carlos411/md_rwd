@@ -145,7 +145,7 @@ div 元素加上 container-fluid 樣式：
 結論：
 
 * `.row` 可以運用在任何地方，不一定要放在 `.container` 或 `.container-fluid` 裡面。
-* 包住 div.row 的 div，設定 `padding-left: 15px`、`padding-right: 15px` 即可。
+* 包住 div.row 的父層 div，設定 `padding-left: 15px`、`padding-right: 15px` 即可。
 
 ## 練習1
 
