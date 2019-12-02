@@ -147,7 +147,7 @@ div 元素加上 container-fluid 樣式：
 * `.row` 可以運用在任何地方，不一定要放在 `.container` 或 `.container-fluid` 裡面。
 * 包住 div.row 的父層 div，設定 `padding-left: 15px`、`padding-right: 15px` 即可。
 
-## 練習1
+## Grid 練習1
 
 建立一個 div.container 元素：
 
@@ -160,7 +160,7 @@ div 元素加上 container-fluid 樣式：
 
 
 
-## 練習2
+## Grid 練習2
 
 暫時性的假圖參考：[picsum](https://picsum.photos/)。
 
@@ -176,7 +176,7 @@ div 元素加上 container-fluid 樣式：
 
 * 裡面的一個列，兩個內容區塊，不管在任何螢幕區間，各佔 6 欄，且內容區塊都是正方形。左側區塊輸入簡短的標題，右側區塊放一張佔滿的背景圖。
 
-## 練習3
+## Grid 練習3
 
 建立一個 div.container-fluid 元素：
 
