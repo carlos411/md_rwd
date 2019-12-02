@@ -36,6 +36,12 @@ div 元素加上 container-fluid 樣式：
 
 這時的 `div.container-fluid`，寬度就是 100%。
 
+從 4.4.1 版本開始，多了以下規範：
+
+![](../../.gitbook/assets/bootstrap_container_breakpoint.png)
+
+範例[觀察](https://getbootstrap.com/docs/4.4/examples/grid/#containers)。
+
 ## 範例 1：sm 範圍以上三欄均分
 
 {% embed url="https://codepen.io/carlos411/pen/XvmmPJ" caption="sm 範圍以上三欄均分" %}
