@@ -54,7 +54,7 @@ div 元素加上 container-fluid 樣式：
 
 也試著將 `container` 改成 `container-fluid` 並觀察。
 
-## 範例 3：設定某欄佔幾欄
+## 範例 3：不論任何範圍，設定某欄佔幾欄
 
 {% embed url="https://codepen.io/carlos411/pen/GVpMwo" caption="設定某欄佔幾欄" %}
 
