@@ -41,11 +41,15 @@
 
 {% embed url="https://codepen.io/carlos411/pen/OKNbwJ" caption="帶有標題的圖片，使用 figure 元素" %}
 
-## 練習：請套用 Responsive tables
+## 範例 6：套用 Responsive tables
 
 [Bootstrap 官網](https://getbootstrap.com/)
 
 請瀏覽 Content → Tables → Responsive tables，試著套用表格相關的介面。
 
 參考作法：
+
+{% embed url="https://codepen.io/carlos411/pen/ZEzNNRE" %}
+
+
 
