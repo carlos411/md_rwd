@@ -70,7 +70,7 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/PMZqPr" caption="分界點練習，所有圍範" %}
 
-試著新增一個列\(row\)，各佔 3 欄及 7 欄。
+試著新增一個列\(row\)，不論任何範圍，各佔 3 欄及 7 欄。
 
 ## 範例 6：分界點練習，sm 範圍以上
 
