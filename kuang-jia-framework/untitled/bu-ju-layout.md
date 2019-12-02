@@ -149,16 +149,18 @@ div 元素加上 container-fluid 樣式：
 
 ## 練習1
 
-指定檔名：`bs_grid1.html`
-
 建立一個 div.container 元素：
 
 * 裡面的一個列，分成三個內容區塊，每個內容區塊在 md 範圍以上佔四欄，在 md 圍範以下，每個內容區塊都佔 12 欄。
 * 每個內容區塊放一張暫時性的圖，參考 [placeholder.com](https://placeholder.com/)
 
-## 練習2
+結果示意：
 
-指定檔名：`bs_grid2.html`
+{% embed url="https://youtu.be/pTcbigJMZJQ" %}
+
+
+
+## 練習2
 
 暫時性的假圖參考：[picsum](https://picsum.photos/)。
 
@@ -175,8 +177,6 @@ div 元素加上 container-fluid 樣式：
 * 裡面的一個列，兩個內容區塊，不管在任何螢幕區間，各佔 6 欄，且內容區塊都是正方形。左側區塊輸入簡短的標題，右側區塊放一張佔滿的背景圖。
 
 ## 練習3
-
-指定檔名：`bs_grid3.html`。
 
 建立一個 div.container-fluid 元素：
 
