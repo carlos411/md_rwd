@@ -50,7 +50,7 @@ This doesn’t include documentation, source files, or any **optional JavaScript
 
 ## 方式二：直接使用 CDN
 
-![&#x5716;&#x4E8C;&#xFF1A;Bootstrap CDN](../../.gitbook/assets/bootstrap_cdn.png)
+![&#x5716;&#x4E8C;&#xFF1A;Bootstrap CDN](../../.gitbook/assets/bootstrap_download_cdn_hint.png)
 
 將上圖 CDN 所提供的路徑載入，如下原始碼：
 
