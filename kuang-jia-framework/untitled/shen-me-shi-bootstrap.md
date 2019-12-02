@@ -12,7 +12,7 @@
 
 有沒有什麼缺點：
 
-* 出現版本升級是令人困擾的，例如 Bootstrap 2.x 到 3.x 到 4.x，現在最新的版本是 4.3.1。
+* 出現版本升級是令人困擾的，例如 Bootstrap 2.x 到 3.x 到 4.x，現在最新的版本是 4.4.1。
 * 有可能僅使用了部份的 Bootstrap 功能，其它沒有用到，但也是載了全部的 Bootstrap 原始碼。
 
 除了 Bootstrap 之外，也有很多網站前端框架，以同類型的框架來看，還有 [Foundation](https://foundation.zurb.com/)、[Semantic UI](https://semantic-ui.com/) 等工具，這裡我們介紹眾多人使用的 Bootstrap 前端框架。
