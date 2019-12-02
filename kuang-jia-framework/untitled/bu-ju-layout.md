@@ -176,6 +176,12 @@ div 元素加上 container-fluid 樣式：
 
 * 裡面的一個列，兩個內容區塊，不管在任何螢幕區間，各佔 6 欄，且內容區塊都是正方形。左側區塊輸入簡短的標題，右側區塊放一張佔滿的背景圖。
 
+結果示意：
+
+{% embed url="https://youtu.be/TKfSvneIchI" %}
+
+
+
 ## Grid 練習3
 
 建立一個 div.container-fluid 元素：
