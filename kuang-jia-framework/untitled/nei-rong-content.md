@@ -2,14 +2,13 @@
 
 ## Typography
 
-[官網 - Typography](https://getbootstrap.com/docs/4.4/content/typography/)
+[官網 - Typography](https://getbootstrap.com/docs/4.4/content/typography/) 提到的部份：
 
-* 標題
-* 段落
-* 文字行內元素
-* 縮寫
-* 引用\(blockquote\)
-* 列表
+* 標題\(Headings\)
+* 文字行內元素\(Inline text elements\)
+* 縮寫\(Abbreviations\)
+* 引用\(Blockquotes\)
+* 列表\(Lists\)
 
 ## 範例 1：inline code
 
