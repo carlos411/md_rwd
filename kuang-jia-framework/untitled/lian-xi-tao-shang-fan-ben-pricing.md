@@ -8,7 +8,7 @@
 
 ## Pricing
 
-進到 [Bootstrap Examples](https://getbootstrap.com/docs/4.3/examples/) 頁面點擊 Pricing 頁面。練習將此頁面下載下來，建成 `pricing.html` 檔案。
+進到 [Bootstrap Examples](https://getbootstrap.com/docs/4.4/examples/) 頁面點擊 Pricing 頁面。練習將此頁面下載下來，建成 `pricing.html` 檔案。
 
 
 
