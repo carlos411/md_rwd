@@ -19,6 +19,12 @@
 * visible
 * invisible
 
+範例：
+
+{% embed url="https://codepen.io/carlos411/pen/vYEYvLq" %}
+
+
+
 ## Display 中的 元素隱藏與否
 
 ![](../../.gitbook/assets/display_hide.png)
