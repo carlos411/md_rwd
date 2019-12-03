@@ -1,6 +1,6 @@
 # 元件 Components
 
-[瀏覽所有元件](https://getbootstrap.com/docs/4.3/components/alerts/)
+於 Bootstrap 上[瀏覽所有元件](https://getbootstrap.com/docs/4.4/components/alerts/)。
 
 ## 已經套用好 Bootstrap 的 codepen
 
