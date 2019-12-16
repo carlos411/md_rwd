@@ -1,4 +1,4 @@
-# 參考資料
+# 12. 參考資料
 
 * [RWD 相關主題文章\(Responsive Web Design Is…\)](https://responsivedesign.is)
 * [亂數產生器](http://lab.25sprout.com/nrprnd/)
