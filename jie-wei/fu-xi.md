@@ -42,7 +42,7 @@
 ## 七、練習以下兩個範例
 
 * [介面 - Progress 進度條](https://docs.webmix.cc/html-and-css/4.-ban-mian-ou-kuai-shi-zuo#14-jie-mian-progress-jin-du-tiao)
-* [介面 - Input Group](https://docs.webmix.cc/html-and-css/4.-ban-mian-ou-kuai-shi-zuo#12-jie-mian-input-group)
+* [介面 - Input Group](https://docs.webmix.cc/html-and-css/4.-ban-mian-ou-kuai-shi-zuo#12-jie-mian-input-group) \(此例請同學不要使用 codepen，因為怪怪的，請自行建立一個 html 檔，然後用瀏覽器開啟的方式去觀察\)
 
 
 
