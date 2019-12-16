@@ -25,6 +25,7 @@
 * fixed
 * relative
 * absolute
+* [sticky](https://www.w3schools.com/howto/howto_css_sticky_element.asp)
 
 ## 五、float 屬性
 
