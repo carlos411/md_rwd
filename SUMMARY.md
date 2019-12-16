@@ -24,7 +24,7 @@
   * [7.1 作業一](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/zuo-ye-yi.md)
   * [7.2 作業二](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/xiang-ying-shi-ban-xing-responsive.md)
   * [7.3 作業三](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/zuo-ye-san.md)
-* [補充：使用 SASS 實作螢幕寬度區隔](ji-shu-ceng-mian/shi-zuo-shi-yong-sass-shi-zuo-ying-mu-kuan-du-ou-ge.md)
+* [8. 補充：使用 SASS 實作螢幕寬度區隔](ji-shu-ceng-mian/shi-zuo-shi-yong-sass-shi-zuo-ying-mu-kuan-du-ou-ge.md)
 
 ## 框架 Framework
 
