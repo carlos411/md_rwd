@@ -24,8 +24,6 @@
 
 {% embed url="https://youtu.be/bMuqlCOrIi0" %}
 
-{% embed url="https://codepen.io/carlos411/pen/OJJMXbV" %}
-
 
 
 
