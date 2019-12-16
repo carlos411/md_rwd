@@ -28,19 +28,19 @@
 
 ## 框架 Framework
 
-* [Bootstrap](kuang-jia-framework/untitled/README.md)
-  * [什麼是 Bootstrap](kuang-jia-framework/untitled/shen-me-shi-bootstrap.md)
-  * [如何使用 Bootstrap](kuang-jia-framework/untitled/ru-he-shi-yong-bootstrap.md)
-  * [佈局 Layout](kuang-jia-framework/untitled/bu-ju-layout.md)
-  * [內容 Content](kuang-jia-framework/untitled/nei-rong-content.md)
-  * [元件 Components](kuang-jia-framework/untitled/yuan-jian-components.md)
-  * [工具 Utilities](kuang-jia-framework/untitled/gong-ju-utilities.md)
-  * [練習套用 Examples](kuang-jia-framework/untitled/lian-xi-tao-shang-fan-ben-pricing.md)
+* [9. Bootstrap](kuang-jia-framework/untitled/README.md)
+  * [9.1 什麼是 Bootstrap](kuang-jia-framework/untitled/shen-me-shi-bootstrap.md)
+  * [9.2 如何使用 Bootstrap](kuang-jia-framework/untitled/ru-he-shi-yong-bootstrap.md)
+  * [9.3 佈局 Layout](kuang-jia-framework/untitled/bu-ju-layout.md)
+  * [9.4 內容 Content](kuang-jia-framework/untitled/nei-rong-content.md)
+  * [9.5 元件 Components](kuang-jia-framework/untitled/yuan-jian-components.md)
+  * [9.6 工具 Utilities](kuang-jia-framework/untitled/gong-ju-utilities.md)
+  * [9.7 練習套用 Examples](kuang-jia-framework/untitled/lian-xi-tao-shang-fan-ben-pricing.md)
 
 ## 其它 <a id="jie-wei"></a>
 
-* [介紹 ngrok](jie-wei/shi-fan-ngrok.md)
-* [大量練習](jie-wei/bu-chong-fan-li.md)
+* [10. 介紹 ngrok](jie-wei/shi-fan-ngrok.md)
+* [11. 大量練習](jie-wei/bu-chong-fan-li.md)
 * [複習](jie-wei/fu-xi.md)
 * [參考資料](jie-wei/qi-ta.md)
 
