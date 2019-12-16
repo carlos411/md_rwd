@@ -7,15 +7,15 @@
 
 ## 設計概念 <a id="she-ji-gai-nian-typography"></a>
 
-* [格線系統 Grid System](she-ji-gai-nian-typography/pei-zhi-ying-mu-kuan-du.md)
-* [版面概念解析](she-ji-gai-nian-typography/ban-mian-ming-ci-jie-xi.md)
-* [圖片在 Retina 螢幕上的呈現](she-ji-gai-nian-typography/retina-ying-mu.md)
+* [2. 格線系統 Grid System](she-ji-gai-nian-typography/pei-zhi-ying-mu-kuan-du.md)
+* [3. 版面概念解析](she-ji-gai-nian-typography/ban-mian-ming-ci-jie-xi.md)
+* [4. 圖片在 Retina 螢幕上的呈現](she-ji-gai-nian-typography/retina-ying-mu.md)
 
 ## 技術層面
 
-* [媒體查詢 Media Query](ji-shu-ceng-mian/mei-ti-cha-xun-media-query/README.md)
-  * [媒體類型 Media Type](ji-shu-ceng-mian/mei-ti-cha-xun-media-query/mei-ti-lei-xing-media-type.md)
-  * [媒體描述 Media Features](ji-shu-ceng-mian/mei-ti-cha-xun-media-query/mei-ti-miao-shu-zi-media-descriptor.md)
+* [5. 媒體查詢 Media Query](ji-shu-ceng-mian/mei-ti-cha-xun-media-query/README.md)
+  * [5.1 媒體類型 Media Type](ji-shu-ceng-mian/mei-ti-cha-xun-media-query/mei-ti-lei-xing-media-type.md)
+  * [5.2 媒體描述 Media Features](ji-shu-ceng-mian/mei-ti-cha-xun-media-query/mei-ti-miao-shu-zi-media-descriptor.md)
 * [Viewport](ji-shu-ceng-mian/viewport/README.md)
   * [Viewport 定義](ji-shu-ceng-mian/viewport/viewport-ding-yi.md)
   * [HTML Viewport 中介資料](ji-shu-ceng-mian/viewport/html-viewport-zhong-jie-zi-liao.md)
