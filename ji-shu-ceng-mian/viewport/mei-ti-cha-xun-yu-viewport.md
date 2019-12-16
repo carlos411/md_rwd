@@ -1,4 +1,4 @@
-# 媒體查詢與 viewport
+# 6.3 媒體查詢與 viewport
 
 ## 使用 Media Query 將固定式版型改成 RWD
 
