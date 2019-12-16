@@ -20,10 +20,10 @@
   * [6.1 Viewport 定義](ji-shu-ceng-mian/viewport/viewport-ding-yi.md)
   * [6.2 HTML Viewport 中介資料](ji-shu-ceng-mian/viewport/html-viewport-zhong-jie-zi-liao.md)
   * [6.3 媒體查詢與 viewport](ji-shu-ceng-mian/viewport/mei-ti-cha-xun-yu-viewport.md)
-* [Media Query 課堂作業](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/README.md)
-  * [作業一](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/zuo-ye-yi.md)
-  * [作業二](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/xiang-ying-shi-ban-xing-responsive.md)
-  * [作業三](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/zuo-ye-san.md)
+* [7. Media Query 課堂作業](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/README.md)
+  * [7.1 作業一](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/zuo-ye-yi.md)
+  * [7.2 作業二](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/xiang-ying-shi-ban-xing-responsive.md)
+  * [7.3 作業三](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/zuo-ye-san.md)
 * [補充：使用 SASS 實作螢幕寬度區隔](ji-shu-ceng-mian/shi-zuo-shi-yong-sass-shi-zuo-ying-mu-kuan-du-ou-ge.md)
 
 ## 框架 Framework
