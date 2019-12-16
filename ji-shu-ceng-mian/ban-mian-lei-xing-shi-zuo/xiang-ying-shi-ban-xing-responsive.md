@@ -1,6 +1,6 @@
 # 作業二
 
-## 將以下 960px 二欄固定式版型，改成 Responsive
+## 將以下 768px 二欄固定式版型，改成 Responsive
 
 在螢幕 767px 以下\(含\)時，改成 Responsive。
 

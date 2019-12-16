@@ -1,8 +1,8 @@
 # 課程簡介
 
-第一天：學習 RWD 基本概念及相關技術。
+第一、二天：學習 RWD 相關及 Bootstrap。 
 
-第二天：Bootstrap 及專題\(至少一個頁面的 RWD\)、大量練習。
+第三天：QA 及練習。
 
 ## 什麼是 Responsive Web Design？
 
@@ -32,7 +32,7 @@
 
 ### 方式一：直接編輯 Dropbox Paper 文件
 
-需有 Dropbox 帳號來 [編輯文件](https://paper.dropbox.com/doc/DA104-Java-RWD--ApQyhXzKgA0qeuzJUm_2ehVuAQ-bB8WZe8bkJTgFuXegCdHd)，如果沒有 Dropbox 帳號，可以 [Dropbox 註冊](https://db.tt/orEu7RZK) 或使用方式二\(寄 Email\)。
+需有 Dropbox 帳號來 [編輯文件](https://paper.dropbox.com/doc/DD105-RWD--AqeF8l3baktuXenK1ZQAoEzHAQ-SiBkDioNv74kW5Y1GSkAc)，如果沒有 Dropbox 帳號，可以 [Dropbox 註冊](https://db.tt/orEu7RZK) 或使用方式二\(寄 Email\)。
 
 示意：
 
@@ -44,7 +44,7 @@
 
 Email 主旨：
 
-**DA104 RWD T19xxxxx 作業一繳交**
+**DD105 RWD T19xxxxx 作業一繳交**
 
 內容：
 

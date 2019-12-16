@@ -50,13 +50,9 @@ document.addEventListener('DOMContentLoaded', function(){
 
 參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/rNBErJy" %}
-
-
-
 ## 2 套用 hamburger icon 的外掛
 
-指定檔名：hamburger\_icon\_with\_plugin.html
+指定檔名：`hamburger_icon_with_plugin.html`
 
 [官網](https://jonsuh.com/hamburgers/)
 
@@ -82,10 +78,6 @@ $(function(){
 
 
 參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/xvVLyR" %}
-
-
 
 ## 3 導覽列縮合
 
@@ -124,8 +116,6 @@ $(function(){
 
 參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/XvGKQz" %}
-
 
 
 ## 4 三欄式 RWD - 使用 Flexbox
@@ -160,8 +150,6 @@ $(function(){
 ```
 
 參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/MWWJQvQ" %}
 
 
 
@@ -212,8 +200,6 @@ $(function(){
 
 參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/VoEgPd" %}
-
 ## 6 內容圖片佔滿版
 
 指定檔案：`full_width_image.html`
@@ -233,8 +219,6 @@ $(function(){
 {% embed url="https://youtu.be/jQq3ocGodaw" %}
 
 參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/JjjELmR" %}
 
 
 
@@ -265,8 +249,6 @@ $(function(){
 {% embed url="https://youtu.be/Fwd58Kpvrdc" %}
 
 參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/XWWLXWL" %}
 
 
 
@@ -358,8 +340,6 @@ ul.ul_list{
 {% embed url="https://youtu.be/AUN5E3y7eao" %}
 
 參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/QWWdrbX" %}
 
 
 
