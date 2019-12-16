@@ -42,5 +42,5 @@
 * [10. 介紹 ngrok](jie-wei/shi-fan-ngrok.md)
 * [11. 大量練習](jie-wei/bu-chong-fan-li.md)
 * [12. 參考資料](jie-wei/qi-ta.md)
-* [複習](jie-wei/fu-xi.md)
+* [13. 複習](jie-wei/fu-xi.md)
 
