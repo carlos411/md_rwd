@@ -53,7 +53,7 @@
 
 [jQuery 的 Ajax 完整官網資源 http://api.jquery.com/jQuery.ajax/](http://api.jquery.com/jQuery.ajax/)
 
-## jQuery 相關外掛
+## 外掛
 
 * Lazy Loading：[Lozad.js](https://apoorv.pro/lozad.js/demo/)
 * 所見即所得編輯器：[CKEditor](https://ckeditor.com/)
