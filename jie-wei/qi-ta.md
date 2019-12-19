@@ -63,6 +63,11 @@
 * [ScrollMagic](https://scrollmagic.io/)
 * Sprite 效果：[jQuery Sprite](https://blaiprat.github.io/jquery.animateSprite/)
 * 視差滾動：[Skrollr](http://prinzhorn.github.io/skrollr/)
+* 預載圖片：[jPreLoader](https://www.inwebson.com/jquery/jpreloader-a-preloading-screen-to-preload-images/)
+* [CSS3 FullScreen SlideShow](https://tympanus.net/Tutorials/CSS3FullscreenSlideshow/index2.html)
+* [jQuerySwitch Button](http://naeka.github.io/jquery-switchbutton/)
+* [FullPage](https://alvarotrigo.com/fullPage/#page1)
+* [PageFlip](https://alvarotrigo.com/pagePiling/#page1)
 
 ## 其它連結
 
