@@ -376,19 +376,23 @@ ul.ul_list{
 
 為什麼「連結」點不到？
 
-## 12 套用 Font Awesome
+## 參考
+
+### 1 套用 Font Awesome
 
 [官網](https://fontawesome.com/)
 
 [下載範例](http://notes.carlos-studio.com/download/fontawesome_sample.zip)
 
-## 13 練習 3D Transform - 透視\(Perspective\)
+
+
+### 2 練習 3D Transform - 透視\(Perspective\)
 
 {% embed url="https://codepen.io/carlos411/pen/xxxgeEd" %}
 
+### 
 
-
-## 14 練習 3D Transform - 立方體
+### 3 練習 3D Transform - 立方體
 
 {% embed url="https://codepen.io/carlos411/pen/qBBReRX" %}
 
