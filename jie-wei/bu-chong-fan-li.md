@@ -392,7 +392,5 @@ ul.ul_list{
 
 {% embed url="https://codepen.io/carlos411/pen/qBBReRX" %}
 
-## 15 問題：造成不斷地產生 hover 問題
 
-{% embed url="https://codepen.io/carlos411/pen/YzzNmrv" %}
 
