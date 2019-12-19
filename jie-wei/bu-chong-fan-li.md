@@ -343,7 +343,9 @@ ul.ul_list{
 
 
 
-## 9 觀察 background-attachment 在實際手機上的呈現
+## 觀察
+
+### 1 觀察 background-attachment 在實際手機上的呈現
 
 指定檔名：`background_attachment.html`
 
@@ -353,7 +355,7 @@ ul.ul_list{
 
 請將上面的 html 及 css，建立在你自己的頁面上，然後用實際手機上觀察\(記得加上 viewport\)。觀察與桌機版的差異是？\(手機不支援 `background-attachment: fixed;` 的呈現，所以需要另外調整。\)
 
-## 10 觀察 select 標籤在實際手機上的呈現
+### 2 觀察 select 標籤在實際手機上的呈現
 
 可直接在上面的 `background_attachment.html` 檔案中，貼上以下的 select 標籤，用 iOS 手機及 Android 手機觀察介面的不同。
 
@@ -368,7 +370,7 @@ ul.ul_list{
 </select>
 ```
 
-## 11 觀察 z-index 造成的覆蓋情況
+### 3 觀察 z-index 造成的覆蓋情況
 
 以下例子：
 
