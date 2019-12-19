@@ -59,7 +59,8 @@
 * 所見即所得編輯器：[CKEditor](https://ckeditor.com/)
 * Animate on scroll：[AOS](https://michalsnik.github.io/aos/)
 * 圖表工具：[Chart.js](https://www.chartjs.org/)
-
+* 輪播：[slick](https://kenwheeler.github.io/slick/)
+* 
 ## 其它連結
 
 [JSON Parser http://json.parser.online.fr/](http://json.parser.online.fr/)
