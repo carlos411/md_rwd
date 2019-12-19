@@ -61,7 +61,9 @@
 * 圖表工具：[Chart.js](https://www.chartjs.org/)
 * 輪播：[slick](https://kenwheeler.github.io/slick/)
 * [ScrollMagic](https://scrollmagic.io/)
-* 
+* Sprite 效果：[jQuery Sprite](https://blaiprat.github.io/jquery.animateSprite/)
+* 視差滾動：[Skrollr](http://prinzhorn.github.io/skrollr/)
+
 ## 其它連結
 
 [JSON Parser http://json.parser.online.fr/](http://json.parser.online.fr/)
