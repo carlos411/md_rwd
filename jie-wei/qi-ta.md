@@ -60,6 +60,7 @@
 * Animate on scroll：[AOS](https://michalsnik.github.io/aos/)
 * 圖表工具：[Chart.js](https://www.chartjs.org/)
 * 輪播：[slick](https://kenwheeler.github.io/slick/)
+* [ScrollMagic](https://scrollmagic.io/)
 * 
 ## 其它連結
 
