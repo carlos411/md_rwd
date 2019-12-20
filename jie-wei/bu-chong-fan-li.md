@@ -246,6 +246,8 @@ $(function(){
 
 參考作法：
 
+{% embed url="https://codepen.io/carlos411/pen/JjjELmR" %}
+
 
 
 ## 7 區塊場景的滿版
@@ -275,6 +277,8 @@ $(function(){
 {% embed url="https://youtu.be/Fwd58Kpvrdc" %}
 
 參考作法：
+
+{% embed url="https://codepen.io/carlos411/pen/XWWLXWL" %}
 
 
 
@@ -366,6 +370,8 @@ ul.ul_list{
 {% embed url="https://youtu.be/AUN5E3y7eao" %}
 
 參考作法：
+
+{% embed url="https://codepen.io/carlos411/pen/QWWdrbX" %}
 
 
 
