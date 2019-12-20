@@ -50,6 +50,16 @@ document.addEventListener('DOMContentLoaded', function(){
 
 參考作法：
 
+html：
+
+```markup
+<button type="button" class="hamburger_icon">
+  <span class="-hr -top"></span>
+  <span class="-hr -middle"></span>
+  <span class="-hr -bottom"></span>
+</button>
+```
+
 ## 2 套用 hamburger icon 的外掛
 
 指定檔名：`hamburger_icon_with_plugin.html`
