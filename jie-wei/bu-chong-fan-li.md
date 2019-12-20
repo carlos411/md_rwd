@@ -93,6 +93,10 @@ $(function(){
 
 參考作法：
 
+{% embed url="https://codepen.io/carlos411/pen/xvVLyR" %}
+
+
+
 ## 3 導覽列縮合
 
 指定檔名：`nav_switch.html`
@@ -130,6 +134,8 @@ $(function(){
 
 參考作法：
 
+{% embed url="https://codepen.io/carlos411/pen/XvGKQz" %}
+
 
 
 ## 4 三欄式 RWD - 使用 Flexbox
@@ -164,6 +170,8 @@ $(function(){
 ```
 
 參考作法：
+
+{% embed url="https://codepen.io/carlos411/pen/MWWJQvQ" %}
 
 
 
@@ -213,6 +221,10 @@ $(function(){
 ```
 
 參考作法：
+
+{% embed url="https://codepen.io/carlos411/pen/VoEgPd" %}
+
+
 
 ## 6 內容圖片佔滿版
 
