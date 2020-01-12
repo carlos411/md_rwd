@@ -369,15 +369,3 @@ ul.ul_list{
 
 
 
-### 2 練習 3D Transform - 透視\(Perspective\)
-
-{% embed url="https://codepen.io/carlos411/pen/xxxgeEd" %}
-
-### 
-
-### 3 練習 3D Transform - 立方體
-
-{% embed url="https://codepen.io/carlos411/pen/qBBReRX" %}
-
-
-
