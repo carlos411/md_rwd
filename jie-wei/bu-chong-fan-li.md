@@ -175,58 +175,7 @@ $(function(){
 
 
 
-## 5 頁面滑動時，上方置頂區域的隱藏與顯示
-
-指定檔名：`fixed_top_nav.html`
-
-結果示意：
-
-{% embed url="https://www.youtube.com/watch?v=o\_OxCWQH21c" %}
-
-提供最上方置頂的那塊 html：
-
-```markup
-<div class="fixed_top">這是置頂的區域</div>
-```
-
-提供 jQuery ：
-
-```javascript
-var header_active = function(){
-  
-  // 取得使用者滑了多少 px
-  var scroll_top = $(window).scrollTop();
-  
-  // 將 scroll_top 數值放到 p.-pos 內容
-  $("p.-pos").html(scroll_top);
-  
-  
-  if(scroll_top >= 100){
-    $("div.fixed_top").addClass("-on");
-  }else{
-    $("div.fixed_top").removeClass("-on");
-  }
-  
-};
-
-
-$(function(){
-  
-  // 第三步：偵測頁面滑動時會觸發
-  $(window).scroll(function(){
-    header_active();
-  });
-  
-});
-```
-
-參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/VoEgPd" %}
-
-
-
-## 6 內容圖片佔滿版
+## 5 內容圖片佔滿版
 
 指定檔案：`full_width_image.html`
 
@@ -250,7 +199,7 @@ $(function(){
 
 
 
-## 7 區塊場景的滿版
+## 6 區塊場景的滿版
 
 指定檔名：`full_scene.html`
 
@@ -282,7 +231,7 @@ $(function(){
 
 
 
-## 8 有 10 個項目的水平方向排版，及手機上的呈現
+## 7 有 10 個項目的水平方向排版，及手機上的呈現
 
 指定檔名：`ten_items_scroll.html`
 
