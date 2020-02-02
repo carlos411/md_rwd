@@ -6,7 +6,9 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 ```
 
-## 1 介面 hamburger icon
+## 練習
+
+### 1 介面 hamburger icon
 
 指定檔名：`hamburger_icon.html`
 
@@ -64,7 +66,7 @@ html：
 
 
 
-## 2 套用 hamburger icon 的外掛
+### 2 套用 hamburger icon 的外掛
 
 指定檔名：`hamburger_icon_with_plugin.html`
 
@@ -97,7 +99,7 @@ $(function(){
 
 
 
-## 3 導覽列縮合
+### 3 導覽列縮合
 
 指定檔名：`nav_switch.html`
 
@@ -138,7 +140,7 @@ $(function(){
 
 
 
-## 4 三欄式 RWD - 使用 Flexbox
+### 4 三欄式 RWD - 使用 Flexbox
 
 指定檔名：`rwd_with_flexbox.html`
 
@@ -175,7 +177,7 @@ $(function(){
 
 
 
-## 5 內容圖片佔滿版
+### 5 內容圖片佔滿版
 
 指定檔案：`full_width_image.html`
 
@@ -199,7 +201,7 @@ $(function(){
 
 
 
-## 6 區塊場景的滿版
+### 6 區塊場景的滿版
 
 指定檔名：`full_scene.html`
 
@@ -231,7 +233,7 @@ $(function(){
 
 
 
-## 7 有 10 個項目的水平方向排版，及手機上的呈現
+### 7 有 10 個項目的水平方向排版，及手機上的呈現
 
 指定檔名：`ten_items_scroll.html`
 
@@ -323,41 +325,6 @@ ul.ul_list{
 {% embed url="https://codepen.io/carlos411/pen/QWWdrbX" %}
 
 
-
-## 觀察
-
-### 1 觀察 background-attachment 在實際手機上的呈現
-
-指定檔名：`background_attachment.html`
-
-結果示意：
-
-{% embed url="https://codepen.io/carlos411/pen/vYYgjXr" %}
-
-請將上面的 html 及 css，建立在你自己的頁面上，然後用實際手機上觀察\(記得加上 viewport\)。觀察與桌機版的差異是？\(手機不支援 `background-attachment: fixed;` 的呈現，所以需要另外調整。\)
-
-### 2 觀察 select 標籤在實際手機上的呈現
-
-可直接在上面的 `background_attachment.html` 檔案中，貼上以下的 select 標籤，用 iOS 手機及 Android 手機觀察介面的不同。
-
-```markup
-<select>
-  <option>第一項</option>
-  <option>第二項</option>
-  <option>第三項</option>
-  <option>第四項</option>
-  <option>第五項</option>
-  <option>第六項</option>
-</select>
-```
-
-### 3 觀察 z-index 造成的覆蓋情況
-
-以下例子：
-
-{% embed url="https://codepen.io/carlos411/pen/rNNjvzj" %}
-
-為什麼「連結」點不到？
 
 ## 參考
 
