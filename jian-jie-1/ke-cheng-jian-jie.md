@@ -2,7 +2,7 @@
 
 第一、二天：學習 RWD 相關及 Bootstrap。 
 
-第三天：QA 及練習。
+第二天：專題至少一個頁面有 RWD。
 
 ## 什麼是 Responsive Web Design？
 
