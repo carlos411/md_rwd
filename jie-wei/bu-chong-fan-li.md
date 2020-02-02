@@ -62,8 +62,6 @@ html：
 </button>
 ```
 
-{% embed url="https://codepen.io/carlos411/pen/rNBErJy" %}
-
 
 
 ### 2 套用 hamburger icon 的外掛
@@ -94,8 +92,6 @@ $(function(){
 
 
 參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/xvVLyR" %}
 
 
 
@@ -134,9 +130,9 @@ $(function(){
 
 {% embed url="https://youtu.be/8Q7obn9a9hU" %}
 
-參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/XvGKQz" %}
+
+參考作法：
 
 
 
@@ -171,9 +167,9 @@ $(function(){
 </div>
 ```
 
-參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/MWWJQvQ" %}
+
+參考作法：
 
 
 
@@ -195,9 +191,9 @@ $(function(){
 
 {% embed url="https://youtu.be/jQq3ocGodaw" %}
 
-參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/JjjELmR" %}
+
+參考作法：
 
 
 
@@ -227,9 +223,9 @@ $(function(){
 
 {% embed url="https://youtu.be/Fwd58Kpvrdc" %}
 
-參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/XWWLXWL" %}
+
+參考作法：
 
 
 
@@ -320,9 +316,9 @@ ul.ul_list{
 
 {% embed url="https://youtu.be/AUN5E3y7eao" %}
 
-參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/QWWdrbX" %}
+
+參考作法：
 
 
 
