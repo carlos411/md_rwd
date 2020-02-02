@@ -60,13 +60,12 @@ description: 張互賓 Carlos Chang
 
 ## 聯絡方式
 
-張互賓/Carlos
+張互賓/Carlos Chang
 
+* [個人 FB](https://www.facebook.com/hubin)
 * 設計好網站個人部落格：[https://carlos-studio.com](https://carlos-studio.com)
-* 設計好網站粉絲頁：[https://www.facebook.com/webmix.cc​](https://www.facebook.com/webmix.cc​)
-* 公司官網：[http://webmix.cc](http://webmix.cc)
+* 設計好網站粉絲專頁：[https://www.facebook.com/webmix.cc​](https://www.facebook.com/webmix.cc​)
 * Email：chang.abin@gmail.com
-* 直接粉絲頁私訊也行： [https://m.me/webmix.cc](https://m.me/webmix.cc)
 
 希望 讀者/學員 在網站前端的學習領域中，有遇到疑問，可直接與我聯繫，盼能協助各位在這領域上精進。
 
