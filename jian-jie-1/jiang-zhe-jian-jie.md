@@ -24,16 +24,15 @@ description: 張互賓 Carlos Chang
 ### 有 RWD
 
 * [5breakfast 快速買早餐](https://5breakfast.com/) \( 手機瀏覽看看：[https://5breakfast.com/](https://5breakfast.com/) \)
-* [久酒企業](http://99wineandbeer.com/)
 * [臺南市政府圖片資料庫平台](https://p.tainan.gov.tw/)
 
 ### 沒有 RWD
 
 * [台灣雕塑學會](http://www.sculpture.org.tw/) \( 手機瀏覽看看：[http://www.sculpture.org.tw/](http://www.sculpture.org.tw/) \)
+* [王爺水餃子](http://www.wangye99.idv.tw/) \( 手機瀏覽看看：[http://www.wangye99.idv.tw/](http://www.wangye99.idv.tw/) \)
 
 ### 其它：網站前端
 
-* [你知我知好學網](https://uknowiknow.com/)
 * [X Fail 活動](http://xfail.tw)
 * [鉅亨網債劵基金排行](https://fund.cnyes.com/Fixedincome/index.aspx)、[鉅亨網債劵基金搜尋器](https://fund.cnyes.com/Fixedincome/search.aspx)
 * [matchnow 網紅平台](https://matchnow.co)
@@ -51,7 +50,6 @@ description: 張互賓 Carlos Chang
 
 ### 其它：網站架設
 
-* [久酒企業](http://99wineandbeer.com)
 * [王爺水餃子](http://www.wangye99.idv.tw)
 * [雕塑學會](http://sculpture.org.tw)
 * [亞太公私合夥建設發展協會](http://ppp.org.tw)
@@ -61,13 +59,12 @@ description: 張互賓 Carlos Chang
 
 ## 聯絡方式
 
-張互賓/Carlos
+張互賓/Carlos Chang
 
-* 設計好網站個人部落格：[https://carlos-studio.com](https://carlos-studio.com)
-* 設計好網站粉絲頁：[https://www.facebook.com/webmix.cc​](https://www.facebook.com/webmix.cc​)
-* 公司官網：[http://webmix.cc](http://webmix.cc)
+* [個人 FB](https://www.facebook.com/hubin)
+* [設計好網站個人部落格](https://carlos-studio.com/)
+* [設計好網站個人粉絲專頁](https://www.facebook.com/webmix.cc​)
 * Email：chang.abin@gmail.com
-* 直接粉絲頁私訊也行： [https://m.me/webmix.cc](https://m.me/webmix.cc)
 
 希望 讀者/學員 在網站前端的學習領域中，有遇到疑問，可直接與我聯繫，盼能協助各位在這領域上精進。
 
