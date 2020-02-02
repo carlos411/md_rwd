@@ -51,7 +51,6 @@ description: 張互賓 Carlos Chang
 
 ### 其它：網站架設
 
-* [久酒企業](http://99wineandbeer.com)
 * [王爺水餃子](http://www.wangye99.idv.tw)
 * [雕塑學會](http://sculpture.org.tw)
 * [亞太公私合夥建設發展協會](http://ppp.org.tw)
