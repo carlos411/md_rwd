@@ -21,7 +21,3 @@
 
 參考作法
 
-
-
-{% page-ref page="../../jie-wei/shi-fan-ngrok.md" %}
-
