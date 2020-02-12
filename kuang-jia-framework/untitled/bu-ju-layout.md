@@ -48,53 +48,43 @@ div 元素加上 container-fluid 樣式：
 
 請試著改成 md 範圍、lg 範圍、xl 範圍，並觀察。
 
-## 範例 2：欄的順序
-
-在「欄」的地方，加上 `order-*`，指定順序，這是 flexbox 裡的 order 屬性。
-
-例：
-
-{% embed url="https://codepen.io/carlos411/pen/LYVpQZZ" %}
-
-試著用 `order-last`、`order-first`，來分別表示最後、第一個。
-
-## 範例 3：不論任何範圍，各欄寬度自動均分
+## 範例 2：不論任何範圍，各欄寬度自動均分
 
 {% embed url="https://codepen.io/carlos411/pen/wVKJMR" caption="各欄寬度自動均分及使用 w-100 來斷行" %}
 
 也試著將 `container` 改成 `container-fluid` 並觀察。
 
-## 範例 4：不論任何範圍，設定某欄佔幾欄
+## 範例 3：不論任何範圍，設定某欄佔幾欄
 
 {% embed url="https://codepen.io/carlos411/pen/GVpMwo" caption="設定某欄佔幾欄" %}
 
 試著改變所佔的欄數，例如將 `col-5` 改成 `col-8`。\(改成佔8欄\)
 
-## 範例 5：指定特定範圍，由內容決定欄寬
+## 範例 4：指定特定圍圍，由內容決定欄寬
 
 透過 `col-{breakpoint}-auto` 可以將該欄設定成：寬度由內容決定。
 
 {% embed url="https://codepen.io/carlos411/pen/MNaEdX" caption="內容決定欄寬" %}
 
-## 範例 6：分界點練習 - 所有範圍
+## 範例 5：分界點練習 - 所有範圍
 
 {% embed url="https://codepen.io/carlos411/pen/PMZqPr" caption="分界點練習，所有圍範" %}
 
 試著新增一個列\(row\)，不論任何範圍，各佔 3 欄及 7 欄。
 
-## 範例 7：分界點練習 - sm 範圍以上
+## 範例 6：分界點練習 - sm 範圍以上
 
 {% embed url="https://codepen.io/carlos411/pen/QeybgK" caption="分界點練習，sm 範圍以上" %}
 
 試著新增一個列，在 xl 範圍\(1200px 以上\)，兩個欄位，各佔 4 欄及 8 欄。
 
-## 範例 8：分界點練習 - 同時設定所有範圍及 md 範圍以上
+## 範例 7：分界點練習 - 同時設定所有範圍及 md 範圍以上
 
 {% embed url="https://codepen.io/carlos411/pen/EqPjoR" caption="分界點練習，多個範圍一起使用 " %}
 
 試著新增一個列，設定多個範圍併用。
 
-## 範例 9：垂直方向對齊方式 1
+## 範例 8：垂直方向對齊方式 1
 
 在「列」中，加上以下樣式：
 
@@ -106,7 +96,7 @@ div 元素加上 container-fluid 樣式：
 
 瞭解範例8及9的對齊方式。
 
-## 範例 10：垂直方向對齊方式 2
+## 範例 9：垂直方向對齊方式 2
 
 在「欄」中，加上以下樣式：
 
@@ -118,7 +108,7 @@ div 元素加上 container-fluid 樣式：
 
 瞭解範例8及9的對齊方式。
 
-## 範例 11：水平方向對齊方式
+## 範例 10：水平方向對齊方式
 
 在「列」中放入以下樣式：
 
@@ -132,21 +122,21 @@ div 元素加上 container-fluid 樣式：
 
 瞭解水平對齊方式。
 
-## 範例 12：欄的位移
+## 範例 11：欄的位移
 
-語法：offset-{breakpoint}-{number}
+語樣：offset-{breakpoint}-{number}
 
 {% embed url="https://codepen.io/carlos411/pen/VoaKRy" %}
 
 試著新增一列，在 xl 範圍有三個欄位，各佔2、2、2欄，最後一個位移6欄。其它範圍各欄均分。
 
-## 範例 13：將 row 用在其它 div
+## 範例 12：將 row 用在其它 div
 
 關於 margin 負邊界：
 
 {% embed url="https://codepen.io/carlos411/pen/zYYBoxV" %}
 
-將 Bootstrap 的 row\(有負邊界\) 用在其它 div\(需要加上左右 padding\)：
+將 Bootstrap 的 row 用在其它 div：
 
 {% embed url="https://codepen.io/carlos411/pen/YzzPydQ" %}
 

@@ -1,14 +1,6 @@
 # 9.4 內容 Content
 
-## Typography
-
-[官網 - Typography](https://getbootstrap.com/docs/4.4/content/typography/) 提到的部份：
-
-* 標題\(Headings\)
-* 文字行內元素\(Inline text elements\)
-* 縮寫\(Abbreviations\)
-* 引用\(Blockquotes\)
-* 列表\(Lists\)
+比較重要的是表格\(table\)。
 
 ## 範例 1：inline code
 
@@ -40,17 +32,74 @@
 
 {% embed url="https://codepen.io/carlos411/pen/OKNbwJ" caption="帶有標題的圖片，使用 figure 元素" %}
 
-## 範例 6：套用 Responsive tables
+## 範例 6：試試套用 Responsive tables
 
-[Bootstrap 官網](https://getbootstrap.com/)
+[Bootstrap 官網](https://getbootstrap.com/)，主導覽：Documentation，次導覽：Content → Tables → Responsive tables，試著套用 Responsive tables。
 
-主導覽：Documentation
+提供 html ，試著用一個 `div.table-responsive` 包住整個 table，然後自行觀察看看：
 
-次導覽：Content → Tables → Responsive tables，試著套用 Responsive tables。
-
-參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/ZEzNNRE" %}
-
-
+```markup
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Heading</th>
+      <th scope="col">Heading</th>
+      <th scope="col">Heading</th>
+      <th scope="col">Heading</th>
+      <th scope="col">Heading</th>
+      <th scope="col">Heading</th>
+      <th scope="col">Heading</th>
+      <th scope="col">Heading</th>
+      <th scope="col">Heading</th>
+      <th scope="col">Heading</th>
+      <th scope="col">Heading</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+      <td>Cell</td>
+    </tr>
+  </tbody>
+</table>
+```
 
