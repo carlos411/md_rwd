@@ -21,6 +21,34 @@
 </nav>
 ```
 
+改寫成如下\(加上 my\_breadcrumb 樣式\)：
+
+```markup
+<nav aria-label="breadcrumb" class="my_breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="#">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Library</li>
+  </ol>
+</nav>
+```
+
+css：
+
+```css
+nav.my_breadcrumb ol.breadcrumb{
+  background-color: black;
+}
+nav.my_breadcrumb ol.breadcrumb .breadcrumb-item > a{
+  color: red;
+}
+nav.my_breadcrumb ol.breadcrumb .breadcrumb-item.active{
+  color: white;
+}
+nav.my_breadcrumb ol.breadcrumb .breadcrumb-item+.breadcrumb-item::before{
+  color: green;
+}
+```
+
 ## 建立一個頁面
 
 建立檔名：`bootstrap_grid_and_components.html`
