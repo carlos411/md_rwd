@@ -10,6 +10,8 @@
 
 請練習使用 Breadcrumb、Dropdowns、Forms、Input Group、Pagination、Popover、Tooltips 等。學會抄 Bootstrap 所提供的各種介面。
 
+## 改寫元件基本樣式
+
 改寫樣式的基本原則：不要去改變原來 bootstrap 的原始碼，而是透過覆寫的方式，也就是加上自己的樣式\(class\)，然後觀察。以麵包屑為例：
 
 ```markup
@@ -21,7 +23,7 @@
 </nav>
 ```
 
-改寫成如下\(加上 my\_breadcrumb 樣式\)：
+改寫成如下\(加上 `my_breadcrumb` 樣式\)：
 
 ```markup
 <nav aria-label="breadcrumb" class="my_breadcrumb">
@@ -48,6 +50,12 @@ nav.my_breadcrumb ol.breadcrumb .breadcrumb-item+.breadcrumb-item::before{
   color: green;
 }
 ```
+
+例：
+
+{% embed url="https://codepen.io/carlos411/pen/zYGvowv" %}
+
+
 
 ## 建立一個頁面
 
