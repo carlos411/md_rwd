@@ -146,7 +146,7 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/zYYBoxV" %}
 
-將 Bootstrap 的 row 用在其它 div：
+將 Bootstrap 的 row\(有負邊界\) 用在其它 div\(需要加上左右 padding\)：
 
 {% embed url="https://codepen.io/carlos411/pen/YzzPydQ" %}
 
