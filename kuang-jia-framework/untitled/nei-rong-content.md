@@ -111,7 +111,3 @@
 </table>
 ```
 
-{% embed url="https://codepen.io/carlos411/pen/ZEzNNRE" %}
-
-
-
