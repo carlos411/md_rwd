@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
 參考作法：
 
-提供 html：
+html：
 
 ```markup
 <button type="button" class="hamburger_icon">
