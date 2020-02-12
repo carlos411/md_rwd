@@ -134,7 +134,7 @@ div 元素加上 container-fluid 樣式：
 
 ## 範例 12：欄的位移
 
-語樣：offset-{breakpoint}-{number}
+語法：offset-{breakpoint}-{number}
 
 {% embed url="https://codepen.io/carlos411/pen/VoaKRy" %}
 
