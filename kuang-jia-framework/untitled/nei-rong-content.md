@@ -1,8 +1,6 @@
 # 9.4 內容 Content
 
-## Typography
-
-[官網 - Typography](https://getbootstrap.com/docs/4.4/content/typography/) 提到的部份：
+比較重要的是表格\(table\)。
 
 ## 範例 1：inline code
 
