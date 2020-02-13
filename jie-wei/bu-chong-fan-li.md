@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
 參考作法：
 
-提供 html：
+html：
 
 ```markup
 <button type="button" class="hamburger_icon">
@@ -319,16 +319,6 @@ ul.ul_list{
 
 
 參考作法：
-
-
-
-
-
-### 8 Modal
-
-{% embed url="https://codepen.io/carlos411/pen/wvwYKXN" %}
-
-
 
 
 
