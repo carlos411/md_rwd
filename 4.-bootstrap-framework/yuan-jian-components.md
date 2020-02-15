@@ -8,7 +8,10 @@
 
 {% embed url="https://codepen.io/carlos411/pen/WVwObR" caption="已經載入 Bootstrap 的範本" %}
 
-請練習使用 Breadcrumb、Dropdowns、Forms、Input Group、Pagination、Popover、Tooltips 等。學會抄 Bootstrap 所提供的各種介面。
+* Navbar
+* Scrollspy
+* Modal
+* Popovers
 
 ## 改寫元件基本樣式
 
