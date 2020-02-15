@@ -1,4 +1,4 @@
-# 7.2 作業二
+# 5.2 作業二
 
 ## 將以下 768px 二欄固定式版型，改成 Responsive
 
@@ -8,9 +8,11 @@
 
 改完如下圖：
 
-![&#x4E8C;&#x6B04;&#x5F0F;&#x56FA;&#x5B9A;&#x7248;&#x578B;&#x6539;&#x6210; Responsive](../../.gitbook/assets/er-lan-shi-gu-ding-ban-xing-gai-cheng-responsive.png)
+![&#x4E8C;&#x6B04;&#x5F0F;&#x56FA;&#x5B9A;&#x7248;&#x578B;&#x6539;&#x6210; Responsive](../.gitbook/assets/er-lan-shi-gu-ding-ban-xing-gai-cheng-responsive.png)
 
-參考作法
+
+
+參考作法：
 
 
 
