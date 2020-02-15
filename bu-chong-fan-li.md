@@ -324,14 +324,6 @@ ul.ul_list{
 
 
 
-### 8 Modal
-
-{% embed url="https://codepen.io/carlos411/pen/wvwYKXN" %}
-
-
-
-
-
 ## 參考
 
 ### 1 套用 Font Awesome
