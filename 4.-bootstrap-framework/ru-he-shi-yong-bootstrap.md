@@ -4,7 +4,7 @@
 
 進到 [下載頁面](https://getbootstrap.com/docs/4.4/getting-started/download/)，如下圖，點選 Download，如下圖：
 
-![&#x5716;&#x4E00;&#xFF1A;&#x4E0B;&#x8F09; Bootstrap](../../.gitbook/assets/bootstrap_download_hint.png)
+![&#x5716;&#x4E00;&#xFF1A;&#x4E0B;&#x8F09; Bootstrap](../.gitbook/assets/bootstrap_download_hint.png)
 
 下載之後，找到以下兩個檔案，網頁載入：
 
@@ -50,7 +50,7 @@ This doesn’t include documentation, source files, or any **optional JavaScript
 
 ## 方式二：直接使用 CDN
 
-![&#x5716;&#x4E8C;&#xFF1A;Bootstrap CDN](../../.gitbook/assets/bootstrap_download_cdn_hint.png)
+![&#x5716;&#x4E8C;&#xFF1A;Bootstrap CDN](../.gitbook/assets/bootstrap_download_cdn_hint.png)
 
 將上圖 CDN 所提供的路徑載入，如下原始碼：
 
@@ -81,7 +81,7 @@ This doesn’t include documentation, source files, or any **optional JavaScript
 
 步驟 Settings → CSS → JS → Save & Close，如下圖：
 
-![&#x5716;&#x4E00;&#xFF1A;&#x8F09;&#x5165; Bootstrap CSS](../../.gitbook/assets/zai-ru-bootstrapcss.png)
+![&#x5716;&#x4E00;&#xFF1A;&#x8F09;&#x5165; Bootstrap CSS](../.gitbook/assets/zai-ru-bootstrapcss.png)
 
-![&#x5716;&#x4E8C;&#xFF1A;&#x8F09;&#x5165; Bootstrap &#x76F8;&#x95DC;&#x7684; JS](../../.gitbook/assets/zai-ru-bootstrap-xiang-guan-js.png)
+![&#x5716;&#x4E8C;&#xFF1A;&#x8F09;&#x5165; Bootstrap &#x76F8;&#x95DC;&#x7684; JS](../.gitbook/assets/zai-ru-bootstrap-xiang-guan-js.png)
 
