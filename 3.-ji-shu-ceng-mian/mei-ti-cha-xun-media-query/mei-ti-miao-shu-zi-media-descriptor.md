@@ -1,4 +1,4 @@
-# 5.2 媒體描述 Media Features
+# 3.1.2 媒體描述 Media Features
 
 ## 範例一：min-width
 

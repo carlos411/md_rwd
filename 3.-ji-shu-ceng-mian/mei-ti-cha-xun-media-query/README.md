@@ -1,4 +1,4 @@
-# 5. 媒體查詢 Media Query
+# 3.1 媒體查詢 Media Query
 
 ## 語法一
 

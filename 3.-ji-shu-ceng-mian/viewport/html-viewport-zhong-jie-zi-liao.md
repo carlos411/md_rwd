@@ -1,4 +1,4 @@
-# 6.2 HTML Viewport 中介資料
+# 3.2.2 HTML Viewport 中介資料
 
 ## **viewport 語法**
 

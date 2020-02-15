@@ -8,21 +8,14 @@
   * [2.1 格線系統 Grid System](2.-she-ji-gai-nian/pei-zhi-ying-mu-kuan-du.md)
   * [2.2 版面概念解析](2.-she-ji-gai-nian/ban-mian-ming-ci-jie-xi.md)
   * [2.3 圖片在螢幕上的模糊現象](2.-she-ji-gai-nian/retina-ying-mu.md)
-
-## 技術層面
-
-* [5. 媒體查詢 Media Query](ji-shu-ceng-mian/mei-ti-cha-xun-media-query/README.md)
-  * [5.1 媒體類型 Media Type](ji-shu-ceng-mian/mei-ti-cha-xun-media-query/mei-ti-lei-xing-media-type.md)
-  * [5.2 媒體描述 Media Features](ji-shu-ceng-mian/mei-ti-cha-xun-media-query/mei-ti-miao-shu-zi-media-descriptor.md)
-* [6. Viewport](ji-shu-ceng-mian/viewport/README.md)
-  * [6.1 Viewport 定義](ji-shu-ceng-mian/viewport/viewport-ding-yi.md)
-  * [6.2 HTML Viewport 中介資料](ji-shu-ceng-mian/viewport/html-viewport-zhong-jie-zi-liao.md)
-  * [6.3 媒體查詢與 viewport](ji-shu-ceng-mian/viewport/mei-ti-cha-xun-yu-viewport.md)
-* [7. Media Query 課堂作業](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/README.md)
-  * [7.1 作業一](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/zuo-ye-yi.md)
-  * [7.2 作業二](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/xiang-ying-shi-ban-xing-responsive.md)
-  * [7.3 作業三](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/zuo-ye-san.md)
-* [8. 補充：使用 SASS 實作螢幕寬度區隔](ji-shu-ceng-mian/shi-zuo-shi-yong-sass-shi-zuo-ying-mu-kuan-du-ou-ge.md)
+* [3. 技術層面](3.-ji-shu-ceng-mian/README.md)
+  * [3.1 媒體查詢 Media Query](3.-ji-shu-ceng-mian/mei-ti-cha-xun-media-query/README.md)
+    * [3.1.1 媒體類型 Media Type](3.-ji-shu-ceng-mian/mei-ti-cha-xun-media-query/mei-ti-lei-xing-media-type.md)
+    * [3.1.2 媒體描述 Media Features](3.-ji-shu-ceng-mian/mei-ti-cha-xun-media-query/mei-ti-miao-shu-zi-media-descriptor.md)
+  * [3.2 Viewport](3.-ji-shu-ceng-mian/viewport/README.md)
+    * [3.2.1 Viewport 定義](3.-ji-shu-ceng-mian/viewport/viewport-ding-yi.md)
+    * [3.2.2 HTML Viewport 中介資料](3.-ji-shu-ceng-mian/viewport/html-viewport-zhong-jie-zi-liao.md)
+    * [3.3.3 媒體查詢與 viewport](3.-ji-shu-ceng-mian/viewport/mei-ti-cha-xun-yu-viewport.md)
 
 ## 框架 Framework
 
@@ -37,6 +30,11 @@
 
 ## 其它 <a id="jie-wei"></a>
 
+* [7. Media Query 課堂作業](jie-wei/ban-mian-lei-xing-shi-zuo/README.md)
+  * [7.1 作業一](jie-wei/ban-mian-lei-xing-shi-zuo/zuo-ye-yi.md)
+  * [7.2 作業二](jie-wei/ban-mian-lei-xing-shi-zuo/xiang-ying-shi-ban-xing-responsive.md)
+  * [7.3 作業三](jie-wei/ban-mian-lei-xing-shi-zuo/zuo-ye-san.md)
+* [8. 補充：使用 SASS 實作螢幕寬度區隔](jie-wei/shi-zuo-shi-yong-sass-shi-zuo-ying-mu-kuan-du-ou-ge.md)
 * [10. 介紹 ngrok](jie-wei/shi-fan-ngrok.md)
 * [11. 大量練習](jie-wei/bu-chong-fan-li.md)
 * [12. 參考資料](jie-wei/qi-ta.md)
