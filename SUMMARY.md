@@ -4,12 +4,10 @@
 * [1. 簡介](jian-jie-1/README.md)
   * [1.1 講者簡介](jian-jie-1/jiang-zhe-jian-jie.md)
   * [1.2 課程簡介](jian-jie-1/ke-cheng-jian-jie.md)
-
-## 設計概念 <a id="she-ji-gai-nian-typography"></a>
-
-* [2. 格線系統 Grid System](she-ji-gai-nian-typography/pei-zhi-ying-mu-kuan-du.md)
-* [3. 版面概念解析](she-ji-gai-nian-typography/ban-mian-ming-ci-jie-xi.md)
-* [4. 圖片在 Retina 螢幕上的呈現](she-ji-gai-nian-typography/retina-ying-mu.md)
+* [2. 設計概念](2.-she-ji-gai-nian/README.md)
+  * [2.1 格線系統 Grid System](2.-she-ji-gai-nian/pei-zhi-ying-mu-kuan-du.md)
+  * [2.2 版面概念解析](2.-she-ji-gai-nian/ban-mian-ming-ci-jie-xi.md)
+  * [2.3 圖片在螢幕上的模糊現象](2.-she-ji-gai-nian/retina-ying-mu.md)
 
 ## 技術層面
 
