@@ -1,9 +1,5 @@
 # 1.2 課程簡介
 
-第一、二天：學習 RWD 相關及 初步瞭解 Bootstrap。 
-
-第二天：學習 Bootstrap 及專題至少一個頁面有 RWD。
-
 ## 什麼是 Responsive Web Design？
 
 又稱做 **RWD**，中譯：響應式設計。  
