@@ -24,5 +24,14 @@
 * [Sublime](https://www.sublimetext.com/)
 * [VS Code](https://code.visualstudio.com/)
 
+## 瀏覽器
+
+* [Chrome](https://www.google.com/intl/zh-TW/chrome/)
+* [Firefox](https://www.mozilla.org/zh-TW/firefox/new/)
+* Safari
+* [Edge](https://www.microsoft.com/en-us/edge) \(也有 Mac 版的了\)
+* IE11
+* [Opera](https://www.opera.com/zh-tw)
+
 
 
