@@ -28,6 +28,7 @@
   * [5.1 作業一](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/zuo-ye-yi.md)
   * [5.2 作業二](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/xiang-ying-shi-ban-xing-responsive.md)
   * [5.3 作業三](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/zuo-ye-san.md)
+  * [5.4 作業繳交方式](ban-mian-lei-xing-shi-zuo/5.4-zuo-ye-jiao-jiao-fang-shi.md)
 * [6. 大量練習](jie-wei/bu-chong-fan-li.md)
 * [7. 其它](7.-qi-ta/README.md)
   * [7.1 補充：使用 SASS 實作螢幕寬度區隔](ji-shu-ceng-mian/shi-zuo-shi-yong-sass-shi-zuo-ying-mu-kuan-du-ou-ge.md)
