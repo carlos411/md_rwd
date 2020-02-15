@@ -26,7 +26,7 @@
   * [4.7 練習套用 Examples](kuang-jia-framework/untitled/lian-xi-tao-shang-fan-ben-pricing.md)
 * [5. Media Query 課堂作業](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/README.md)
   * [5.1 作業一](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/zuo-ye-yi.md)
-  * [5.2 作業二](ban-mian-lei-xing-shi-zuo/xiang-ying-shi-ban-xing-responsive.md)
+  * [5.2 作業二](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/xiang-ying-shi-ban-xing-responsive.md)
   * [5.3 作業三](ji-shu-ceng-mian/ban-mian-lei-xing-shi-zuo/zuo-ye-san.md)
   * [5.4 作業繳交方式](ban-mian-lei-xing-shi-zuo/5.4-zuo-ye-jiao-jiao-fang-shi.md)
 * [6. 大量練習](jie-wei/bu-chong-fan-li.md)
