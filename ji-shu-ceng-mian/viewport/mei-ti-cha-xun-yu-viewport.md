@@ -1,4 +1,4 @@
-# 3.2.3 媒體查詢與 viewport
+# 6.3 媒體查詢與 viewport
 
 ## 使用 Media Query 將固定式版型改成 RWD
 
@@ -26,5 +26,5 @@
 
 ## 學習使用 ngrok
 
-{% page-ref page="../../7.-qi-ta/shi-fan-ngrok.md" %}
+{% page-ref page="../../jie-wei/shi-fan-ngrok.md" %}
 
