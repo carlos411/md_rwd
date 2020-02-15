@@ -1,11 +1,15 @@
 # 1.2 課程簡介
 
+第一、二天：學習 RWD 相關及 初步瞭解 Bootstrap。 
+
+第二天：學習 Bootstrap 及專題至少一個頁面有 RWD。
+
 ## 什麼是 Responsive Web Design？
 
 又稱做 **RWD**，中譯：響應式設計。  
 不論任何裝置：桌上型電腦、平板、手機都有著不同的螢幕大小。為了解決在同一份網頁面對這些設備，有不同的版面情況、使用情境，因此 RWD 誕生。一切都是為了提供使用者有更好的使用體驗\(User Experience\)：**易讀性**、**操控性**。
 
-思維：在一個 **HTML** 頁面，撰寫 **CSS**，透過**媒體查詢\( Media Query \)**，在面對不同的螢幕寬度時，都能正常呈現且維持良好的體驗。
+技術思維：在一個 **HTML** 頁面，使用同一份 **CSS**，在不同的裝置呈現時，都能正常呈現且維持良好的體驗。
 
 ## 誰該學習這門課程？
 
@@ -24,14 +28,25 @@
 * [Sublime](https://www.sublimetext.com/)
 * [VS Code](https://code.visualstudio.com/)
 
-## 瀏覽器
+## 作業繳交方式
 
-* [Chrome](https://www.google.com/intl/zh-TW/chrome/)
-* [Firefox](https://www.mozilla.org/zh-TW/firefox/new/)
-* Safari
-* [Edge](https://www.microsoft.com/en-us/edge) \(也有 Mac 版的了\)
-* IE11
-* [Opera](https://www.opera.com/zh-tw)
+### 方式一：直接編輯 Dropbox Paper 文件
 
+需有 Dropbox 帳號來 [編輯文件](https://paper.dropbox.com/doc/DA105-Java-RWD--AtjBlzPur0BBFecsQSzS5XyYAQ-dVjYsLkXRi9uDMKg9JOvG)，如果沒有 Dropbox 帳號，可以 [Dropbox 註冊](https://db.tt/orEu7RZK) 或使用方式二\(寄 Email\)。
 
+示意：
+
+![&#x4F5C;&#x696D;&#x7E73;&#x4EA4;&#x8ACB;&#x4F9D;&#x7167;&#x8868;&#x683C;&#x5167;&#x7684;&#x683C;&#x5F0F;](../.gitbook/assets/zuo-ye-jiao-jiao-shi-yi.png)
+
+### 方式二：寄 email
+
+請按照以下格式寄出 email 至 **chang.abin@gmail.com**
+
+Email 主旨：
+
+**DA105 RWD T19xxxxx 作業一繳交**
+
+內容：
+
+**作業連結：\(Code Pen 網址\)**
 
