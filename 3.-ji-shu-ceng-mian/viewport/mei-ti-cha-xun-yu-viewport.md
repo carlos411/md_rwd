@@ -26,5 +26,5 @@
 
 ## 學習使用 ngrok
 
-{% page-ref page="../../jie-wei/shi-fan-ngrok.md" %}
+{% page-ref page="../../7.-qi-ta/shi-fan-ngrok.md" %}
 
