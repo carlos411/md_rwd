@@ -31,6 +31,6 @@
 * [6. 大量練習](jie-wei/bu-chong-fan-li.md)
 * [7. 其它](7.-qi-ta/README.md)
   * [7.1 補充：使用 SASS 實作螢幕寬度區隔](ji-shu-ceng-mian/shi-zuo-shi-yong-sass-shi-zuo-ying-mu-kuan-du-ou-ge.md)
-  * [7.2 介紹 ngrok](7.-qi-ta/shi-fan-ngrok.md)
+  * [7.2 介紹 ngrok](jie-wei/shi-fan-ngrok.md)
   * [7.3 參考資料](jie-wei/qi-ta.md)
 
