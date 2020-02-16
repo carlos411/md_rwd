@@ -12,7 +12,7 @@
 
 ## 結論
 
-只要做 RWD 的頁面，只要在 html 的 `<head>` 區段中，加上以下的 meta 標籤即可，完全不用改：
+做 RWD 的頁面，就在 html 的 `<head>` 區段中，加上以下的 meta 標籤即可，完全不用改：
 
 ```markup
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
