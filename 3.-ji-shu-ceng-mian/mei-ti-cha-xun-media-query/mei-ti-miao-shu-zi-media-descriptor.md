@@ -1,4 +1,4 @@
-# 5.2 媒體描述 Media Features
+# 3.1.2 媒體描述 Media Features
 
 ## 範例一：min-width
 
@@ -110,4 +110,25 @@ orientation 可以設定當手持裝置是橫向或縱向時，需要套用的 C
 ```
 
 {% embed url="https://codepen.io/carlos411/pen/RXbWQd" caption="示範 Media Query 的 orientation" %}
+
+## 範例六：aspect-ratio、min-aspect-ratio、max-aspect-ratio
+
+
+
+## 範例七：限定 iPhone 11
+
+* device-width
+* device-height
+* -webkit-device-pixel-ratio
+
+```css
+p{
+  color: red;
+}
+@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) {
+  p{
+    color: blue;
+  }
+}
+```
 
