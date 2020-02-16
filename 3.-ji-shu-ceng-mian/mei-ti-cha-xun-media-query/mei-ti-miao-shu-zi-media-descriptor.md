@@ -1,6 +1,6 @@
 # 3.1.2 媒體描述 Media Features
 
-## 範例一：min-width
+## 範例 1：min-width
 
 當螢幕寬度大於等於 768px 時，連結`<a>` 的文字顏色會變成紅色。
 
@@ -30,7 +30,7 @@
 
 
 
-## 範例二：max-width
+## 範例 2：max-width
 
 當螢幕寬度小於等於 767px 時，連結`<a>` 的文字顏色會變成綠色。
 
@@ -48,7 +48,7 @@
 
 
 
-## 範例三：結合 min-width 與 max-width
+## 範例 3：結合 min-width 與 max-width
 
 當螢幕寬度大於等於 768px 且小於等於 992px 時，連結`<a>` 的文字顏色會變成橘色。
 
@@ -66,7 +66,7 @@
 
 
 
-## 範例四：結合 Media Type
+## 範例 4：結合 Media Type
 
 當是螢幕時，螢幕寬度大於等於 768px 且小於等於 992px 時，連結`<a>` 的文字顏色會變成紅色。
 
@@ -84,7 +84,15 @@
 
 
 
-## 範例五：orientation
+## 範例 5：Media Query 的「或」
+
+以半型逗號做分隔。
+
+{% embed url="https://codepen.io/carlos411/pen/XWbdaNz" %}
+
+
+
+## 範例 6：orientation
 
 orientation 可以設定當手持裝置是橫向或縱向時，需要套用的 CSS，可以設定的值有：
 
@@ -111,7 +119,7 @@ orientation 可以設定當手持裝置是橫向或縱向時，需要套用的 C
 
 {% embed url="https://codepen.io/carlos411/pen/RXbWQd" caption="示範 Media Query 的 orientation" %}
 
-## 範例六：aspect-ratio、min-aspect-ratio、max-aspect-ratio
+## 範例 7：aspect-ratio、min-aspect-ratio、max-aspect-ratio
 
 假設以我的螢幕為例：510 x 510：
 
@@ -167,7 +175,7 @@ p{
 }
 ```
 
-## 範例七：限定 iPhone 11
+## 範例 8：限定 iPhone 11
 
 [iPhone 11 Viewport](https://yesviz.com/devices/iphone-11/)
 
