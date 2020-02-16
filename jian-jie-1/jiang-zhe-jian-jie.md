@@ -56,6 +56,7 @@ description: 張互賓 Carlos Chang
 * [長風文教基金會](http://fairwindsfoundation.org)
 * [矽谷創業家協會](https://sveat.org)
 * [臺南市政府圖片資料庫平台](https://p.tainan.gov.tw/)
+* [團購導購地圖\(舊版過時\)](http://notes.carlos-studio.com/55555map/map.php)
 
 ## 聯絡方式
 

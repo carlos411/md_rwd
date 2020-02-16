@@ -1,12 +1,12 @@
-# 6.3 媒體查詢與 viewport
+# 3.3 實際裝置瀏覽
 
-## 使用 Media Query 將固定式版型改成 RWD
+## 下載範例原始碼或任何本機端頁面
 
 請[下載這份已經做好的「固定式版型」轉成「響應式版型」的頁面](http://notes.carlos-studio.com/download/rwd_fixed_layout_to_rwd.zip)。
 
 在 767px 以下時，會變成如下圖：
 
-![](../../.gitbook/assets/fixed_size_to_rwd.png)
+![](../.gitbook/assets/fixed_size_to_rwd.png)
 
 用編輯器開啟 `rwd_fixed_layout_to_rwd` 這個專案資料夾，並開啟 index.html 原始碼：有以下兩個重點
 
@@ -24,7 +24,7 @@
 
 接下來請確認可以使用 `http://127.0.0.1` 或 `http://localhost` 等本機端方式來瀏覽頁面。
 
-## 學習使用 ngrok
+## 透過 ngrok 實際用手機瀏覽本機端網站
 
-{% page-ref page="../../jie-wei/shi-fan-ngrok.md" %}
+{% page-ref page="../7.-qi-ta/shi-fan-ngrok.md" %}
 

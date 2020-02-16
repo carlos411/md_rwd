@@ -1,4 +1,4 @@
-# 9.7 練習套用 Examples
+# 4.7 練習套用 Examples
 
 [下載已安裝好 Bootstrap 的資料夾範例](http://notes.carlos-studio.com/download/bootstrap_installed_sample.zip)
 

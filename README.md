@@ -6,5 +6,5 @@
 
 或 QR Code：
 
-![Responsive Web Design &#x6559;&#x6750;](.gitbook/assets/qrcode_rwd_tutorial.png)
+![Responsive Web Design](.gitbook/assets/qrcode_rwd_tutorial.png)
 
