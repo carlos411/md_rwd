@@ -1,6 +1,6 @@
-# 5.2 媒體描述 Media Features
+# 3.1.2 媒體描述 Media Features
 
-## 範例一：min-width
+## 範例 1：min-width
 
 當螢幕寬度大於等於 768px 時，連結`<a>` 的文字顏色會變成紅色。
 
@@ -30,7 +30,7 @@
 
 
 
-## 範例二：max-width
+## 範例 2：max-width
 
 當螢幕寬度小於等於 767px 時，連結`<a>` 的文字顏色會變成綠色。
 
@@ -48,7 +48,7 @@
 
 
 
-## 範例三：結合 min-width 與 max-width
+## 範例 3：結合 min-width 與 max-width
 
 當螢幕寬度大於等於 768px 且小於等於 992px 時，連結`<a>` 的文字顏色會變成橘色。
 
@@ -66,7 +66,7 @@
 
 
 
-## 範例四：結合 Media Type
+## 範例 4：結合 Media Type
 
 當是螢幕時，螢幕寬度大於等於 768px 且小於等於 992px 時，連結`<a>` 的文字顏色會變成紅色。
 
@@ -84,7 +84,23 @@
 
 
 
-## 範例五：orientation
+## 範例 5：Media Query 的「或」
+
+以半型逗號做分隔。
+
+```css
+@media screen and (min-width: 1200px), screen and (max-width: 767px){
+  p{
+    color: blue;
+  }
+}
+```
+
+{% embed url="https://codepen.io/carlos411/pen/XWbdaNz" %}
+
+
+
+## 範例 6：orientation
 
 orientation 可以設定當手持裝置是橫向或縱向時，需要套用的 CSS，可以設定的值有：
 
@@ -110,4 +126,85 @@ orientation 可以設定當手持裝置是橫向或縱向時，需要套用的 C
 ```
 
 {% embed url="https://codepen.io/carlos411/pen/RXbWQd" caption="示範 Media Query 的 orientation" %}
+
+## 範例 7：aspect-ratio、min-aspect-ratio、max-aspect-ratio
+
+假設以我的螢幕為例：510 x 510：
+
+螢幕寬高相同：
+
+```css
+p{
+  color: red;
+}
+@media screen and (aspect-ratio: 1/1){
+  p{
+    color: blue;
+  }
+}
+```
+
+螢幕寬度大於等於螢幕高度：
+
+```css
+p{
+  color: red;
+}
+@media screen and (min-aspect-ratio: 1/1){
+  p{
+    color: blue;
+  }
+}
+```
+
+螢幕寬度小於等於螢幕高度：
+
+```css
+p{
+  color: red;
+}
+@media screen and (max-aspect-ratio: 1/1){
+  p{
+    color: blue;
+  }
+}
+```
+
+自訂任意比例：
+
+```css
+p{
+  color: red;
+}
+@media screen and (max-aspect-ratio: 1440/457){
+  p{
+    color: blue;
+  }
+}
+```
+
+## 範例 8：限定 iPhone 11
+
+[iPhone 11 Viewport](https://yesviz.com/devices/iphone-11/)
+
+* device-width
+* device-height
+* -webkit-device-pixel-ratio
+
+```css
+p{
+  color: red;
+}
+@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) {
+  p{
+    color: blue;
+  }
+}
+```
+
+用手機瀏覽看看：
+
+[http://notes.carlos-studio.com/iphone11\_media\_query.html](http://notes.carlos-studio.com/iphone11_media_query.html)
+
+
 
