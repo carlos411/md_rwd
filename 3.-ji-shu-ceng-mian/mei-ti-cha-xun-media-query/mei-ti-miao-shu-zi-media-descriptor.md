@@ -113,7 +113,57 @@ orientation 可以設定當手持裝置是橫向或縱向時，需要套用的 C
 
 ## 範例六：aspect-ratio、min-aspect-ratio、max-aspect-ratio
 
+正方形：
 
+```css
+p{
+  color: red;
+}
+@media screen and (aspect-ratio: 1/1){
+  p{
+    color: blue;
+  }
+}
+```
+
+螢幕寬度大於螢幕高度：
+
+```css
+p{
+  color: red;
+}
+@media screen and (min-aspect-ratio: 1/1){
+  p{
+    color: blue;
+  }
+}
+```
+
+螢幕寬度小於螢幕高度：
+
+```css
+p{
+  color: red;
+}
+@media screen and (max-aspect-ratio: 1/1){
+  p{
+    color: blue;
+  }
+}
+```
+
+自訂：
+
+```css
+p{
+  color: red;
+}
+@media screen and (max-aspect-ratio: 1440/457){
+  p{
+    color: blue;
+  }
+}
+```
 
 ## 範例七：限定 iPhone 11
 
