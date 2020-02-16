@@ -1,4 +1,4 @@
-# 6.3 媒體查詢與 viewport
+# 3.2.3 媒體查詢與 viewport
 
 ## 使用 Media Query 將固定式版型改成 RWD
 
@@ -24,7 +24,7 @@
 
 接下來請確認可以使用 `http://127.0.0.1` 或 `http://localhost` 等本機端方式來瀏覽頁面。
 
-## 學習使用 ngrok
+## 透過 ngrok 實際用手機瀏覽本機端網站
 
-{% page-ref page="../../jie-wei/shi-fan-ngrok.md" %}
+{% page-ref page="../../7.-qi-ta/shi-fan-ngrok.md" %}
 
