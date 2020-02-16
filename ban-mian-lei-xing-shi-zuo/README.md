@@ -1,2 +1,2 @@
-# 5. Media Query 課堂作業
+# 5. Media Query 作業
 
