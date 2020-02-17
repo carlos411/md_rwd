@@ -1,4 +1,4 @@
-# 11. 大量練習
+# 6. 大量練習
 
 以下有些會用到一點點 jQuery，直接提供 jQuery 載入的 CDN：\(請放在 body 結束標籤之前\)
 
@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
 參考作法：
 
-html：
+提供 html：
 
 ```markup
 <button type="button" class="hamburger_icon">
@@ -319,6 +319,8 @@ ul.ul_list{
 
 
 參考作法：
+
+
 
 
 

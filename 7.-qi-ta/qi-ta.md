@@ -1,4 +1,4 @@
-# 12. 參考資料
+# 7.3 參考資料
 
 * [RWD 相關主題文章\(Responsive Web Design Is…\)](https://responsivedesign.is)
 * [亂數產生器](http://lab.25sprout.com/nrprnd/)
@@ -86,7 +86,7 @@
 * 後端：[PHP](https://www.php.net/)、[Node.js](https://nodejs.org/en/)
   * php 框架：[Laravel](https://laravel.com/)
   * Node.js 框架：[Express](https://expressjs.com/)
-* 作業系統：Windows、[CentOS](https://centos.org/)
+* 作業系統：MacOS、[CentOS](https://centos.org/)
 * 資料庫：[MySQL](https://www.mysql.com/)、[MariaDB](https://mariadb.org/)、[Redis](https://redis.io/)、[MongoDB](https://www.mongodb.com/)
 * 版本控管：[Git](https://git-scm.com/) \(介面工具：[Sourcetree](https://www.sourcetreeapp.com/)\)
 * 佈署維運：[AWS](https://aws.amazon.com/tw/)、[DigitalOcean](https://m.do.co/c/094511cac7d9)、[Google Cloud](https://cloud.google.com/)
