@@ -9,9 +9,19 @@
 {% embed url="https://codepen.io/carlos411/pen/WVwObR" caption="已經載入 Bootstrap 的範本" %}
 
 * Navbar
-* Modal
 * Popovers
 * Scrollspy
+
+### Popovers
+
+### Scrollspy
+
+* 加上 position: relative;
+* 加上高度、overflow-y: scroll;
+
+{% embed url="https://codepen.io/carlos411/pen/PoqNvoN" %}
+
+
 
 ## 改寫元件基本樣式
 
