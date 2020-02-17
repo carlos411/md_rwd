@@ -140,7 +140,15 @@ div 元素加上 container-fluid 樣式：
 
 試著新增一列，在 xl 範圍有三個欄位，各佔2、2、2欄，最後一個位移6欄。其它範圍各欄均分。
 
-## 範例 13：將 row 用在其它 div
+## 範例 13：巢狀式
+
+在 column 裡面的部份，也可以再放 row 來切版面。
+
+{% embed url="https://codepen.io/carlos411/pen/xxGVMjK" %}
+
+
+
+## 範例 14：將 row 用在其它 div
 
 關於 margin 負邊界：
 
