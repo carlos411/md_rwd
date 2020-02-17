@@ -1,4 +1,4 @@
-# 9.5 元件 Components
+# 4.5 元件 Components
 
 於 Bootstrap 上[瀏覽所有元件](https://getbootstrap.com/docs/4.4/components/alerts/)。
 
@@ -8,7 +8,10 @@
 
 {% embed url="https://codepen.io/carlos411/pen/WVwObR" caption="已經載入 Bootstrap 的範本" %}
 
-請練習使用 Breadcrumb、Dropdowns、Forms、Input Group、Pagination、Popover、Tooltips 等。學會抄 Bootstrap 所提供的各種介面。
+* Navbar
+* Modal
+* Popovers
+* Scrollspy
 
 ## 改寫元件基本樣式
 
@@ -57,7 +60,7 @@ nav.my_breadcrumb ol.breadcrumb .breadcrumb-item+.breadcrumb-item::before{
 
 
 
-## 建立一個頁面
+## 練習：建立一個頁面
 
 建立檔名：`bootstrap_grid_and_components.html`
 
@@ -72,10 +75,6 @@ nav.my_breadcrumb ol.breadcrumb .breadcrumb-item+.breadcrumb-item::before{
 {% embed url="https://youtu.be/bMuqlCOrIi0" %}
 
 參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/OJJMXbV" %}
-
-
 
 
 
