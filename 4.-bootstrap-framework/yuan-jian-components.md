@@ -8,16 +8,20 @@
 
 {% embed url="https://codepen.io/carlos411/pen/WVwObR" caption="已經載入 Bootstrap 的範本" %}
 
-* Navbar
-* Popovers
-* Scrollspy
+### 
 
 ### Popovers
 
+* 觸發： `$('[data-toggle="popover"]').popover();`
+
+{% embed url="https://codepen.io/carlos411/pen/GRJZapo" %}
+
+
+
 ### Scrollspy
 
-* 加上 position: relative;
-* 加上高度、overflow-y: scroll;
+* 加上 `position: relative;`
+* 加上 `height`、`overflow-y: scroll;`
 
 {% embed url="https://codepen.io/carlos411/pen/PoqNvoN" %}
 
