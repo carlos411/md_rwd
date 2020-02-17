@@ -1,4 +1,4 @@
-# 5.1 作業一
+# 7.1 作業一
 
 ## 依螢幕寬度區隔，設定某區塊的 Media Query
 
@@ -15,7 +15,9 @@
 
 
 
+[作業繳交方式](https://docs.webmix.cc/responsive-web-design/jian-jie-1/ke-cheng-jian-jie#zuo-ye-jiao-jiao-fang-shi)
 
 
-參考作法：
+
+參考作法
 

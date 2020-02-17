@@ -159,6 +159,8 @@ div 元素加上 container-fluid 樣式：
 
 ## Grid 練習1
 
+指定檔名：`grid_1.html`
+
 建立一個 div.container 元素：
 
 * 裡面的一個列，分成三個內容區塊，每個內容區塊在 md 範圍以上佔四欄，在 md 圍範以下，每個內容區塊都佔 12 欄。
@@ -170,7 +172,11 @@ div 元素加上 container-fluid 樣式：
 
 參考作法：
 
+
+
 ## Grid 練習2
+
+指定檔名：`grid_2.html`
 
 暫時性的假圖參考：[picsum](https://picsum.photos/)。
 

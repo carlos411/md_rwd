@@ -1,4 +1,4 @@
-# 4.6 工具 Utilities
+# 9.6 工具 Utilities
 
 官方 [Utilities 頁面](https://getbootstrap.com/docs/4.4/utilities/borders/)
 
@@ -27,7 +27,7 @@
 
 ## Display 中的 元素隱藏與否
 
-![](../.gitbook/assets/display_hide.png)
+![](../../.gitbook/assets/display_hide.png)
 
 例：.d-lg-none .d-xl-block
 
@@ -45,7 +45,7 @@ lg 的範圍是992px 以上，所以 992px 以上都會隱藏；
 
 實際案例\( [5breakfast](https://5breakfast.com/) \)：
 
-![](../.gitbook/assets/dao-dian-qu-can-jiu-shi-kuai-tu-shi.png)
+![](../../.gitbook/assets/dao-dian-qu-can-jiu-shi-kuai-tu-shi.png)
 
 
 
