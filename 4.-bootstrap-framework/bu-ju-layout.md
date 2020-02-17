@@ -142,7 +142,7 @@ div 元素加上 container-fluid 樣式：
 
 ## 範例 13：巢狀式
 
-在 column 裡面的部份，也可以再放 row 來切版面。
+在 column 裡面的部份，也可以再放 row 來切 12 欄。
 
 {% embed url="https://codepen.io/carlos411/pen/xxGVMjK" %}
 
