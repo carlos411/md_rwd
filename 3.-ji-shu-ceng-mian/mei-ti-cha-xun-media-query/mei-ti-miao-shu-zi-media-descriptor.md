@@ -50,10 +50,10 @@
 
 ## 範例 3：結合 min-width 與 max-width
 
-當螢幕寬度大於等於 768px 且小於等於 992px 時，連結`<a>` 的文字顏色會變成橘色。
+當螢幕寬度大於等於 768px 且小於等於 991px 時，連結`<a>` 的文字顏色會變成橘色。
 
 ```css
-@media (min-width: 768px) and (max-width: 992px){
+@media (min-width: 768px) and (max-width: 991px){
   a{
     color: orange;
   }
