@@ -1,8 +1,8 @@
-# 9.3 佈局 Layout
+# 4.3 佈局 Layout
 
 ## 格線系統
 
-![&#x5716;&#x4E00;&#xFF1A;Bootstrap &#x7684;&#x683C;&#x7DDA;&#x7CFB;&#x7D71;](../../.gitbook/assets/bootstrap_grid_options.png)
+![&#x5716;&#x4E00;&#xFF1A;Bootstrap &#x7684;&#x683C;&#x7DDA;&#x7CFB;&#x7D71;](../.gitbook/assets/bootstrap_grid_options.png)
 
 記得以下這幾個版面的分界點：
 
@@ -38,7 +38,7 @@ div 元素加上 container-fluid 樣式：
 
 從 4.4.1 版本開始，多了以下規範：
 
-![](../../.gitbook/assets/bootstrap_container_breakpoint.png)
+![](../.gitbook/assets/bootstrap_container_breakpoint.png)
 
 範例[觀察](https://getbootstrap.com/docs/4.4/examples/grid/#containers)。
 
@@ -48,43 +48,53 @@ div 元素加上 container-fluid 樣式：
 
 請試著改成 md 範圍、lg 範圍、xl 範圍，並觀察。
 
-## 範例 2：不論任何範圍，各欄寬度自動均分
+## 範例 2：欄的順序
+
+在「欄」的地方，加上 `order-*`，指定順序，這是 flexbox 裡的 order 屬性。
+
+例：
+
+{% embed url="https://codepen.io/carlos411/pen/LYVpQZZ" %}
+
+試著用 `order-last`、`order-first`，來分別表示最後、第一個。
+
+## 範例 3：不論任何範圍，各欄寬度自動均分
 
 {% embed url="https://codepen.io/carlos411/pen/wVKJMR" caption="各欄寬度自動均分及使用 w-100 來斷行" %}
 
 也試著將 `container` 改成 `container-fluid` 並觀察。
 
-## 範例 3：不論任何範圍，設定某欄佔幾欄
+## 範例 4：不論任何範圍，設定某欄佔幾欄
 
 {% embed url="https://codepen.io/carlos411/pen/GVpMwo" caption="設定某欄佔幾欄" %}
 
 試著改變所佔的欄數，例如將 `col-5` 改成 `col-8`。\(改成佔8欄\)
 
-## 範例 4：指定特定圍圍，由內容決定欄寬
+## 範例 5：指定特定範圍，由內容決定欄寬
 
 透過 `col-{breakpoint}-auto` 可以將該欄設定成：寬度由內容決定。
 
 {% embed url="https://codepen.io/carlos411/pen/MNaEdX" caption="內容決定欄寬" %}
 
-## 範例 5：分界點練習 - 所有範圍
+## 範例 6：分界點練習 - 所有範圍
 
 {% embed url="https://codepen.io/carlos411/pen/PMZqPr" caption="分界點練習，所有圍範" %}
 
 試著新增一個列\(row\)，不論任何範圍，各佔 3 欄及 7 欄。
 
-## 範例 6：分界點練習 - sm 範圍以上
+## 範例 7：分界點練習 - sm 範圍以上
 
 {% embed url="https://codepen.io/carlos411/pen/QeybgK" caption="分界點練習，sm 範圍以上" %}
 
 試著新增一個列，在 xl 範圍\(1200px 以上\)，兩個欄位，各佔 4 欄及 8 欄。
 
-## 範例 7：分界點練習 - 同時設定所有範圍及 md 範圍以上
+## 範例 8：分界點練習 - 同時設定所有範圍及 md 範圍以上
 
 {% embed url="https://codepen.io/carlos411/pen/EqPjoR" caption="分界點練習，多個範圍一起使用 " %}
 
 試著新增一個列，設定多個範圍併用。
 
-## 範例 8：垂直方向對齊方式 1
+## 範例 9：垂直方向對齊方式 1
 
 在「列」中，加上以下樣式：
 
@@ -96,7 +106,7 @@ div 元素加上 container-fluid 樣式：
 
 瞭解範例8及9的對齊方式。
 
-## 範例 9：垂直方向對齊方式 2
+## 範例 10：垂直方向對齊方式 2
 
 在「欄」中，加上以下樣式：
 
@@ -108,7 +118,7 @@ div 元素加上 container-fluid 樣式：
 
 瞭解範例8及9的對齊方式。
 
-## 範例 10：水平方向對齊方式
+## 範例 11：水平方向對齊方式
 
 在「列」中放入以下樣式：
 
@@ -122,21 +132,29 @@ div 元素加上 container-fluid 樣式：
 
 瞭解水平對齊方式。
 
-## 範例 11：欄的位移
+## 範例 12：欄的位移
 
-語樣：offset-{breakpoint}-{number}
+語法：offset-{breakpoint}-{number}
 
 {% embed url="https://codepen.io/carlos411/pen/VoaKRy" %}
 
 試著新增一列，在 xl 範圍有三個欄位，各佔2、2、2欄，最後一個位移6欄。其它範圍各欄均分。
 
-## 範例 12：將 row 用在其它 div
+## 範例 13：巢狀式
+
+在 column 裡面的部份，也可以再放 row 來切 12 欄。
+
+{% embed url="https://codepen.io/carlos411/pen/xxGVMjK" %}
+
+
+
+## 範例 14：將 row 用在其它 div
 
 關於 margin 負邊界：
 
 {% embed url="https://codepen.io/carlos411/pen/zYYBoxV" %}
 
-將 Bootstrap 的 row 用在其它 div：
+將 Bootstrap 的 row\(有負邊界\) 用在其它 div\(需要加上左右 padding\)：
 
 {% embed url="https://codepen.io/carlos411/pen/YzzPydQ" %}
 
@@ -148,6 +166,8 @@ div 元素加上 container-fluid 樣式：
 * 包住 div.row 的父層 div，設定 `padding-left: 15px`、`padding-right: 15px` 即可。
 
 ## Grid 練習1
+
+指定檔名：`grid_1.html`
 
 建立一個 div.container 元素：
 
@@ -164,11 +184,13 @@ div 元素加上 container-fluid 樣式：
 
 ## Grid 練習2
 
+指定檔名：`grid_2.html`
+
 暫時性的假圖參考：[picsum](https://picsum.photos/)。
 
 建立第一個 div.container 元素：
 
-* 裡面的一個列，兩個內容區塊，不管在任何螢幕區間，各佔 6 欄，且內容區塊都是正方形。左側區塊放一張佔滿的背景圖，右側區塊輸入簡短的標題。
+* 裡面的一個列，兩個內容區塊，不管在任何螢幕區間，各佔 6 欄。左側區塊\(設定正方形區域\)放一張佔滿的背景圖，右側區塊輸入簡短的標題。
 
 緊接著再建立一個 div.container-fluid 元素：
 
@@ -176,15 +198,13 @@ div 元素加上 container-fluid 樣式：
 
 緊接著再建立一個 div.container 元素：
 
-* 裡面的一個列，兩個內容區塊，不管在任何螢幕區間，各佔 6 欄，且內容區塊都是正方形。左側區塊輸入簡短的標題，右側區塊放一張佔滿的背景圖。
+* 裡面的一個列，兩個內容區塊，不管在任何螢幕區間，各佔 6 欄。左側區塊輸入簡短的標題，右側區塊\(設定正方形區域\)放一張佔滿的背景圖。
 
 結果示意：
 
 {% embed url="https://youtu.be/TKfSvneIchI" %}
 
 參考作法：
-
-
 
 
 
