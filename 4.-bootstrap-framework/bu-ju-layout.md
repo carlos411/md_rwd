@@ -104,7 +104,7 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/mNPrVw" caption="垂直方向對齊方式1" %}
 
-瞭解範例8及9的對齊方式。
+瞭解範例 9 及 10 的對齊方式。
 
 ## 範例 10：垂直方向對齊方式 2
 
@@ -116,7 +116,7 @@ div 元素加上 container-fluid 樣式：
 
 {% embed url="https://codepen.io/carlos411/pen/rXeMwN" caption="垂直方向對齊方式2" %}
 
-瞭解範例8及9的對齊方式。
+瞭解範例 9 及 10 的對齊方式。
 
 ## 範例 11：水平方向對齊方式
 
