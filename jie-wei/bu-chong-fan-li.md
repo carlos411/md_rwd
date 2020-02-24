@@ -1,4 +1,4 @@
-# 6. 大量練習
+# 11. 大量練習
 
 以下有些會用到一點點 jQuery，直接提供 jQuery 載入的 CDN：\(請放在 body 結束標籤之前\)
 
@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
 參考作法：
 
-提供 html：
+html：
 
 ```markup
 <button type="button" class="hamburger_icon">
@@ -322,8 +322,6 @@ ul.ul_list{
 
 
 
-
-
 ## 參考
 
 ### 1 套用 Font Awesome
@@ -331,24 +329,6 @@ ul.ul_list{
 [官網](https://fontawesome.com/)
 
 [下載範例](http://notes.carlos-studio.com/download/fontawesome_sample.zip)
-
-
-
-## 同學的問題
-
-{% embed url="https://codepen.io/carlos411/pen/yLNaEvp" %}
-
-
-
-{% embed url="https://codepen.io/carlos411/pen/oNXYyOR" %}
-
-
-
-{% embed url="https://codepen.io/carlos411/pen/poJNNwP" %}
-
-
-
-{% embed url="https://codepen.io/carlos411/pen/NWqRKew" %}
 
 
 
