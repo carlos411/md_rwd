@@ -360,21 +360,3 @@ ul.ul_list{
 
 
 
-## 同學的問題
-
-{% embed url="https://codepen.io/carlos411/pen/yLNaEvp" %}
-
-
-
-{% embed url="https://codepen.io/carlos411/pen/oNXYyOR" %}
-
-
-
-{% embed url="https://codepen.io/carlos411/pen/poJNNwP" %}
-
-
-
-{% embed url="https://codepen.io/carlos411/pen/NWqRKew" %}
-
-
-
