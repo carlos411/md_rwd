@@ -20,8 +20,8 @@
 
 ### Scrollspy
 
-* 加上 `position: relative;`
-* 加上 `height`、`overflow-y: scroll;`
+* 在 **`div.spy_content`** 加上 `position: relative;`
+* 在 **`div.spy_content`** 加上 `height`、`overflow-y: scroll;`
 
 {% embed url="https://codepen.io/carlos411/pen/PoqNvoN" %}
 
