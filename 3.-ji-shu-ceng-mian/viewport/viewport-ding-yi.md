@@ -1,9 +1,9 @@
-# 6.1 Viewport 定義
+# 3.2.1 Viewport 定義
 
 ## 結論
 
 * 桌機：瀏覽器中頁面的可視區域。
-* 手機：每個手機的 viewport 都不一樣\([例：iphone11 的 viewport 是 414 x 896](https://yesviz.com/devices/iphone-11/)\)，對我們網頁來設不太有意義，用不到，我們需要做的是將頁面寬度設定成等於設備寬；以及瞭解目前最小看到的 viewport 寬，還是有到 320。
+* 手機：每個手機的 viewport 都不一樣\([例：iphone11 的 viewport 是 414 x 896](https://yesviz.com/devices/iphone-11/)\)，對我們網頁來說不太有意義，用不太到，我們需要做的是將頁面寬度設定成「等於」設備寬；以及瞭解目前最小看到的 viewport 寬，還是有到 320px。
 
 ## 原文說明
 

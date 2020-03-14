@@ -1,4 +1,4 @@
-# 9.4 內容 Content
+# 4.4 內容 Content
 
 比較重要的是表格\(table\)。
 
@@ -20,7 +20,11 @@
 
 {% embed url="https://codepen.io/carlos411/pen/ZgWBJL" caption="圖片 img-thumbnail 及 rounded" %}
 
-## 範例 4：基本表格
+## 範例 4：帶有標題的圖片，使用 figure 元素
+
+{% embed url="https://codepen.io/carlos411/pen/OKNbwJ" caption="帶有標題的圖片，使用 figure 元素" %}
+
+## 範例 5：基本表格
 
 `.table`：基本表格樣式。
 
@@ -28,15 +32,11 @@
 
 {% embed url="https://codepen.io/carlos411/pen/xvVRpY" caption="基本表格" %}
 
-## 範例 5：帶有標題的圖片，使用 figure 元素
-
-{% embed url="https://codepen.io/carlos411/pen/OKNbwJ" caption="帶有標題的圖片，使用 figure 元素" %}
-
-## 範例 6：試試套用 Responsive tables
+## 範例 6：Responsive tables
 
 [Bootstrap 官網](https://getbootstrap.com/)，主導覽：Documentation，次導覽：Content → Tables → Responsive tables，試著套用 Responsive tables。
 
-提供 html ，試著用一個 `div.table-responsive` 包住整個 table，然後自行觀察看看：
+提供 html ，試著用一個 `div.table-responsive` 包住整個 table，然後觀察看看：
 
 ```markup
 <table class="table">
@@ -102,4 +102,10 @@
   </tbody>
 </table>
 ```
+
+例：
+
+{% embed url="https://codepen.io/carlos411/pen/ZEzNNRE" %}
+
+
 
