@@ -25,6 +25,7 @@ description: 張互賓 Carlos Chang
 
 * [5breakfast 快速買早餐](https://5breakfast.com/) \( 手機瀏覽看看：[https://5breakfast.com/](https://5breakfast.com/) \)
 * [臺南市政府圖片資料庫平台](https://p.tainan.gov.tw/)
+* [好學網](https://www.sharelearn.com.tw/)
 
 ### 沒有 RWD
 
