@@ -129,9 +129,7 @@ orientation 可以設定當手持裝置是橫向或縱向時，需要套用的 C
 
 ## 範例 7：aspect-ratio、min-aspect-ratio、max-aspect-ratio
 
-假設以我的螢幕為例：510 x 510：
-
-螢幕寬高相同：
+假設螢幕為 → `600 x 600`，也就是螢幕寬高相同：
 
 ```css
 p{
