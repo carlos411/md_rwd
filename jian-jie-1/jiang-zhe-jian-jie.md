@@ -64,7 +64,6 @@ description: 張互賓 Carlos Chang
 張互賓/Carlos Chang
 
 * [個人 FB](https://www.facebook.com/hubin)
-* [設計好網站個人部落格](https://carlos-studio.com/)
 * [設計好網站個人粉絲專頁](https://www.facebook.com/webmix.cc​)
 * Email：chang.abin@gmail.com
 
