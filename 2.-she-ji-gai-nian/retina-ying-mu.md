@@ -39,5 +39,20 @@ A. [未來請關注 picture 標籤的支援](https://www.w3schools.com/tags/tag_
 </picture>
 ```
 
+將以下的原始碼，貼到你的編輯器，然後用瀏覽器開啟觀察看看：
+
+```markup
+<picture>
+  <source srcset="http://notes.carlos-studio.com/images/test_text@2x.png 2x, http://notes.carlos-studio.com/images/test_text.png 1x">
+  <img src="https://alldata.sgp1.digitaloceanspaces.com/images/apple.png">
+</picture>
+
+<img src="http://notes.carlos-studio.com/images/test_text@2x.png">
+```
+
+結果如下圖：
+
+![](../.gitbook/assets/picture_tag.png)
+
 
 
