@@ -20,11 +20,11 @@
 
 Mac 使用「終端機\(Terminal\)」；Windows 使用「命令提示字元」。
 
-例如：ngrok 所在位置： `/home/ngrok`，ngrok 是一個檔案，如下圖：
+假設：ngrok 所在的位置： `/home/ngrok`，ngrok 是一個檔案，如下圖：
 
 ![&#x5716;&#x4E8C;&#xFF1A;ngrok &#x6A94;&#x6848;](../.gitbook/assets/ngrok-dang-an.png)
 
-然後執行以下指令：
+然後執行以下指令：\(如果是 windows，直接點擊兩下 ngrok 檔案即可\)
 
 ```bash
 $ cd /home
