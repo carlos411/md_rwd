@@ -39,7 +39,7 @@ A. [未來請關注 picture 標籤的支援](https://www.w3schools.com/tags/tag_
 </picture>
 ```
 
-將以下的原始碼，貼到你的編輯器，然後用瀏覽器開啟觀察看看：
+將以下的原始碼，貼到你的編輯器，然後用瀏覽器開啟觀察看看：\(此例不能貼到 codepen，會失效。\)
 
 ```markup
 <picture>
