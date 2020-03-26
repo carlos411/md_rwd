@@ -204,10 +204,6 @@ div 元素加上 container-fluid 樣式：
 
 參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/gOOwzKp" %}
-
-
-
 ## Grid 練習2
 
 指定檔名：`grid_2.html`
@@ -231,8 +227,4 @@ div 元素加上 container-fluid 樣式：
 {% embed url="https://youtu.be/TKfSvneIchI" %}
 
 參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/YzzGLbz" %}
-
-
 
