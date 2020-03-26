@@ -90,9 +90,5 @@ nav.my_breadcrumb ol.breadcrumb .breadcrumb-item+.breadcrumb-item::before{
 
 參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/OJJMXbV" %}
-
-
-
 
 
