@@ -97,9 +97,9 @@
 
 ![&#x57FA;&#x672C;&#x7DB2;&#x7AD9;&#x4E0A;&#x7DDA;&#x6D41;&#x7A0B;](../.gitbook/assets/web_process.png)
 
+## 切版示範
 
-
-{% embed url="https://codepen.io/carlos411/pen/MWwGLXe" %}
+{% embed url="https://codepen.io/carlos411/pen/GRJwXNz" %}
 
 
 
