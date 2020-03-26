@@ -12,9 +12,5 @@
 
 參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/OKVQrm" %}
-
-
-
 
 

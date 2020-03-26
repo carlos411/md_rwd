@@ -1,12 +1,18 @@
 # 4.4 內容 Content
 
-## 範例 1：Responsive images
+比較重要的是表格\(table\)。
+
+## 範例 1：inline code
+
+{% embed url="https://codepen.io/carlos411/pen/YmqpPL" caption="inline code" %}
+
+## 範例 2：Responsive images
 
 `.img-fluid`：圖片最大寬度設定為 100%。
 
 {% embed url="https://codepen.io/carlos411/pen/jgqVWE" caption="圖片 img-fluid" %}
 
-## 範例 2：圖片加上外圍邊框及圓角
+## 範例 3：圖片加上外圍邊框及圓角
 
 `.img-thumbnail`：為圖片加上外圍邊框的樣式。
 
@@ -14,7 +20,11 @@
 
 {% embed url="https://codepen.io/carlos411/pen/ZgWBJL" caption="圖片 img-thumbnail 及 rounded" %}
 
-## 範例 3：基本表格
+## 範例 4：帶有標題的圖片，使用 figure 元素
+
+{% embed url="https://codepen.io/carlos411/pen/OKNbwJ" caption="帶有標題的圖片，使用 figure 元素" %}
+
+## 範例 5：基本表格
 
 `.table`：基本表格樣式。
 
@@ -22,7 +32,7 @@
 
 {% embed url="https://codepen.io/carlos411/pen/xvVRpY" caption="基本表格" %}
 
-## 範例 4：Responsive tables
+## 範例 6：Responsive tables
 
 [Bootstrap 官網](https://getbootstrap.com/)，主導覽：Documentation，次導覽：Content → Tables → Responsive tables，試著套用 Responsive tables。
 
