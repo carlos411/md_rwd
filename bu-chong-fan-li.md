@@ -64,8 +64,6 @@ document.addEventListener('DOMContentLoaded', function(){
 
 參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/rNBErJy" %}
-
 
 
 ### 2 套用 hamburger icon 的外掛
@@ -96,8 +94,6 @@ $(function(){
 
 
 參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/xvVLyR" %}
 
 
 
@@ -142,10 +138,6 @@ $(function(){
 
 參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/XvGKQz" %}
-
-
-
 
 
 ### 4 三欄式 RWD - 使用 Flexbox
@@ -183,10 +175,6 @@ $(function(){
 
 參考作法：
 
-{% embed url="https://codepen.io/carlos411/pen/MWWJQvQ" %}
-
-
-
 
 
 ### 5 內容圖片佔滿版
@@ -210,10 +198,6 @@ $(function(){
 
 
 參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/JjjELmR" %}
-
-
 
 
 
@@ -246,10 +230,6 @@ $(function(){
 
 
 參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/XWWLXWL" %}
-
-
 
 
 
@@ -343,10 +323,6 @@ ul.ul_list{
 
 
 參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/QWWdrbX" %}
-
-
 
 
 
