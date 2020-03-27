@@ -193,7 +193,7 @@ p{
 p{
   color: red;
 }
-@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) {
+@media screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) {
   p{
     color: blue;
   }
