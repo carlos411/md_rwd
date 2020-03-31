@@ -163,32 +163,6 @@ div 元素加上 container-fluid 樣式：
 * `.row` 可以運用在任何地方，不一定要放在 `.container` 或 `.container-fluid` 裡面。
 * 包住 div.row 的父層 div，設定 `padding-left: 15px`、`padding-right: 15px` 即可。
 
-
-
-## 範例 15：移除負邊界
-
-官方提供一個 `no-gutter` 樣式，有需要的話，在 `div.row` 上，加上 `no-gutter` 樣式，就會自動加上以下 css：
-
-```css
-.no-gutters {
-  margin-right: 0;
-  margin-left: 0;
-}
-.no-gutters > .col, .no-gutters > [class*="col-"]{
-  padding-right: 0;
-  padding-left: 0;
-}
-```
-
-* 移除 `div.row` 的負邊界。
-* 移除 `div.col` 的 padding。
-
-{% embed url="https://codepen.io/carlos411/pen/zYGmVbZ" %}
-
-
-
-
-
 ## Grid 練習1
 
 指定檔名：`grid_1.html`
