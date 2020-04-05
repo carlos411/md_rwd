@@ -4,11 +4,11 @@
 
 ## Sign-in
 
-進到 [Bootstrap Examples](https://getbootstrap.com/docs/4.4/examples/) 頁面點擊 Sign-in 頁面。練習將此頁面下載下來，存成 `sign-in.html` 檔案。
+進到 [Bootstrap Examples](https://getbootstrap.com/docs/4.4/examples/) 頁面點擊 Sign-in 頁面。練習將此頁面下載下來，建成 `sign-in.html` 檔案。
 
 ## Pricing
 
-進到 [Bootstrap Examples](https://getbootstrap.com/docs/4.4/examples/) 頁面點擊 Pricing 頁面。練習將此頁面下載下來，存成 `pricing.html` 檔案。
+進到 [Bootstrap Examples](https://getbootstrap.com/docs/4.4/examples/) 頁面點擊 Pricing 頁面。練習將此頁面下載下來，建成 `pricing.html` 檔案。
 
 
 

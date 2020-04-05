@@ -326,6 +326,16 @@ ul.ul_list{
 
 
 
+### 8 內容固定在螢幕上，但在其它內容的後方
+
+觀察廣告區塊的介面效果：
+
+{% embed url="https://youtu.be/abtFFCpcw5U" %}
+
+
+
+
+
 
 
 ## 參考
