@@ -24,8 +24,6 @@
 
 ## 範例 4：Responsive tables
 
-[Bootstrap 官網](https://getbootstrap.com/)，主導覽：Documentation，次導覽：Content → Tables → Responsive tables，試著套用 Responsive tables。
-
 以下範例：試著用一個 `div.table-responsive` 包住整個 table，然後觀察看看：
 
 {% embed url="https://codepen.io/carlos411/pen/ZEzNNRE" %}
