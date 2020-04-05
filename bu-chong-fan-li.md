@@ -328,11 +328,38 @@ ul.ul_list{
 
 ### 8 內容固定在螢幕上，但在其它內容的後方
 
+指定檔名：`content_fixed.html`
+
 觀察廣告區塊的介面效果：
 
 {% embed url="https://youtu.be/abtFFCpcw5U" %}
 
+請做出如上廣告區塊的排版效果。
 
+結果示意：
+
+{% embed url="https://youtu.be/jNe2XwPi3uo" %}
+
+
+
+提供 html：
+
+```markup
+<div class="top_block"></div>
+
+<div class="middle_block">
+  <div class="middle_content">
+    <a href="https://tw.yahoo.com" target="_blank">這是連結</a>
+    <img src="https://i.picsum.photos/id/645/500/400.jpg" class="the_img">
+  </div>
+</div>
+
+<div class="bottom_block"></div>
+```
+
+
+
+參考作法：
 
 
 
