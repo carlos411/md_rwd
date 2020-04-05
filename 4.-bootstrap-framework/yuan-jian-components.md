@@ -2,6 +2,8 @@
 
 於 Bootstrap 上[瀏覽所有元件](https://getbootstrap.com/docs/4.4/components/alerts/)。
 
+重要：Forms、Input group、Navbar、Navs。
+
 ## 元件
 
 這裡挑出 Popover 及 Scrollspy 這兩個需要寫一點 JS 來啟動元件。
