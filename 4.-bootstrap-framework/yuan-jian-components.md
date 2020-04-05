@@ -2,13 +2,9 @@
 
 於 Bootstrap 上[瀏覽所有元件](https://getbootstrap.com/docs/4.4/components/alerts/)。
 
-## 已經套用好 Bootstrap 的 codepen
+## 元件
 
-並請在以下 code pen 網址中練習套用各種元件：
-
-{% embed url="https://codepen.io/carlos411/pen/WVwObR" caption="已經載入 Bootstrap 的範本" %}
-
-### 
+這裡挑出 Popover 及 Scrollspy 這兩個需要寫一點 JS 來啟動元件。
 
 ### Popovers
 
@@ -89,10 +85,6 @@ nav.my_breadcrumb ol.breadcrumb .breadcrumb-item+.breadcrumb-item::before{
 {% embed url="https://youtu.be/bMuqlCOrIi0" %}
 
 參考作法：
-
-{% embed url="https://codepen.io/carlos411/pen/OJJMXbV" %}
-
-
 
 
 
