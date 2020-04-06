@@ -64,6 +64,10 @@ document.addEventListener('DOMContentLoaded', function(){
 
 參考作法：
 
+{% embed url="https://codepen.io/carlos411/pen/rNBErJy" %}
+
+
+
 
 
 ### 2 套用 hamburger icon 的外掛
@@ -94,6 +98,8 @@ $(function(){
 
 
 參考作法：
+
+{% embed url="https://codepen.io/carlos411/pen/xvVLyR" %}
 
 
 
@@ -137,6 +143,8 @@ $(function(){
 
 
 參考作法：
+
+{% embed url="https://codepen.io/carlos411/pen/XvGKQz" %}
 
 
 
