@@ -371,6 +371,43 @@ ul.ul_list{
 
 
 
+### 9 次選單淡入淡出
+
+指定檔名：`submenu_fadein_fadeout.html`
+
+結果示意：
+
+{% embed url="https://youtu.be/8KetZGnnLjs" %}
+
+提供 html：
+
+```markup
+<div class="div_block">
+  <p class="para">有次選單</p>
+  <div class="inner_block">
+    <ul>
+      <li>項目一</li>
+      <li>項目二</li>
+      <li>項目三</li>
+    </ul>
+  </div>
+</div>
+
+
+<div>
+  <p>下方內容</p>
+  <img src="https://picsum.photos/seed/picsum/200/300">
+</div>
+```
+
+
+
+參考作法：
+
+
+
+
+
 
 
 ## 參考
