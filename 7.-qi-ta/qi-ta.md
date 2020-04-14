@@ -79,19 +79,18 @@
 
 ## 網站技術
 
-* 前端：HTML、CSS、JavaScript
+* 網站前端：HTML、CSS、JavaScript
   * ​[SASS](https://sass-lang.com/)
   * 做 RWD 前端框架：[Bootstrap](https://getbootstrap.com/)
   * 做元件框架：[Vue](https://vuejs.org/)、[React](https://reactjs.org/)、[Angular](https://angularjs.org/)
   * 編譯相關：[Gulp](https://gulpjs.com/)、[Webpack](https://webpack.js.org/)
   * 測試：[Jest](https://jestjs.io/)、[Mocha](https://mochajs.org/)
-* 後端：[PHP](https://www.php.net/)、[Node.js](https://nodejs.org/en/)
-  * php 框架：[Laravel](https://laravel.com/)
-  * Node.js 框架：[Express](https://expressjs.com/)
+* 網站後端：[PHP](https://www.php.net/) \( 框架： [Laravel](https://laravel.com/) \)、[Node.js](https://nodejs.org/en/) \( 框架： [Express](https://expressjs.com/) \)
 * 作業系統：MacOS、[CentOS](https://centos.org/)
 * 資料庫：[MySQL](https://www.mysql.com/)、[MariaDB](https://mariadb.org/)、[Redis](https://redis.io/)、[MongoDB](https://www.mongodb.com/)
 * 版本控管：[Git](https://git-scm.com/) \(介面工具：[Sourcetree](https://www.sourcetreeapp.com/)\)
-* 佈署維運：[AWS](https://aws.amazon.com/tw/)、[DigitalOcean](https://m.do.co/c/094511cac7d9)、[Google Cloud](https://cloud.google.com/)
+* 使用容器技術佈署：[Docker](https://www.docker.com/)
+* 雲端伺服器平台服務：[AWS](https://aws.amazon.com/tw/)、[DigitalOcean](https://m.do.co/c/094511cac7d9)、[Google Cloud](https://cloud.google.com/)
 
 ## 網站上線
 
