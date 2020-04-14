@@ -85,6 +85,7 @@
   * 做元件框架：[Vue](https://vuejs.org/)、[React](https://reactjs.org/)、[Angular](https://angularjs.org/)
   * 編譯相關：[Gulp](https://gulpjs.com/)、[Webpack](https://webpack.js.org/)
   * 測試：[Jest](https://jestjs.io/)、[Mocha](https://mochajs.org/)
+  * 使用 JS 做 APP：[React Native](https://reactnative.dev/)
 * 網站後端：[PHP](https://www.php.net/) \( 框架： [Laravel](https://laravel.com/) \)、[Node.js](https://nodejs.org/en/) \( 框架： [Express](https://expressjs.com/) \)
 * 作業系統：MacOS、[CentOS](https://centos.org/)
 * 資料庫：[MySQL](https://www.mysql.com/)、[MariaDB](https://mariadb.org/)、[Redis](https://redis.io/)、[MongoDB](https://www.mongodb.com/)
