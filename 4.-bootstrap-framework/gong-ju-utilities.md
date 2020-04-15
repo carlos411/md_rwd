@@ -16,8 +16,8 @@
 
 瀏覽 [Bootstrap 的 Visibility](https://getbootstrap.com/docs/4.4/utilities/visibility/) 相關 class。只有兩個 class。
 
-* visible
-* invisible
+* visible \(等同於自己寫 `visibility: visible;` \)。
+* invisible \(等同於自己寫 `visibility: hidden;` \)。
 
 範例：
 
