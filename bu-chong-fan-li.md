@@ -209,6 +209,8 @@ $(function(){
 
 參考作法：
 
+{% embed url="https://codepen.io/carlos411/pen/JjjELmR" %}
+
 
 
 ### 6 區塊場景的滿版
