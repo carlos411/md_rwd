@@ -418,6 +418,12 @@ img.the_img{
 
 請試著加上一點 CSS 達成效果。
 
+可從這個 codepen 開始實作：
+
+{% embed url="https://codepen.io/carlos411/pen/gOaPWgZ" %}
+
+
+
 參考作法：
 
 
