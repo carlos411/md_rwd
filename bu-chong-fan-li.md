@@ -183,6 +183,8 @@ $(function(){
 
 參考作法：
 
+{% embed url="https://codepen.io/carlos411/pen/MWWJQvQ" %}
+
 
 
 ### 5 內容圖片佔滿版
