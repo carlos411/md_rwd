@@ -340,6 +340,8 @@ ul.ul_list{
 
 參考作法：
 
+{% embed url="https://codepen.io/carlos411/pen/QWWdrbX" %}
+
 
 
 ### 8 內容固定在螢幕上，但在其它內容的後方
