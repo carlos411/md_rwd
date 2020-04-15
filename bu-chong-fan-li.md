@@ -243,6 +243,10 @@ $(function(){
 
 參考作法：
 
+{% embed url="https://codepen.io/carlos411/pen/XWWLXWL" %}
+
+
+
 
 
 ### 7 有 10 個項目的水平方向排版，及手機上的呈現
