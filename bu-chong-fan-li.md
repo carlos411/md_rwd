@@ -377,7 +377,50 @@ ul.ul_list{
 
 註：此種效果建議用在行動版上，且內容不要太多。以免超出整個 100vh 的螢幕高度，以致於看不到內容。
 
+提供部份 CSS：
+
+```css
+* {
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+}
+div.top_block{
+  background-color: blue;
+  height: 200vh;
+  position: relative;
+}
+div.bottom_block{
+  background-color: gray;
+  height: 200vh;
+  position: relative;
+}
+
+
+
+
+
+/* 中間區域 */
+div.middle_block{
+  border: 1px solid orange;
+  height: 100vh;
+}
+div.middle_block div.middle_content{
+  border: 1px solid red;
+  width: 100%;
+  padding: 10px;
+}
+img.the_img{
+  width: 100%;
+}
+```
+
+請試著加上一點 CSS 達成效果。
+
 參考作法：
+
+
 
 
 
@@ -409,51 +452,6 @@ ul.ul_list{
   <img src="https://picsum.photos/seed/picsum/200/300">
 </div>
 ```
-
-
-
-部份 CSS：
-
-```css
-* {
-  box-sizing: border-box;
-}
-body{
-  margin: 0;
-}
-div.top_block{
-  background-color: blue;
-  height: 200vh;
-  position: relative;
-  z-index: 2;
-}
-div.bottom_block{
-  background-color: gray;
-  height: 200vh;
-  position: relative;
-  z-index: 2;
-}
-
-
-
-
-
-/* 中間區域 */
-div.middle_block{
-  border: 1px solid orange;
-  height: 100vh;
-}
-div.middle_block div.middle_content{
-  border: 1px solid red;
-  width: 100%;
-  padding: 10px;
-}
-img.the_img{
-  width: 100%;
-}
-```
-
-請試著加上一點 CSS 達成效果。
 
 
 
