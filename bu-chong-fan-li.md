@@ -455,6 +455,12 @@ img.the_img{
 
 
 
+參考這個 codepen，沒有淡入淡出的方式：
+
+{% embed url="https://codepen.io/carlos411/pen/JjYGYbx" %}
+
+改成淡入淡出。
+
 參考作法：
 
 
