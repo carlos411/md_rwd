@@ -412,6 +412,51 @@ ul.ul_list{
 
 
 
+部份 CSS：
+
+```css
+* {
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+}
+div.top_block{
+  background-color: blue;
+  height: 200vh;
+  position: relative;
+  z-index: 2;
+}
+div.bottom_block{
+  background-color: gray;
+  height: 200vh;
+  position: relative;
+  z-index: 2;
+}
+
+
+
+
+
+/* 中間區域 */
+div.middle_block{
+  border: 1px solid orange;
+  height: 100vh;
+}
+div.middle_block div.middle_content{
+  border: 1px solid red;
+  width: 100%;
+  padding: 10px;
+}
+img.the_img{
+  width: 100%;
+}
+```
+
+請試著加上一點 CSS 達成效果。
+
+
+
 參考作法：
 
 
